@@ -1,0 +1,730 @@
+"","mn","yr","st","typ","SO2","NO2","PM10","SPM"
+"1","Jan","2014","Pritampura","rsd",4,40,154,NA
+"2","Jun","2014","Pritampura","rsd",4,41,232,NA
+"3","Sep","2014","Pritampura","rsd",4,44,402,NA
+"4","Jan","2014","Pritampura","rsd",4,46,291,NA
+"5","Jan","2014","Pritampura","rsd",4,41,289,NA
+"6","Jan","2014","Pritampura","rsd",4,41,192,NA
+"7","Jan","2014","Pritampura","rsd",4,37,280,NA
+"8","Mar","2014","Pritampura","rsd",4,37,326,NA
+"9","Jun","2014","Pritampura","rsd",4,49,297,NA
+"10","Nov","2014","Pritampura","rsd",4,38,246,NA
+"11","Feb","2014","Pritampura","rsd",4,50,115,NA
+"12","Feb","2014","Pritampura","rsd",4,49,263,NA
+"13","Feb","2014","Pritampura","rsd",4,49,197,NA
+"14","Feb","2014","Pritampura","rsd",4,51,254,NA
+"15","May","2014","Pritampura","rsd",4,44,135,NA
+"16","Oct","2014","Pritampura","rsd",4,41,129,NA
+"17","Mar","2014","Pritampura","rsd",4,45,167,NA
+"18","Mar","2014","Pritampura","rsd",4,48,220,NA
+"19","Mar","2014","Pritampura","rsd",4,40,234,NA
+"20","Feb","2014","Pritampura","rsd",4,44,219,NA
+"21","Jul","2014","Pritampura","rsd",4,42,130,NA
+"22","Apr","2014","Pritampura","rsd",4,42,334,NA
+"23","Apr","2014","Pritampura","rsd",4,41,130,NA
+"24","Apr","2014","Pritampura","rsd",4,50,163,NA
+"25","Apr","2014","Pritampura","rsd",4,44,137,NA
+"26","May","2014","Pritampura","rsd",4,45,257,NA
+"27","Aug","2014","Pritampura","rsd",4,39,210,NA
+"28","May","2014","Pritampura","rsd",4,33,146,NA
+"29","May","2014","Pritampura","rsd",4,36,146,NA
+"30","May","2014","Pritampura","rsd",4,43,109,NA
+"31","May","2014","Pritampura","rsd",4,36,206,NA
+"32","Feb","2014","Pritampura","rsd",4,47,198,NA
+"33","May","2014","Pritampura","rsd",4,41,215,NA
+"34","Oct","2014","Pritampura","rsd",4,32,221,NA
+"35","Jun","2014","Pritampura","rsd",4,34,138,NA
+"36","Jun","2014","Pritampura","rsd",4,39,203,NA
+"37","Jun","2014","Pritampura","rsd",4,35,168,NA
+"38","Jun","2014","Pritampura","rsd",4,37,132,NA
+"39","Feb","2014","Pritampura","rsd",4,33,224,NA
+"40","Jul","2014","Pritampura","rsd",4,35,272,NA
+"41","Oct","2014","Pritampura","rsd",4,37,104,NA
+"42","Jul","2014","Pritampura","rsd",4,37,124,NA
+"43","Jul","2014","Pritampura","rsd",4,36,68,NA
+"44","Jul","2014","Pritampura","rsd",4,38,129,NA
+"45","Apr","2014","Pritampura","rsd",4,42,111,NA
+"46","Jul","2014","Pritampura","rsd",4,38,154,NA
+"47","Dec","2014","Pritampura","rsd",4,35,126,NA
+"48","Aug","2014","Pritampura","rsd",4,34,146,NA
+"49","Aug","2014","Pritampura","rsd",4,36,177,NA
+"50","Aug","2014","Pritampura","rsd",4,32,134,NA
+"51","Feb","2014","Pritampura","rsd",4,36,174,NA
+"52","May","2014","Pritampura","rsd",4,39,62,NA
+"53","Oct","2014","Pritampura","rsd",4,41,84,NA
+"54","Sep","2014","Pritampura","rsd",4,37,80,NA
+"55","Sep","2014","Pritampura","rsd",4,36,107,NA
+"56","Sep","2014","Pritampura","rsd",4,38,92,NA
+"57","Sep","2014","Pritampura","rsd",4,35,101,NA
+"58","Jul","2014","Pritampura","rsd",4,32,150,NA
+"59","Oct","2014","Pritampura","rsd",4,37,134,NA
+"60","Oct","2014","Pritampura","rsd",4,45,115,NA
+"61","Oct","2014","Pritampura","rsd",4,48,230,NA
+"62","Oct","2014","Pritampura","rsd",6,82,348,NA
+"63","Oct","2014","Pritampura","rsd",4,44,209,NA
+"64","Oct","2014","Pritampura","rsd",4,41,206,NA
+"65","May","2014","Pritampura","rsd",4,38,210,NA
+"66","Nov","2014","Pritampura","rsd",4,39,236,NA
+"67","Nov","2014","Pritampura","rsd",4,40,192,NA
+"68","Nov","2014","Pritampura","rsd",4,36,247,NA
+"69","Nov","2014","Pritampura","rsd",4,39,215,NA
+"70","Nov","2014","Pritampura","rsd",4,37,420,NA
+"71","Mar","2014","Pritampura","rsd",4,39,225,NA
+"72","Aug","2014","Pritampura","rsd",4,40,189,NA
+"73","Nov","2014","Pritampura","rsd",4,39,228,NA
+"74","Dec","2014","Pritampura","rsd",4,36,229,NA
+"75","Dec","2014","Pritampura","rsd",4,34,382,NA
+"76","Dec","2014","Pritampura","rsd",4,31,309,NA
+"77","Feb","2014","Siri Fort","rsd",4,47,107,NA
+"78","Jul","2014","Siri Fort","rsd",4,45,198,NA
+"79","Oct","2014","Siri Fort","rsd",4,57,318,NA
+"80","Jan","2014","Siri Fort","rsd",4,50,458,NA
+"81","Jan","2014","Siri Fort","rsd",4,26,142,NA
+"82","Jan","2014","Siri Fort","rsd",4,37,179,NA
+"83","Jan","2014","Siri Fort","rsd",4,33,180,NA
+"84","Apr","2014","Siri Fort","rsd",4,46,157,NA
+"85","Jul","2014","Siri Fort","rsd",4,50,226,NA
+"86","Dec","2014","Siri Fort","rsd",4,51,234,NA
+"87","Feb","2014","Siri Fort","rsd",4,52,315,NA
+"88","Feb","2014","Siri Fort","rsd",4,52,328,NA
+"89","Feb","2014","Siri Fort","rsd",4,48,215,NA
+"90","Mar","2014","Siri Fort","rsd",4,46,283,NA
+"91","Jun","2014","Siri Fort","rsd",4,49,184,NA
+"92","Nov","2014","Siri Fort","rsd",4,36,145,NA
+"93","Mar","2014","Siri Fort","rsd",4,48,149,NA
+"94","Mar","2014","Siri Fort","rsd",4,47,156,NA
+"95","Mar","2014","Siri Fort","rsd",4,48,170,NA
+"96","Mar","2014","Siri Fort","rsd",4,56,163,NA
+"97","Mar","2014","Siri Fort","rsd",4,45,147,NA
+"98","Sep","2014","Siri Fort","rsd",4,49,183,NA
+"99","Apr","2014","Siri Fort","rsd",4,42,211,NA
+"100","Apr","2014","Siri Fort","rsd",4,48,241,NA
+"101","Apr","2014","Siri Fort","rsd",4,47,202,NA
+"102","Jan","2014","Siri Fort","rsd",4,35,213,NA
+"103","Jun","2014","Siri Fort","rsd",4,37,243,NA
+"104","Sep","2014","Siri Fort","rsd",4,43,229,NA
+"105","May","2014","Siri Fort","rsd",4,32,204,NA
+"106","May","2014","Siri Fort","rsd",4,30,202,NA
+"107","May","2014","Siri Fort","rsd",4,27,189,NA
+"108","May","2014","Siri Fort","rsd",4,31,NA,NA
+"109","Mar","2014","Siri Fort","rsd",4,36,NA,NA
+"110","Jun","2014","Siri Fort","rsd",4,34,NA,NA
+"111","Nov","2014","Siri Fort","rsd",4,27,190,NA
+"112","Jun","2014","Siri Fort","rsd",4,34,189,NA
+"113","Jun","2014","Siri Fort","rsd",4,35,175,NA
+"114","Jun","2014","Siri Fort","rsd",4,42,149,NA
+"115","Jun","2014","Siri Fort","rsd",4,41,271,NA
+"116","Mar","2014","Siri Fort","rsd",4,23,128,NA
+"117","Aug","2014","Siri Fort","rsd",4,28,183,NA
+"118","Nov","2014","Siri Fort","rsd",4,31,157,NA
+"119","Jul","2014","Siri Fort","rsd",4,30,163,NA
+"120","Jul","2014","Siri Fort","rsd",4,26,108,NA
+"121","Jul","2014","Siri Fort","rsd",4,20,105,NA
+"122","Jul","2014","Siri Fort","rsd",4,36,168,NA
+"123","May","2014","Siri Fort","rsd",4,35,147,NA
+"124","Aug","2014","Siri Fort","rsd",4,39,147,NA
+"125","Aug","2014","Siri Fort","rsd",4,46,141,NA
+"126","Aug","2014","Siri Fort","rsd",4,38,147,NA
+"127","Mar","2014","Siri Fort","rsd",4,23,139,NA
+"128","Aug","2014","Siri Fort","rsd",4,27,NA,NA
+"129","Nov","2014","Siri Fort","rsd",4,22,NA,NA
+"130","Sep","2014","Siri Fort","rsd",4,29,NA,NA
+"131","Sep","2014","Siri Fort","rsd",4,28,129,NA
+"132","Sep","2014","Siri Fort","rsd",4,39,207,NA
+"133","Sep","2014","Siri Fort","rsd",4,43,324,NA
+"134","Aug","2014","Siri Fort","rsd",4,35,266,NA
+"135","Oct","2014","Siri Fort","rsd",4,32,207,NA
+"136","Oct","2014","Siri Fort","rsd",4,43,216,NA
+"137","Oct","2014","Siri Fort","rsd",4,40,159,NA
+"138","Oct","2014","Siri Fort","rsd",4,42,161,NA
+"139","Jul","2014","Siri Fort","rsd",4,52,318,NA
+"140","Dec","2014","Siri Fort","rsd",4,44,240,NA
+"141","Nov","2014","Siri Fort","rsd",4,52,615,NA
+"142","Nov","2014","Siri Fort","rsd",4,42,348,NA
+"143","Nov","2014","Siri Fort","rsd",4,48,187,NA
+"144","Jan","2014","Siri Fort","rsd",4,38,130,NA
+"145","Apr","2014","Siri Fort","rsd",4,39,255,NA
+"146","Sep","2014","Siri Fort","rsd",4,36,218,NA
+"147","Dec","2014","Siri Fort","rsd",4,43,302,NA
+"148","Dec","2014","Siri Fort","rsd",4,45,191,NA
+"149","Dec","2014","Siri Fort","rsd",4,46,224,NA
+"150","Dec","2014","Siri Fort","rsd",4,46,229,NA
+"151","Mar","2014","Janakpuri","rsd",4,54,301,NA
+"152","Aug","2014","Janakpuri","rsd",5,48,354,NA
+"153","Jan","2014","Janakpuri","rsd",4,46,218,NA
+"154","Jan","2014","Janakpuri","rsd",4,27,131,NA
+"155","Jan","2014","Janakpuri","rsd",4,27,119,NA
+"156","Jan","2014","Janakpuri","rsd",4,32,181,NA
+"157","Jan","2014","Janakpuri","rsd",4,35,387,NA
+"158","May","2014","Janakpuri","rsd",4,48,287,NA
+"159","Oct","2014","Janakpuri","rsd",4,49,254,NA
+"160","Feb","2014","Janakpuri","rsd",4,44,270,NA
+"161","Feb","2014","Janakpuri","rsd",4,49,327,NA
+"162","Feb","2014","Janakpuri","rsd",4,51,119,NA
+"163","Feb","2014","Janakpuri","rsd",4,38,273,NA
+"164","Apr","2014","Janakpuri","rsd",4,51,146,NA
+"165","Jul","2014","Janakpuri","rsd",4,51,197,NA
+"166","Dec","2014","Janakpuri","rsd",4,49,94,NA
+"167","Mar","2014","Janakpuri","rsd",4,52,108,NA
+"168","Mar","2014","Janakpuri","rsd",4,56,152,NA
+"169","Mar","2014","Janakpuri","rsd",4,50,104,NA
+"170","Jan","2014","Janakpuri","rsd",4,53,115,NA
+"171","Apr","2014","Janakpuri","rsd",4,40,124,NA
+"172","Nov","2014","Janakpuri","rsd",4,47,183,NA
+"173","Apr","2014","Janakpuri","rsd",4,42,190,NA
+"174","Apr","2014","Janakpuri","rsd",5,59,434,NA
+"175","Apr","2014","Janakpuri","rsd",4,37,165,NA
+"176","Feb","2014","Janakpuri","rsd",4,42,296,NA
+"177","Jul","2014","Janakpuri","rsd",4,42,281,NA
+"178","Dec","2014","Janakpuri","rsd",4,36,246,NA
+"179","May","2014","Janakpuri","rsd",4,43,204,NA
+"180","May","2014","Janakpuri","rsd",4,36,313,NA
+"181","May","2014","Janakpuri","rsd",4,40,238,NA
+"182","May","2014","Janakpuri","rsd",4,37,212,NA
+"183","Apr","2014","Janakpuri","rsd",4,31,NA,NA
+"184","Sep","2014","Janakpuri","rsd",4,38,NA,NA
+"185","Dec","2014","Janakpuri","rsd",4,32,NA,NA
+"186","Jun","2014","Janakpuri","rsd",4,36,163,NA
+"187","Jun","2014","Janakpuri","rsd",4,37,177,NA
+"188","Jun","2014","Janakpuri","rsd",4,37,159,NA
+"189","Jan","2014","Janakpuri","rsd",4,50,239,NA
+"190","Apr","2014","Janakpuri","rsd",4,34,158,NA
+"191","Sep","2014","Janakpuri","rsd",4,42,182,NA
+"192","Jul","2014","Janakpuri","rsd",4,42,112,NA
+"193","Jul","2014","Janakpuri","rsd",4,24,104,NA
+"194","Jul","2014","Janakpuri","rsd",4,42,128,NA
+"195","Jul","2014","Janakpuri","rsd",4,41,159,NA
+"196","Jan","2014","Janakpuri","rsd",4,44,139,NA
+"197","Jun","2014","Janakpuri","rsd",4,45,125,NA
+"198","Nov","2014","Janakpuri","rsd",4,44,93,NA
+"199","Aug","2014","Janakpuri","rsd",4,39,86,NA
+"200","Aug","2014","Janakpuri","rsd",4,45,134,NA
+"201","Aug","2014","Janakpuri","rsd",4,40,152,NA
+"202","Jan","2014","Janakpuri","rsd",4,30,160,NA
+"203","Sep","2014","Janakpuri","rsd",4,32,93,NA
+"204","Dec","2014","Janakpuri","rsd",4,33,130,NA
+"205","Sep","2014","Janakpuri","rsd",4,31,114,NA
+"206","Sep","2014","Janakpuri","rsd",4,39,185,NA
+"207","Sep","2014","Janakpuri","rsd",4,37,199,NA
+"208","Jan","2014","Janakpuri","rsd",4,43,120,NA
+"209","Sep","2014","Janakpuri","rsd",4,37,130,NA
+"210","Oct","2014","Janakpuri","rsd",4,42,152,NA
+"211","Oct","2014","Janakpuri","rsd",4,54,172,NA
+"212","Oct","2014","Janakpuri","rsd",18,92,304,NA
+"213","Oct","2014","Janakpuri","rsd",4,38,161,NA
+"214","Mar","2014","Janakpuri","rsd",4,45,308,NA
+"215","Oct","2014","Janakpuri","rsd",4,44,332,NA
+"216","Nov","2014","Janakpuri","rsd",4,46,206,NA
+"217","Nov","2014","Janakpuri","rsd",4,47,296,NA
+"218","Nov","2014","Janakpuri","rsd",4,53,219,NA
+"219","Nov","2014","Janakpuri","rsd",4,45,231,NA
+"220","Feb","2014","Janakpuri","rsd",4,46,263,NA
+"221","May","2014","Janakpuri","rsd",4,49,235,NA
+"222","Oct","2014","Janakpuri","rsd",4,47,215,NA
+"223","Dec","2014","Janakpuri","rsd",4,42,187,NA
+"224","Dec","2014","Janakpuri","rsd",4,47,311,NA
+"225","Dec","2014","Janakpuri","rsd",4,47,195,NA
+"226","Dec","2014","Janakpuri","rsd",4,41,143,NA
+"227","Jan","2014","Nizamuddin","rsd",4,40,212,NA
+"228","Jun","2014","Nizamuddin","rsd",4,40,190,NA
+"229","Sep","2014","Nizamuddin","rsd",4,67,379,NA
+"230","Jan","2014","Nizamuddin","rsd",5,60,380,NA
+"231","Jan","2014","Nizamuddin","rsd",4,44,222,NA
+"232","Jan","2014","Nizamuddin","rsd",4,40,106,NA
+"233","Jan","2014","Nizamuddin","rsd",4,35,219,NA
+"234","Mar","2014","Nizamuddin","rsd",4,54,279,NA
+"235","Jun","2014","Nizamuddin","rsd",5,50,192,NA
+"236","Nov","2014","Nizamuddin","rsd",4,50,312,NA
+"237","Feb","2014","Nizamuddin","rsd",4,27,194,NA
+"238","Feb","2014","Nizamuddin","rsd",4,49,225,NA
+"239","Feb","2014","Nizamuddin","rsd",4,39,236,NA
+"240","Feb","2014","Nizamuddin","rsd",4,37,194,NA
+"241","May","2014","Nizamuddin","rsd",4,28,171,NA
+"242","Oct","2014","Nizamuddin","rsd",4,29,52,NA
+"243","Mar","2014","Nizamuddin","rsd",4,34,147,NA
+"244","Mar","2014","Nizamuddin","rsd",4,36,133,NA
+"245","Mar","2014","Nizamuddin","rsd",4,33,106,NA
+"246","Mar","2014","Nizamuddin","rsd",4,32,125,NA
+"247","Feb","2014","Nizamuddin","rsd",4,54,113,NA
+"248","Jul","2014","Nizamuddin","rsd",4,37,135,NA
+"249","Apr","2014","Nizamuddin","rsd",4,48,151,NA
+"250","Apr","2014","Nizamuddin","rsd",4,41,152,NA
+"251","Apr","2014","Nizamuddin","rsd",4,59,194,NA
+"252","Apr","2014","Nizamuddin","rsd",4,44,106,NA
+"253","May","2014","Nizamuddin","rsd",4,37,156,NA
+"254","Aug","2014","Nizamuddin","rsd",4,48,339,NA
+"255","May","2014","Nizamuddin","rsd",4,26,138,NA
+"256","May","2014","Nizamuddin","rsd",4,30,175,NA
+"257","May","2014","Nizamuddin","rsd",4,30,138,NA
+"258","May","2014","Nizamuddin","rsd",4,29,175,NA
+"259","Feb","2014","Nizamuddin","rsd",4,27,137,NA
+"260","May","2014","Nizamuddin","rsd",4,27,132,NA
+"261","Oct","2014","Nizamuddin","rsd",4,40,213,NA
+"262","Jun","2014","Nizamuddin","rsd",4,35,145,NA
+"263","Jun","2014","Nizamuddin","rsd",4,35,176,NA
+"264","Jun","2014","Nizamuddin","rsd",4,35,165,NA
+"265","Jun","2014","Nizamuddin","rsd",4,43,157,NA
+"266","Feb","2014","Nizamuddin","rsd",4,41,181,NA
+"267","Jul","2014","Nizamuddin","rsd",4,41,129,NA
+"268","Oct","2014","Nizamuddin","rsd",4,39,234,NA
+"269","Jul","2014","Nizamuddin","rsd",4,36,162,NA
+"270","Jul","2014","Nizamuddin","rsd",4,30,85,NA
+"271","Jul","2014","Nizamuddin","rsd",4,30,153,NA
+"272","Apr","2014","Nizamuddin","rsd",4,47,96,NA
+"273","Jul","2014","Nizamuddin","rsd",4,39,134,NA
+"274","Dec","2014","Nizamuddin","rsd",4,41,143,NA
+"275","Aug","2014","Nizamuddin","rsd",4,46,217,NA
+"276","Aug","2014","Nizamuddin","rsd",4,36,241,NA
+"277","Aug","2014","Nizamuddin","rsd",4,43,165,NA
+"278","Feb","2014","Nizamuddin","rsd",4,32,71,NA
+"279","May","2014","Nizamuddin","rsd",4,26,57,NA
+"280","Oct","2014","Nizamuddin","rsd",4,33,87,NA
+"281","Sep","2014","Nizamuddin","rsd",4,34,77,NA
+"282","Sep","2014","Nizamuddin","rsd",4,29,90,NA
+"283","Sep","2014","Nizamuddin","rsd",4,37,143,NA
+"284","Sep","2014","Nizamuddin","rsd",4,40,121,NA
+"285","Jul","2014","Nizamuddin","rsd",4,44,141,NA
+"286","Oct","2014","Nizamuddin","rsd",4,49,157,NA
+"287","Oct","2014","Nizamuddin","rsd",4,38,83,NA
+"288","Oct","2014","Nizamuddin","rsd",4,56,225,NA
+"289","Oct","2014","Nizamuddin","rsd",4,34,231,NA
+"290","Oct","2014","Nizamuddin","rsd",4,47,175,NA
+"291","May","2014","Nizamuddin","rsd",4,48,205,NA
+"292","Nov","2014","Nizamuddin","rsd",4,54,363,NA
+"293","Nov","2014","Nizamuddin","rsd",4,53,330,NA
+"294","Nov","2014","Nizamuddin","rsd",4,56,481,NA
+"295","Nov","2014","Nizamuddin","rsd",4,45,316,NA
+"296","Nov","2014","Nizamuddin","rsd",4,45,303,NA
+"297","Mar","2014","Nizamuddin","rsd",4,39,263,NA
+"298","Aug","2014","Nizamuddin","rsd",4,45,343,NA
+"299","Nov","2014","Nizamuddin","rsd",4,49,237,NA
+"300","Dec","2014","Nizamuddin","rsd",4,41,158,NA
+"301","Dec","2014","Nizamuddin","rsd",4,42,251,NA
+"302","Dec","2014","Nizamuddin","rsd",4,40,257,NA
+"303","Dec","2014","Nizamuddin","rsd",4,44,214,NA
+"304","Feb","2014","Shahzada Bagh","ind",4,65,389,NA
+"305","Jul","2014","Shahzada Bagh","ind",4,69,240,NA
+"306","Oct","2014","Shahzada Bagh","ind",4,64,313,NA
+"307","Jan","2014","Shahzada Bagh","ind",4,63,399,NA
+"308","Jan","2014","Shahzada Bagh","ind",4,63,119,NA
+"309","Jan","2014","Shahzada Bagh","ind",4,55,161,NA
+"310","Jan","2014","Shahzada Bagh","ind",4,60,403,NA
+"311","Apr","2014","Shahzada Bagh","ind",4,65,307,NA
+"312","Jul","2014","Shahzada Bagh","ind",4,58,203,NA
+"313","Dec","2014","Shahzada Bagh","ind",4,65,235,NA
+"314","Feb","2014","Shahzada Bagh","ind",4,61,202,NA
+"315","Feb","2014","Shahzada Bagh","ind",4,67,287,NA
+"316","Feb","2014","Shahzada Bagh","ind",4,62,280,NA
+"317","Mar","2014","Shahzada Bagh","ind",4,68,222,NA
+"318","Jun","2014","Shahzada Bagh","ind",4,64,161,NA
+"319","Nov","2014","Shahzada Bagh","ind",4,62,191,NA
+"320","Mar","2014","Shahzada Bagh","ind",4,71,173,NA
+"321","Mar","2014","Shahzada Bagh","ind",4,65,NA,NA
+"322","Mar","2014","Shahzada Bagh","ind",4,68,NA,NA
+"323","Mar","2014","Shahzada Bagh","ind",4,63,NA,NA
+"324","Mar","2014","Shahzada Bagh","ind",4,62,NA,NA
+"325","Sep","2014","Shahzada Bagh","ind",4,65,146,NA
+"326","Apr","2014","Shahzada Bagh","ind",4,55,179,NA
+"327","Apr","2014","Shahzada Bagh","ind",4,65,303,NA
+"328","Apr","2014","Shahzada Bagh","ind",4,68,271,NA
+"329","Jan","2014","Shahzada Bagh","ind",4,51,310,NA
+"330","Jun","2014","Shahzada Bagh","ind",4,58,228,NA
+"331","Sep","2014","Shahzada Bagh","ind",4,60,351,NA
+"332","May","2014","Shahzada Bagh","ind",4,55,276,NA
+"333","May","2014","Shahzada Bagh","ind",4,57,208,NA
+"334","May","2014","Shahzada Bagh","ind",4,59,189,NA
+"335","May","2014","Shahzada Bagh","ind",4,55,267,NA
+"336","Mar","2014","Shahzada Bagh","ind",4,63,240,NA
+"337","Jun","2014","Shahzada Bagh","ind",4,60,206,NA
+"338","Nov","2014","Shahzada Bagh","ind",4,56,256,NA
+"339","Jun","2014","Shahzada Bagh","ind",4,55,303,NA
+"340","Jun","2014","Shahzada Bagh","ind",4,54,132,NA
+"341","Jun","2014","Shahzada Bagh","ind",4,54,306,NA
+"342","Jun","2014","Shahzada Bagh","ind",4,54,186,NA
+"343","Mar","2014","Shahzada Bagh","ind",4,54,157,NA
+"344","Aug","2014","Shahzada Bagh","ind",4,53,224,NA
+"345","Nov","2014","Shahzada Bagh","ind",4,49,185,NA
+"346","Jul","2014","Shahzada Bagh","ind",4,59,131,NA
+"347","Jul","2014","Shahzada Bagh","ind",4,51,132,NA
+"348","Jul","2014","Shahzada Bagh","ind",4,50,75,NA
+"349","Jul","2014","Shahzada Bagh","ind",4,59,153,NA
+"350","May","2014","Shahzada Bagh","ind",4,60,147,NA
+"351","Aug","2014","Shahzada Bagh","ind",4,53,218,NA
+"352","Aug","2014","Shahzada Bagh","ind",4,58,83,NA
+"353","Aug","2014","Shahzada Bagh","ind",4,57,189,NA
+"354","Aug","2014","Shahzada Bagh","ind",4,57,123,NA
+"355","Aug","2014","Shahzada Bagh","ind",4,55,138,NA
+"356","Mar","2014","Shahzada Bagh","ind",4,47,145,NA
+"357","Aug","2014","Shahzada Bagh","ind",4,55,93,NA
+"358","Nov","2014","Shahzada Bagh","ind",4,56,74,NA
+"359","Sep","2014","Shahzada Bagh","ind",4,51,147,NA
+"360","Sep","2014","Shahzada Bagh","ind",4,55,112,NA
+"361","Sep","2014","Shahzada Bagh","ind",4,60,102,NA
+"362","Sep","2014","Shahzada Bagh","ind",4,60,137,NA
+"363","Aug","2014","Shahzada Bagh","ind",4,55,209,NA
+"364","Oct","2014","Shahzada Bagh","ind",4,47,262,NA
+"365","Oct","2014","Shahzada Bagh","ind",4,66,231,NA
+"366","Oct","2014","Shahzada Bagh","ind",4,61,256,NA
+"367","Oct","2014","Shahzada Bagh","ind",4,64,277,NA
+"368","Jul","2014","Shahzada Bagh","ind",4,57,339,NA
+"369","Dec","2014","Shahzada Bagh","ind",4,59,403,NA
+"370","Nov","2014","Shahzada Bagh","ind",4,59,374,NA
+"371","Nov","2014","Shahzada Bagh","ind",4,60,464,NA
+"372","Nov","2014","Shahzada Bagh","ind",4,63,334,NA
+"373","Jan","2014","Shahzada Bagh","ind",4,52,368,NA
+"374","Apr","2014","Shahzada Bagh","ind",4,60,183,NA
+"375","Sep","2014","Shahzada Bagh","ind",4,59,221,NA
+"376","Dec","2014","Shahzada Bagh","ind",4,57,290,NA
+"377","Dec","2014","Shahzada Bagh","ind",4,61,287,NA
+"378","Dec","2014","Shahzada Bagh","ind",4,62,479,NA
+"379","Dec","2014","Shahzada Bagh","ind",4,59,481,NA
+"380","Mar","2014","Shahadra","ind",4,69,470,NA
+"381","Aug","2014","Shahadra","ind",4,65,478,NA
+"382","Jan","2014","Shahadra","ind",4,66,291,NA
+"383","Jan","2014","Shahadra","ind",5,71,414,NA
+"384","Jan","2014","Shahadra","ind",4,63,190,NA
+"385","Jan","2014","Shahadra","ind",4,62,294,NA
+"386","Jan","2014","Shahadra","ind",5,52,438,NA
+"387","May","2014","Shahadra","ind",4,58,243,NA
+"388","Oct","2014","Shahadra","ind",4,62,271,NA
+"389","Feb","2014","Shahadra","ind",4,60,227,NA
+"390","Feb","2014","Shahadra","ind",4,60,391,NA
+"391","Feb","2014","Shahadra","ind",4,66,246,NA
+"392","Apr","2014","Shahadra","ind",4,61,165,NA
+"393","Jul","2014","Shahadra","ind",4,60,175,NA
+"394","Dec","2014","Shahadra","ind",4,53,115,NA
+"395","Mar","2014","Shahadra","ind",4,65,177,NA
+"396","Mar","2014","Shahadra","ind",4,63,201,NA
+"397","Mar","2014","Shahadra","ind",4,62,259,NA
+"398","Jan","2014","Shahadra","ind",4,63,312,NA
+"399","Apr","2014","Shahadra","ind",4,64,166,NA
+"400","Nov","2014","Shahadra","ind",4,64,371,NA
+"401","Apr","2014","Shahadra","ind",4,61,234,NA
+"402","Apr","2014","Shahadra","ind",4,59,242,NA
+"403","Apr","2014","Shahadra","ind",4,63,435,NA
+"404","Feb","2014","Shahadra","ind",4,61,475,NA
+"405","Jul","2014","Shahadra","ind",4,60,238,NA
+"406","Dec","2014","Shahadra","ind",4,51,240,NA
+"407","May","2014","Shahadra","ind",4,62,251,NA
+"408","May","2014","Shahadra","ind",4,58,333,NA
+"409","May","2014","Shahadra","ind",4,61,267,NA
+"410","May","2014","Shahadra","ind",4,61,380,NA
+"411","Apr","2014","Shahadra","ind",4,60,153,NA
+"412","Sep","2014","Shahadra","ind",4,56,207,NA
+"413","Dec","2014","Shahadra","ind",4,58,417,NA
+"414","Jun","2014","Shahadra","ind",4,55,236,NA
+"415","Jun","2014","Shahadra","ind",4,59,314,NA
+"416","Jun","2014","Shahadra","ind",4,55,236,NA
+"417","Jan","2014","Shahadra","ind",4,58,178,NA
+"418","Apr","2014","Shahadra","ind",4,62,352,NA
+"419","Sep","2014","Shahadra","ind",4,51,419,NA
+"420","Jul","2014","Shahadra","ind",4,58,216,NA
+"421","Jul","2014","Shahadra","ind",4,58,115,NA
+"422","Jul","2014","Shahadra","ind",4,48,253,NA
+"423","Jul","2014","Shahadra","ind",4,53,165,NA
+"424","Jan","2014","Shahadra","ind",4,58,130,NA
+"425","Jun","2014","Shahadra","ind",4,55,218,NA
+"426","Nov","2014","Shahadra","ind",4,46,135,NA
+"427","Aug","2014","Shahadra","ind",4,54,137,NA
+"428","Aug","2014","Shahadra","ind",4,56,290,NA
+"429","Aug","2014","Shahadra","ind",4,53,92,NA
+"430","Jan","2014","Shahadra","ind",4,55,194,NA
+"431","Apr","2014","Shahadra","ind",4,48,190,NA
+"432","Sep","2014","Shahadra","ind",4,45,138,NA
+"433","Dec","2014","Shahadra","ind",4,46,101,NA
+"434","Sep","2014","Shahadra","ind",4,51,190,NA
+"435","Sep","2014","Shahadra","ind",4,57,121,NA
+"436","Sep","2014","Shahadra","ind",4,55,190,NA
+"437","Oct","2014","Shahadra","ind",4,49,260,NA
+"438","Oct","2014","Shahadra","ind",4,54,204,NA
+"439","Oct","2014","Shahadra","ind",4,62,322,NA
+"440","Oct","2014","Shahadra","ind",4,58,193,NA
+"441","Mar","2014","Shahadra","ind",4,55,310,NA
+"442","Oct","2014","Shahadra","ind",4,61,313,NA
+"443","Nov","2014","Shahadra","ind",4,57,403,NA
+"444","Nov","2014","Shahadra","ind",4,63,355,NA
+"445","Nov","2014","Shahadra","ind",4,57,335,NA
+"446","Nov","2014","Shahadra","ind",4,53,414,NA
+"447","Feb","2014","Shahadra","ind",4,55,205,NA
+"448","May","2014","Shahadra","ind",4,52,289,NA
+"449","Oct","2014","Shahadra","ind",4,48,546,NA
+"450","Dec","2014","Shahadra","ind",4,55,211,NA
+"451","Dec","2014","Shahadra","ind",4,47,444,NA
+"452","Dec","2014","Shahadra","ind",4,63,514,NA
+"453","Dec","2014","Shahadra","ind",4,51,432,NA
+"454","Feb","2014","Mayapuri","ind",17,55,308,NA
+"455","Mar","2014","Mayapuri","ind",9,112,563,NA
+"456","Jul","2014","Mayapuri","ind",15,99,543,NA
+"457","Aug","2014","Mayapuri","ind",15,74,512,NA
+"458","Sep","2014","Mayapuri","ind",18,100,683,NA
+"459","Jan","2014","Mayapuri","ind",5,64,138,NA
+"460","Jan","2014","Mayapuri","ind",2,54,149,NA
+"461","Jan","2014","Mayapuri","ind",4,84,250,NA
+"462","Nov","2014","Mayapuri","ind",9,92,273,NA
+"463","Dec","2014","Mayapuri","ind",18,100,323,NA
+"464","Feb","2014","Mayapuri","ind",9,91,186,NA
+"465","Feb","2014","Mayapuri","ind",5,111,458,NA
+"466","Feb","2014","Mayapuri","ind",21,115,390,NA
+"467","Feb","2014","Mayapuri","ind",9,97,454,NA
+"468","Feb","2014","Mayapuri","ind",5,105,314,NA
+"469","Feb","2014","Mayapuri","ind",16,116,257,NA
+"470","Apr","2014","Mayapuri","ind",10,66,253,NA
+"471","May","2014","Mayapuri","ind",5,68,149,NA
+"472","Jun","2014","Mayapuri","ind",7,77,189,NA
+"473","Nov","2014","Mayapuri","ind",3,71,93,NA
+"474","Dec","2014","Mayapuri","ind",4,58,121,NA
+"475","Mar","2014","Mayapuri","ind",4,93,141,NA
+"476","Mar","2014","Mayapuri","ind",10,58,128,NA
+"477","Mar","2014","Mayapuri","ind",6,86,188,NA
+"478","Feb","2014","Mayapuri","ind",2,85,219,NA
+"479","Mar","2014","Mayapuri","ind",11,88,215,NA
+"480","Apr","2014","Mayapuri","ind",2,44,277,NA
+"481","Apr","2014","Mayapuri","ind",10,72,181,NA
+"482","Apr","2014","Mayapuri","ind",2,75,110,NA
+"483","Apr","2014","Mayapuri","ind",28,123,245,NA
+"484","Apr","2014","Mayapuri","ind",19,137,300,NA
+"485","Apr","2014","Mayapuri","ind",17,131,303,NA
+"486","Jun","2014","Mayapuri","ind",4,72,127,NA
+"487","Jul","2014","Mayapuri","ind",17,82,366,NA
+"488","Aug","2014","Mayapuri","ind",11,103,281,NA
+"489","May","2014","Mayapuri","ind",2,67,106,NA
+"490","May","2014","Mayapuri","ind",10,81,150,NA
+"491","May","2014","Mayapuri","ind",2,86,168,NA
+"492","May","2014","Mayapuri","ind",2,107,222,NA
+"493","May","2014","Mayapuri","ind",2,125,257,NA
+"494","Mar","2014","Mayapuri","ind",3,111,305,NA
+"495","Apr","2014","Mayapuri","ind",2,109,300,NA
+"496","May","2014","Mayapuri","ind",2,63,217,NA
+"497","Jun","2014","Mayapuri","ind",2,55,230,NA
+"498","Jun","2014","Mayapuri","ind",2,56,128,NA
+"499","Jun","2014","Mayapuri","ind",2,58,169,NA
+"500","Jun","2014","Mayapuri","ind",3,47,226,NA
+"501","Jun","2014","Mayapuri","ind",2,17,159,NA
+"502","Aug","2014","Mayapuri","ind",2,78,314,NA
+"503","Sep","2014","Mayapuri","ind",2,82,425,NA
+"504","Oct","2014","Mayapuri","ind",2,80,335,NA
+"505","Jul","2014","Mayapuri","ind",5,90,140,NA
+"506","Jul","2014","Mayapuri","ind",2,81,113,NA
+"507","Jul","2014","Mayapuri","ind",2,65,67,NA
+"508","Jul","2014","Mayapuri","ind",2,79,81,NA
+"509","Jul","2014","Mayapuri","ind",2,49,114,NA
+"510","May","2014","Mayapuri","ind",5,47,186,NA
+"511","Jun","2014","Mayapuri","ind",9,56,108,NA
+"512","Jul","2014","Mayapuri","ind",5,78,181,NA
+"513","Nov","2014","Mayapuri","ind",3,59,119,NA
+"514","Dec","2014","Mayapuri","ind",2,39,97,NA
+"515","Aug","2014","Mayapuri","ind",2,76,175,NA
+"516","Aug","2014","Mayapuri","ind",2,68,200,NA
+"517","Aug","2014","Mayapuri","ind",3,53,138,NA
+"518","Sep","2014","Mayapuri","ind",2,50,125,NA
+"519","Sep","2014","Mayapuri","ind",2,38,153,NA
+"520","Sep","2014","Mayapuri","ind",2,56,169,NA
+"521","Sep","2014","Mayapuri","ind",2,81,240,NA
+"522","Sep","2014","Mayapuri","ind",3,67,236,NA
+"523","Sep","2014","Mayapuri","ind",2,71,198,NA
+"524","Sep","2014","Mayapuri","ind",4,49,188,NA
+"525","Sep","2014","Mayapuri","ind",2,63,246,NA
+"526","Oct","2014","Mayapuri","ind",5,61,220,NA
+"527","Oct","2014","Mayapuri","ind",2,90,273,NA
+"528","Oct","2014","Mayapuri","ind",2,80,358,NA
+"529","Oct","2014","Mayapuri","ind",2,141,546,NA
+"530","Oct","2014","Mayapuri","ind",2,163,420,NA
+"531","Oct","2014","Mayapuri","ind",4,122,459,NA
+"532","Oct","2014","Mayapuri","ind",4,100,319,NA
+"533","Oct","2014","Mayapuri","ind",2,142,275,NA
+"534","Apr","2014","Mayapuri","ind",5,142,442,NA
+"535","May","2014","Mayapuri","ind",5,128,376,NA
+"536","Jun","2014","Mayapuri","ind",10,148,452,NA
+"537","Nov","2014","Mayapuri","ind",8,176,508,NA
+"538","Dec","2014","Mayapuri","ind",11,195,537,NA
+"539","Nov","2014","Mayapuri","ind",2,196,709,NA
+"540","Nov","2014","Mayapuri","ind",3,147,609,NA
+"541","Nov","2014","Mayapuri","ind",6,169,581,NA
+"542","Mar","2014","Mayapuri","ind",2,152,395,NA
+"543","Apr","2014","Mayapuri","ind",14,163,414,NA
+"544","Oct","2014","Mayapuri","ind",7,142,545,NA
+"545","Nov","2014","Mayapuri","ind",5,160,469,NA
+"546","Dec","2014","Mayapuri","ind",20,209,657,NA
+"547","Dec","2014","Mayapuri","ind",3,169,633,NA
+"548","Dec","2014","Mayapuri","ind",2,118,369,NA
+"549","Dec","2014","Mayapuri","ind",2,102,323,NA
+"550","Feb","2014","N.Y. School","rsd",8,53,287,NA
+"551","Mar","2014","N.Y. School","rsd",13,77,358,NA
+"552","Jan","2014","N.Y. School","rsd",22,117,375,NA
+"553","Jan","2014","N.Y. School","rsd",19,113,396,NA
+"554","Jan","2014","N.Y. School","rsd",28,101,337,NA
+"555","Jan","2014","N.Y. School","rsd",8,61,129,NA
+"556","Jan","2014","N.Y. School","rsd",5,45,99,NA
+"557","Jan","2014","N.Y. School","rsd",2,63,167,NA
+"558","Apr","2014","N.Y. School","rsd",7,78,196,NA
+"559","May","2014","N.Y. School","rsd",8,103,194,NA
+"560","Jun","2014","N.Y. School","rsd",22,90,174,NA
+"561","Feb","2014","N.Y. School","rsd",8,108,198,NA
+"562","Feb","2014","N.Y. School","rsd",13,111,258,NA
+"563","Feb","2014","N.Y. School","rsd",11,92,242,NA
+"564","Feb","2014","N.Y. School","rsd",6,110,176,NA
+"565","Feb","2014","N.Y. School","rsd",4,82,154,NA
+"566","Nov","2014","N.Y. School","rsd",4,58,90,NA
+"567","Dec","2014","N.Y. School","rsd",4,64,72,NA
+"568","Mar","2014","N.Y. School","rsd",15,80,100,NA
+"569","Mar","2014","N.Y. School","rsd",21,82,141,NA
+"570","Mar","2014","N.Y. School","rsd",17,85,97,NA
+"571","Mar","2014","N.Y. School","rsd",12,93,106,NA
+"572","Mar","2014","N.Y. School","rsd",8,65,73,NA
+"573","Mar","2014","N.Y. School","rsd",9,65,88,NA
+"574","Apr","2014","N.Y. School","rsd",8,103,115,NA
+"575","Apr","2014","N.Y. School","rsd",6,114,137,NA
+"576","Apr","2014","N.Y. School","rsd",19,18,78,NA
+"577","Apr","2014","N.Y. School","rsd",10,119,153,NA
+"578","Apr","2014","N.Y. School","rsd",9,104,84,NA
+"579","Apr","2014","N.Y. School","rsd",13,74,128,NA
+"580","Apr","2014","N.Y. School","rsd",11,93,124,NA
+"581","Apr","2014","N.Y. School","rsd",12,109,164,NA
+"582","May","2014","N.Y. School","rsd",2,53,77,NA
+"583","May","2014","N.Y. School","rsd",8,72,96,NA
+"584","May","2014","N.Y. School","rsd",5,68,65,NA
+"585","May","2014","N.Y. School","rsd",4,61,141,NA
+"586","May","2014","N.Y. School","rsd",5,74,137,NA
+"587","May","2014","N.Y. School","rsd",5,77,180,NA
+"588","May","2014","N.Y. School","rsd",15,115,153,NA
+"589","May","2014","N.Y. School","rsd",5,111,137,NA
+"590","Oct","2014","N.Y. School","rsd",3,31,268,NA
+"591","Nov","2014","N.Y. School","rsd",2,11,332,NA
+"592","Dec","2014","N.Y. School","rsd",2,45,243,NA
+"593","Jun","2014","N.Y. School","rsd",4,49,136,NA
+"594","Jun","2014","N.Y. School","rsd",2,60,71,NA
+"595","Jun","2014","N.Y. School","rsd",2,69,117,NA
+"596","Jun","2014","N.Y. School","rsd",2,49,163,NA
+"597","Jun","2014","N.Y. School","rsd",2,40,101,NA
+"598","Jan","2014","N.Y. School","rsd",4,47,96,NA
+"599","Feb","2014","N.Y. School","rsd",2,87,67,NA
+"600","Mar","2014","N.Y. School","rsd",4,47,69,NA
+"601","Jul","2014","N.Y. School","rsd",6,33,67,NA
+"602","Jul","2014","N.Y. School","rsd",7,60,35,NA
+"603","Jul","2014","N.Y. School","rsd",2,45,192,NA
+"604","Jul","2014","N.Y. School","rsd",3,47,58,NA
+"605","Jul","2014","N.Y. School","rsd",3,34,68,NA
+"606","Nov","2014","N.Y. School","rsd",2,35,56,NA
+"607","Dec","2014","N.Y. School","rsd",2,34,35,NA
+"608","Aug","2014","N.Y. School","rsd",2,99,140,NA
+"609","Aug","2014","N.Y. School","rsd",2,76,158,NA
+"610","Aug","2014","N.Y. School","rsd",2,78,117,NA
+"611","Aug","2014","N.Y. School","rsd",2,63,65,NA
+"612","Aug","2014","N.Y. School","rsd",2,67,47,NA
+"613","Aug","2014","N.Y. School","rsd",4,63,67,NA
+"614","Feb","2014","N.Y. School","rsd",2,45,39,NA
+"615","Mar","2014","N.Y. School","rsd",3,51,22,NA
+"616","Apr","2014","N.Y. School","rsd",12,37,21,NA
+"617","Oct","2014","N.Y. School","rsd",3,66,53,NA
+"618","Nov","2014","N.Y. School","rsd",4,51,57,NA
+"619","Sep","2014","N.Y. School","rsd",2,55,52,NA
+"620","Sep","2014","N.Y. School","rsd",2,81,56,NA
+"621","Apr","2014","N.Y. School","rsd",2,90,129,NA
+"622","May","2014","N.Y. School","rsd",2,68,157,NA
+"623","Sep","2014","N.Y. School","rsd",8,62,51,NA
+"624","Nov","2014","N.Y. School","rsd",5,185,194,NA
+"625","Nov","2014","N.Y. School","rsd",7,177,254,NA
+"626","Nov","2014","N.Y. School","rsd",4,176,258,NA
+"627","Nov","2014","N.Y. School","rsd",9,152,219,NA
+"628","Nov","2014","N.Y. School","rsd",16,146,274,NA
+"629","Nov","2014","N.Y. School","rsd",20,160,355,NA
+"630","Nov","2014","N.Y. School","rsd",7,157,366,NA
+"631","Nov","2014","N.Y. School","rsd",19,145,306,NA
+"632","Apr","2014","N.Y. School","rsd",7,121,228,NA
+"633","May","2014","N.Y. School","rsd",4,122,249,NA
+"634","Oct","2014","N.Y. School","rsd",17,143,247,NA
+"635","Nov","2014","N.Y. School","rsd",13,150,286,NA
+"636","Dec","2014","N.Y. School","rsd",12,172,500,NA
+"637","Dec","2014","N.Y. School","rsd",7,100,223,NA
+"638","Dec","2014","N.Y. School","rsd",8,119,245,NA
+"639","Dec","2014","N.Y. School","rsd",14,123,403,NA
+"640","Jul","2014","Town Hall","rsd",12,114,421,NA
+"641","Aug","2014","Town Hall","rsd",14,91,459,NA
+"642","Sep","2014","Town Hall","rsd",14,106,541,NA
+"643","Jan","2014","Town Hall","rsd",10,114,499,NA
+"644","Jan","2014","Town Hall","rsd",6,82,444,NA
+"645","Jan","2014","Town Hall","rsd",2,75,228,NA
+"646","Jan","2014","Town Hall","rsd",6,60,368,NA
+"647","Jan","2014","Town Hall","rsd",3,59,327,NA
+"648","Apr","2014","Town Hall","rsd",5,110,221,NA
+"649","May","2014","Town Hall","rsd",16,112,226,NA
+"650","Jun","2014","Town Hall","rsd",18,97,143,NA
+"651","Dec","2014","Town Hall","rsd",3,90,217,NA
+"652","Feb","2014","Town Hall","rsd",4,85,145,NA
+"653","Feb","2014","Town Hall","rsd",4,46,136,NA
+"654","Feb","2014","Town Hall","rsd",17,109,244,NA
+"655","Feb","2014","Town Hall","rsd",21,112,213,NA
+"656","Apr","2014","Town Hall","rsd",9,106,138,NA
+"657","May","2014","Town Hall","rsd",6,87,98,NA
+"658","Jun","2014","Town Hall","rsd",3,82,133,NA
+"659","Mar","2014","Town Hall","rsd",8,76,118,NA
+"660","Mar","2014","Town Hall","rsd",17,109,139,NA
+"661","Mar","2014","Town Hall","rsd",27,99,137,NA
+"662","Mar","2014","Town Hall","rsd",24,83,155,NA
+"663","Mar","2014","Town Hall","rsd",25,84,131,NA
+"664","Jan","2014","Town Hall","rsd",24,108,214,NA
+"665","Feb","2014","Town Hall","rsd",7,85,128,NA
+"666","Mar","2014","Town Hall","rsd",4,85,81,NA
+"667","Nov","2014","Town Hall","rsd",15,134,219,NA
+"668","Dec","2014","Town Hall","rsd",18,120,246,NA
+"669","Apr","2014","Town Hall","rsd",21,76,177,NA
+"670","Apr","2014","Town Hall","rsd",3,122,198,NA
+"671","Apr","2014","Town Hall","rsd",6,117,239,NA
+"672","Jun","2014","Town Hall","rsd",5,109,134,NA
+"673","Jul","2014","Town Hall","rsd",15,113,281,NA
+"674","Aug","2014","Town Hall","rsd",2,96,211,NA
+"675","May","2014","Town Hall","rsd",8,94,143,NA
+"676","May","2014","Town Hall","rsd",6,81,152,NA
+"677","May","2014","Town Hall","rsd",13,103,182,NA
+"678","May","2014","Town Hall","rsd",2,103,256,NA
+"679","May","2014","Town Hall","rsd",11,118,208,NA
+"680","Mar","2014","Town Hall","rsd",3,106,216,NA
+"681","Apr","2014","Town Hall","rsd",2,103,214,NA
+"682","May","2014","Town Hall","rsd",2,113,193,NA
+"683","Oct","2014","Town Hall","rsd",3,44,242,NA
+"684","Nov","2014","Town Hall","rsd",2,44,289,NA
+"685","Dec","2014","Town Hall","rsd",2,24,187,NA
+"686","Jun","2014","Town Hall","rsd",2,65,154,NA
+"687","Jun","2014","Town Hall","rsd",2,69,142,NA
+"688","Jan","2014","Town Hall","rsd",6,72,98,NA
+"689","Feb","2014","Town Hall","rsd",2,91,94,NA
+"690","Mar","2014","Town Hall","rsd",2,48,81,NA
+"691","Aug","2014","Town Hall","rsd",2,63,222,NA
+"692","Sep","2014","Town Hall","rsd",2,66,182,NA
+"693","Oct","2014","Town Hall","rsd",2,65,168,NA
+"694","Jul","2014","Town Hall","rsd",2,93,47,NA
+"695","Jul","2014","Town Hall","rsd",5,55,39,NA
+"696","May","2014","Town Hall","rsd",4,105,106,NA
+"697","Jun","2014","Town Hall","rsd",7,55,43,NA
+"698","Jul","2014","Town Hall","rsd",7,56,52,NA
+"699","Aug","2014","Town Hall","rsd",2,92,129,NA
+"700","Aug","2014","Town Hall","rsd",2,88,110,NA
+"701","Aug","2014","Town Hall","rsd",2,89,98,NA
+"702","Aug","2014","Town Hall","rsd",5,106,100,NA
+"703","Aug","2014","Town Hall","rsd",5,105,78,NA
+"704","Feb","2014","Town Hall","rsd",2,44,29,NA
+"705","Mar","2014","Town Hall","rsd",2,43,29,NA
+"706","Apr","2014","Town Hall","rsd",2,36,25,NA
+"707","Sep","2014","Town Hall","rsd",3,67,65,NA
+"708","Oct","2014","Town Hall","rsd",3,85,61,NA
+"709","Nov","2014","Town Hall","rsd",12,90,59,NA
+"710","Sep","2014","Town Hall","rsd",2,73,97,NA
+"711","Sep","2014","Town Hall","rsd",4,69,86,NA
+"712","Apr","2014","Town Hall","rsd",2,88,154,NA
+"713","May","2014","Town Hall","rsd",2,73,144,NA
+"714","Apr","2014","Town Hall","rsd",2,136,305,NA
+"715","May","2014","Town Hall","rsd",2,111,269,NA
+"716","Jun","2014","Town Hall","rsd",2,133,296,NA
+"717","Nov","2014","Town Hall","rsd",6,152,407,NA
+"718","Dec","2014","Town Hall","rsd",3,156,429,NA
+"719","Nov","2014","Town Hall","rsd",6,164,327,NA
+"720","Nov","2014","Town Hall","rsd",12,162,268,NA
+"721","Nov","2014","Town Hall","rsd",11,167,309,NA
+"722","Dec","2014","Town Hall","rsd",14,127,250,NA
+"723","Dec","2014","Town Hall","rsd",10,118,289,NA
+"724","Dec","2014","Town Hall","rsd",15,114,400,NA
+"725","Dec","2014","Town Hall","rsd",2,175,567,NA
+"726","Dec","2014","Town Hall","rsd",3,124,375,NA
+"727","Dec","2014","Town Hall","rsd",2,125,283,NA
+"728","Dec","2014","Town Hall","rsd",6,166,452,NA
+"729","Dec","2014","Town Hall","rsd",2,118,288,NA

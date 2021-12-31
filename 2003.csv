@@ -1,0 +1,704 @@
+"","mn","yr","st","typ","SO2","NO2","PM10","SPM"
+"1","Jan","2003","Nizamuddin","ind",NA,34,149,205
+"2","Jun","2003","Nizamuddin","ind",11,39,184,405
+"3","Sep","2003","Nizamuddin","ind",12,42,190,429
+"4","Jan","2003","Nizamuddin","ind",14,41,187,304
+"5","Jan","2003","Nizamuddin","ind",13,39,192,323
+"6","Jan","2003","Nizamuddin","ind",12,36,170,325
+"7","Jan","2003","Nizamuddin","ind",12,43,112,262
+"8","Jan","2003","Nizamuddin","ind",13,37,179,262
+"9","May","2003","Nizamuddin","ind",11,42,155,192
+"10","Oct","2003","Nizamuddin","ind",11,51,NA,245
+"11","Feb","2003","Nizamuddin","ind",11,42,217,337
+"12","Feb","2003","Nizamuddin","ind",9,38,71,205
+"13","Feb","2003","Nizamuddin","ind",13,43,201,275
+"14","Feb","2003","Nizamuddin","ind",12,44,177,302
+"15","May","2003","Nizamuddin","ind",11,47,91,173
+"16","Oct","2003","Nizamuddin","ind",14,43,102,190
+"17","Mar","2003","Nizamuddin","ind",11,38,170,264
+"18","Mar","2003","Nizamuddin","ind",12,42,143,243
+"19","Mar","2003","Nizamuddin","ind",15,43,115,282
+"20","Mar","2003","Nizamuddin","ind",10,41,119,298
+"21","Mar","2003","Nizamuddin","ind",14,46,132,276
+"22","Aug","2003","Nizamuddin","ind",16,44,84,266
+"23","Apr","2003","Nizamuddin","ind",11,39,97,301
+"24","Apr","2003","Nizamuddin","ind",15,52,131,357
+"25","Apr","2003","Nizamuddin","ind",16,51,133,315
+"26","May","2003","Nizamuddin","ind",12,40,131,310
+"27","Aug","2003","Nizamuddin","ind",13,49,156,352
+"28","May","2003","Nizamuddin","ind",11,47,170,533
+"29","May","2003","Nizamuddin","ind",12,42,186,489
+"30","May","2003","Nizamuddin","ind",13,41,98,242
+"31","May","2003","Nizamuddin","ind",9,36,154,717
+"32","Mar","2003","Nizamuddin","ind",15,43,130,271
+"33","Jun","2003","Nizamuddin","ind",11,44,322,NA
+"34","Nov","2003","Nizamuddin","ind",14,43,274,759
+"35","Jun","2003","Nizamuddin","ind",12,39,150,607
+"36","Jun","2003","Nizamuddin","ind",13,44,84,147
+"37","Jun","2003","Nizamuddin","ind",10,35,193,435
+"38","Jun","2003","Nizamuddin","ind",11,37,83,317
+"39","Mar","2003","Nizamuddin","ind",10,48,68,190
+"40","Jul","2003","Nizamuddin","ind",13,51,73,130
+"41","Jul","2003","Nizamuddin","ind",9,33,53,105
+"42","Jul","2003","Nizamuddin","ind",13,38,61,139
+"43","Jul","2003","Nizamuddin","ind",10,41,65,157
+"44","Apr","2003","Nizamuddin","ind",10,49,31,128
+"45","Jul","2003","Nizamuddin","ind",10,39,73,265
+"46","Dec","2003","Nizamuddin","ind",10,42,59,199
+"47","Aug","2003","Nizamuddin","ind",13,48,29,114
+"48","Aug","2003","Nizamuddin","ind",10,39,66,186
+"49","Aug","2003","Nizamuddin","ind",10,44,62,187
+"50","Feb","2003","Nizamuddin","ind",10,43,93,129
+"51","May","2003","Nizamuddin","ind",7,27,105,354
+"52","Oct","2003","Nizamuddin","ind",11,40,56,205
+"53","Sep","2003","Nizamuddin","ind",13,32,68,215
+"54","Sep","2003","Nizamuddin","ind",14,45,83,148
+"55","Sep","2003","Nizamuddin","ind",10,46,47,183
+"56","Sep","2003","Nizamuddin","ind",15,46,67,270
+"57","Mar","2003","Nizamuddin","ind",12,44,74,413
+"58","Aug","2003","Nizamuddin","ind",16,47,88,274
+"59","Oct","2003","Nizamuddin","ind",12,43,115,556
+"60","Oct","2003","Nizamuddin","ind",14,44,119,466
+"61","Oct","2003","Nizamuddin","ind",15,48,154,422
+"62","Oct","2003","Nizamuddin","ind",12,46,144,546
+"63","Apr","2003","Nizamuddin","ind",13,51,163,438
+"64","Jul","2003","Nizamuddin","ind",12,44,124,610
+"65","Dec","2003","Nizamuddin","ind",13,45,165,385
+"66","Nov","2003","Nizamuddin","ind",13,48,97,350
+"67","Nov","2003","Nizamuddin","ind",14,42,122,369
+"68","Nov","2003","Nizamuddin","ind",15,45,125,461
+"69","Mar","2003","Nizamuddin","ind",14,45,197,576
+"70","Aug","2003","Nizamuddin","ind",14,46,198,365
+"71","Nov","2003","Nizamuddin","ind",12,50,189,429
+"72","Dec","2003","Nizamuddin","ind",11,52,114,234
+"73","Dec","2003","Nizamuddin","ind",12,49,127,281
+"74","Dec","2003","Nizamuddin","ind",16,57,141,265
+"75","Dec","2003","Nizamuddin","ind",14,52,147,335
+"76","Mar","2003","Ashok Vihar","ind",4,22,119,324
+"77","Aug","2003","Ashok Vihar","ind",8,32,201,431
+"78","Jan","2003","Ashok Vihar","ind",NA,NA,248,412
+"79","Jan","2003","Ashok Vihar","ind",7,31,168,349
+"80","Jan","2003","Ashok Vihar","ind",7,31,204,569
+"81","Jan","2003","Ashok Vihar","ind",5,24,94,295
+"82","Jan","2003","Ashok Vihar","ind",5,25,127,254
+"83","Apr","2003","Ashok Vihar","ind",7,32,129,407
+"84","Jul","2003","Ashok Vihar","ind",7,33,131,397
+"85","Feb","2003","Ashok Vihar","ind",7,34,121,377
+"86","Feb","2003","Ashok Vihar","ind",8,33,89,326
+"87","Feb","2003","Ashok Vihar","ind",6,33,87,213
+"88","Apr","2003","Ashok Vihar","ind",5,13,186,591
+"89","Jul","2003","Ashok Vihar","ind",7,30,69,306
+"90","Dec","2003","Ashok Vihar","ind",6,24,76,217
+"91","Mar","2003","Ashok Vihar","ind",NA,NA,130,230
+"92","Mar","2003","Ashok Vihar","ind",NA,NA,92,NA
+"93","Mar","2003","Ashok Vihar","ind",NA,NA,105,NA
+"94","Feb","2003","Ashok Vihar","ind",4,17,76,NA
+"95","Jul","2003","Ashok Vihar","ind",5,22,134,NA
+"96","Oct","2003","Ashok Vihar","ind",5,18,150,NA
+"97","Apr","2003","Ashok Vihar","ind",5,16,231,NA
+"98","Apr","2003","Ashok Vihar","ind",5,27,206,NA
+"99","Apr","2003","Ashok Vihar","ind",4,17,89,NA
+"100","Feb","2003","Ashok Vihar","ind",7,33,168,468
+"101","Jul","2003","Ashok Vihar","ind",8,35,133,345
+"102","Dec","2003","Ashok Vihar","ind",7,33,117,427
+"103","May","2003","Ashok Vihar","ind",8,36,179,647
+"104","May","2003","Ashok Vihar","ind",8,37,NA,NA
+"105","May","2003","Ashok Vihar","ind",5,25,255,587
+"106","Feb","2003","Ashok Vihar","ind",5,26,316,NA
+"107","May","2003","Ashok Vihar","ind",5,32,242,NA
+"108","Oct","2003","Ashok Vihar","ind",8,53,NA,NA
+"109","Jun","2003","Ashok Vihar","ind",5,30,225,396
+"110","Jun","2003","Ashok Vihar","ind",5,30,70,287
+"111","Jun","2003","Ashok Vihar","ind",5,37,66,237
+"112","Jun","2003","Ashok Vihar","ind",5,34,107,407
+"113","Feb","2003","Ashok Vihar","ind",5,32,64,246
+"114","Jul","2003","Ashok Vihar","ind",5,38,89,232
+"115","Jul","2003","Ashok Vihar","ind",4,27,68,192
+"116","Jul","2003","Ashok Vihar","ind",5,34,101,238
+"117","Jul","2003","Ashok Vihar","ind",5,28,50,90
+"118","Jan","2003","Ashok Vihar","ind",4,22,89,341
+"119","Jun","2003","Ashok Vihar","ind",5,23,156,492
+"120","Nov","2003","Ashok Vihar","ind",6,31,82,167
+"121","Aug","2003","Ashok Vihar","ind",6,31,34,164
+"122","Aug","2003","Ashok Vihar","ind",5,29,75,282
+"123","Aug","2003","Ashok Vihar","ind",5,26,78,211
+"124","Jan","2003","Ashok Vihar","ind",6,35,90,615
+"125","Apr","2003","Ashok Vihar","ind",4,27,84,172
+"126","Sep","2003","Ashok Vihar","ind",6,37,77,251
+"127","Dec","2003","Ashok Vihar","ind",6,39,85,346
+"128","Sep","2003","Ashok Vihar","ind",4,25,47,100
+"129","Jan","2003","Ashok Vihar","ind",5,38,48,292
+"130","Jul","2003","Ashok Vihar","ind",4,29,105,348
+"131","Oct","2003","Ashok Vihar","ind",6,34,194,530
+"132","Oct","2003","Ashok Vihar","ind",6,41,124,615
+"133","Oct","2003","Ashok Vihar","ind",7,53,122,601
+"134","Oct","2003","Ashok Vihar","ind",7,45,221,483
+"135","Mar","2003","Ashok Vihar","ind",10,47,181,436
+"136","Jun","2003","Ashok Vihar","ind",9,45,159,437
+"137","Nov","2003","Ashok Vihar","ind",11,49,144,387
+"138","Nov","2003","Ashok Vihar","ind",8,39,175,464
+"139","Nov","2003","Ashok Vihar","ind",9,44,155,440
+"140","May","2003","Ashok Vihar","ind",10,49,207,461
+"141","Oct","2003","Ashok Vihar","ind",9,43,163,335
+"142","Dec","2003","Ashok Vihar","ind",9,41,134,290
+"143","Dec","2003","Ashok Vihar","ind",8,43,192,333
+"144","Jan","2003","Shahzada Bagh","ind",5,29,101,233
+"145","Jun","2003","Shahzada Bagh","ind",7,36,172,350
+"146","Sep","2003","Shahzada Bagh","ind",7,38,189,396
+"147","Jan","2003","Shahzada Bagh","ind",7,38,178,293
+"148","Jan","2003","Shahzada Bagh","ind",7,38,265,469
+"149","Jan","2003","Shahzada Bagh","ind",7,32,130,282
+"150","Jan","2003","Shahzada Bagh","ind",6,26,98,189
+"151","Jan","2003","Shahzada Bagh","ind",4,29,141,333
+"152","May","2003","Shahzada Bagh","ind",8,42,129,380
+"153","Oct","2003","Shahzada Bagh","ind",8,41,130,346
+"154","Feb","2003","Shahzada Bagh","ind",9,42,150,425
+"155","Feb","2003","Shahzada Bagh","ind",7,43,89,130
+"156","Feb","2003","Shahzada Bagh","ind",6,28,207,279
+"157","Feb","2003","Shahzada Bagh","ind",6,44,200,277
+"158","May","2003","Shahzada Bagh","ind",7,37,114,281
+"159","Oct","2003","Shahzada Bagh","ind",10,29,80,263
+"160","Mar","2003","Shahzada Bagh","ind",NA,NA,63,NA
+"161","Mar","2003","Shahzada Bagh","ind",NA,NA,80,256
+"162","Mar","2003","Shahzada Bagh","ind",NA,NA,44,145
+"163","Mar","2003","Shahzada Bagh","ind",9,41,132,230
+"164","Aug","2003","Shahzada Bagh","ind",9,39,99,259
+"165","Apr","2003","Shahzada Bagh","ind",NA,NA,351,NA
+"166","Apr","2003","Shahzada Bagh","ind",9,40,202,399
+"167","Apr","2003","Shahzada Bagh","ind",9,39,116,249
+"168","May","2003","Shahzada Bagh","ind",8,41,137,418
+"169","Aug","2003","Shahzada Bagh","ind",8,38,142,643
+"170","May","2003","Shahzada Bagh","ind",NA,NA,341,NA
+"171","May","2003","Shahzada Bagh","ind",9,43,NA,NA
+"172","May","2003","Shahzada Bagh","ind",NA,NA,NA,310
+"173","May","2003","Shahzada Bagh","ind",8,38,NA,745
+"174","Mar","2003","Shahzada Bagh","ind",6,33,406,744
+"175","Jun","2003","Shahzada Bagh","ind",8,40,301,NA
+"176","Nov","2003","Shahzada Bagh","ind",8,40,NA,NA
+"177","Jun","2003","Shahzada Bagh","ind",7,35,NA,456
+"178","Jun","2003","Shahzada Bagh","ind",5,25,NA,307
+"179","Jun","2003","Shahzada Bagh","ind",7,35,NA,361
+"180","Jun","2003","Shahzada Bagh","ind",5,24,NA,283
+"181","Mar","2003","Shahzada Bagh","ind",5,32,NA,303
+"182","Jul","2003","Shahzada Bagh","ind",5,37,NA,240
+"183","Jul","2003","Shahzada Bagh","ind",4,16,72,115
+"184","Jul","2003","Shahzada Bagh","ind",5,27,130,269
+"185","Jul","2003","Shahzada Bagh","ind",4,26,70,219
+"186","Apr","2003","Shahzada Bagh","ind",5,28,121,432
+"187","Jul","2003","Shahzada Bagh","ind",4,28,213,283
+"188","Dec","2003","Shahzada Bagh","ind",4,34,160,300
+"189","Aug","2003","Shahzada Bagh","ind",5,38,119,310
+"190","Aug","2003","Shahzada Bagh","ind",5,33,NA,432
+"191","Aug","2003","Shahzada Bagh","ind",4,30,NA,180
+"192","Feb","2003","Shahzada Bagh","ind",4,36,NA,262
+"193","May","2003","Shahzada Bagh","ind",6,46,157,409
+"194","Oct","2003","Shahzada Bagh","ind",4,34,113,235
+"195","Sep","2003","Shahzada Bagh","ind",5,36,106,377
+"196","Sep","2003","Shahzada Bagh","ind",4,34,66,151
+"197","Sep","2003","Shahzada Bagh","ind",4,30,205,406
+"198","Sep","2003","Shahzada Bagh","ind",5,40,58,219
+"199","Mar","2003","Shahzada Bagh","ind",4,33,139,410
+"200","Aug","2003","Shahzada Bagh","ind",5,44,120,420
+"201","Oct","2003","Shahzada Bagh","ind",6,34,204,490
+"202","Oct","2003","Shahzada Bagh","ind",6,41,129,522
+"203","Oct","2003","Shahzada Bagh","ind",7,47,132,396
+"204","Oct","2003","Shahzada Bagh","ind",8,50,265,526
+"205","Apr","2003","Shahzada Bagh","ind",8,52,208,327
+"206","Jul","2003","Shahzada Bagh","ind",10,57,138,402
+"207","Dec","2003","Shahzada Bagh","ind",10,61,240,614
+"208","Nov","2003","Shahzada Bagh","ind",10,56,129,475
+"209","Nov","2003","Shahzada Bagh","ind",9,57,206,506
+"210","Nov","2003","Shahzada Bagh","ind",11,57,140,432
+"211","Mar","2003","Shahzada Bagh","ind",10,55,200,427
+"212","Aug","2003","Shahzada Bagh","ind",11,65,186,381
+"213","Nov","2003","Shahzada Bagh","ind",10,56,151,397
+"214","Dec","2003","Shahzada Bagh","ind",9,54,153,278
+"215","Dec","2003","Shahzada Bagh","ind",10,51,198,400
+"216","Dec","2003","Shahzada Bagh","ind",NA,NA,229,NA
+"217","Dec","2003","Shahzada Bagh","ind",11,60,223,433
+"218","Feb","2003","Shahadra","ind",8,34,171,351
+"219","Jul","2003","Shahadra","ind",11,43,143,311
+"220","Oct","2003","Shahadra","ind",8,35,150,314
+"221","Jan","2003","Shahadra","ind",9,36,239,510
+"222","Jan","2003","Shahadra","ind",11,28,164,396
+"223","Jan","2003","Shahadra","ind",14,42,223,475
+"224","Jan","2003","Shahadra","ind",6,24,96,238
+"225","Mar","2003","Shahadra","ind",8,26,97,200
+"226","Jun","2003","Shahadra","ind",12,41,129,405
+"227","Nov","2003","Shahadra","ind",14,38,119,343
+"228","Feb","2003","Shahadra","ind",8,26,99,385
+"229","Feb","2003","Shahadra","ind",11,28,92,453
+"230","Feb","2003","Shahadra","ind",13,33,71,235
+"231","Mar","2003","Shahadra","ind",13,33,180,NA
+"232","Jun","2003","Shahadra","ind",7,25,62,184
+"233","Nov","2003","Shahadra","ind",11,37,100,276
+"234","Mar","2003","Shahadra","ind",13,32,98,264
+"235","Mar","2003","Shahadra","ind",9,30,77,340
+"236","Mar","2003","Shahadra","ind",11,31,105,246
+"237","Jan","2003","Shahadra","ind",8,21,136,272
+"238","Apr","2003","Shahadra","ind",13,38,165,542
+"239","Sep","2003","Shahadra","ind",10,28,110,419
+"240","Apr","2003","Shahadra","ind",8,26,100,281
+"241","Apr","2003","Shahadra","ind",7,26,106,316
+"242","Apr","2003","Shahadra","ind",9,34,135,359
+"243","May","2003","Shahadra","ind",12,34,123,315
+"244","May","2003","Shahadra","ind",14,41,NA,645
+"245","May","2003","Shahadra","ind",14,35,176,533
+"246","May","2003","Shahadra","ind",14,39,217,603
+"247","Apr","2003","Shahadra","ind",12,30,162,741
+"248","Sep","2003","Shahadra","ind",14,35,271,498
+"249","Dec","2003","Shahadra","ind",12,33,151,599
+"250","Jun","2003","Shahadra","ind",11,31,154,426
+"251","Jun","2003","Shahadra","ind",12,34,18,58
+"252","Jun","2003","Shahadra","ind",11,31,26,73
+"253","Jan","2003","Shahadra","ind",9,26,152,588
+"254","Apr","2003","Shahadra","ind",12,37,177,424
+"255","Sep","2003","Shahadra","ind",9,18,NA,215
+"256","Jul","2003","Shahadra","ind",9,22,63,127
+"257","Jul","2003","Shahadra","ind",7,21,70,134
+"258","Jul","2003","Shahadra","ind",9,20,43,165
+"259","Jul","2003","Shahadra","ind",12,28,211,361
+"260","Jul","2003","Shahadra","ind",6,20,112,172
+"261","May","2003","Shahadra","ind",11,36,96,252
+"262","Aug","2003","Shahadra","ind",7,16,123,213
+"263","Aug","2003","Shahadra","ind",10,28,152,296
+"264","Aug","2003","Shahadra","ind",13,31,87,281
+"265","Aug","2003","Shahadra","ind",16,30,64,178
+"266","Aug","2003","Shahadra","ind",7,15,81,179
+"267","Aug","2003","Shahadra","ind",14,34,46,152
+"268","Sep","2003","Shahadra","ind",8,22,61,219
+"269","Jun","2003","Shahadra","ind",12,34,80,242
+"270","Sep","2003","Shahadra","ind",15,39,140,453
+"271","Oct","2003","Shahadra","ind",12,34,129,417
+"272","Oct","2003","Shahadra","ind",15,39,125,337
+"273","Oct","2003","Shahadra","ind",17,49,174,458
+"274","Oct","2003","Shahadra","ind",21,49,167,423
+"275","Oct","2003","Shahadra","ind",19,49,154,525
+"276","May","2003","Shahadra","ind",18,52,341,536
+"277","Oct","2003","Shahadra","ind",15,45,213,513
+"278","Nov","2003","Shahadra","ind",15,42,208,439
+"279","Nov","2003","Shahadra","ind",NA,NA,120,NA
+"280","Nov","2003","Shahadra","ind",13,38,263,NA
+"281","Nov","2003","Shahadra","ind",14,40,254,NA
+"282","Apr","2003","Shahadra","ind",NA,NA,211,NA
+"283","Sep","2003","Shahadra","ind",12,32,127,NA
+"284","Dec","2003","Shahadra","ind",11,35,107,334
+"285","Dec","2003","Shahadra","ind",NA,NA,83,NA
+"286","Dec","2003","Shahadra","ind",NA,NA,179,NA
+"287","Feb","2003","Janakpuri","rsd",NA,NA,162,NA
+"288","Jul","2003","Janakpuri","rsd",NA,NA,71,NA
+"289","Oct","2003","Janakpuri","rsd",NA,NA,63,NA
+"290","Jan","2003","Janakpuri","rsd",NA,NA,200,NA
+"291","Jan","2003","Janakpuri","rsd",NA,NA,189,NA
+"292","Jan","2003","Janakpuri","rsd",NA,NA,144,NA
+"293","Jan","2003","Janakpuri","rsd",8,24,89,NA
+"294","Mar","2003","Janakpuri","rsd",13,35,108,227
+"295","Jun","2003","Janakpuri","rsd",8,40,62,NA
+"296","Nov","2003","Janakpuri","rsd",8,26,100,NA
+"297","Feb","2003","Janakpuri","rsd",8,30,102,NA
+"298","Feb","2003","Janakpuri","rsd",9,33,147,NA
+"299","Feb","2003","Janakpuri","rsd",10,37,129,NA
+"300","Mar","2003","Janakpuri","rsd",NA,NA,150,NA
+"301","Jun","2003","Janakpuri","rsd",7,28,75,171
+"302","Nov","2003","Janakpuri","rsd",11,41,78,193
+"303","Mar","2003","Janakpuri","rsd",13,42,124,247
+"304","Mar","2003","Janakpuri","rsd",9,36,96,175
+"305","Mar","2003","Janakpuri","rsd",12,44,101,179
+"306","Jan","2003","Janakpuri","rsd",13,40,189,270
+"307","Apr","2003","Janakpuri","rsd",13,44,127,213
+"308","Sep","2003","Janakpuri","rsd",13,39,149,232
+"309","Apr","2003","Janakpuri","rsd",10,30,63,121
+"310","Apr","2003","Janakpuri","rsd",8,26,90,167
+"311","Apr","2003","Janakpuri","rsd",9,30,68,116
+"312","Sep","2003","Janakpuri","rsd",12,52,370,NA
+"313","Dec","2003","Janakpuri","rsd",10,46,NA,755
+"314","Jun","2003","Janakpuri","rsd",15,54,102,173
+"315","Jan","2003","Janakpuri","rsd",12,50,129,304
+"316","Apr","2003","Janakpuri","rsd",12,51,222,510
+"317","Sep","2003","Janakpuri","rsd",7,34,253,339
+"318","Jul","2003","Janakpuri","rsd",11,51,144,204
+"319","Jul","2003","Janakpuri","rsd",8,41,107,167
+"320","Jul","2003","Janakpuri","rsd",4,11,NA,NA
+"321","Jul","2003","Janakpuri","rsd",NA,NA,80,191
+"322","Jul","2003","Janakpuri","rsd",4,20,29,30
+"323","May","2003","Janakpuri","rsd",8,44,57,160
+"324","Aug","2003","Janakpuri","rsd",NA,NA,117,253
+"325","Aug","2003","Janakpuri","rsd",12,39,89,540
+"326","Aug","2003","Janakpuri","rsd",10,45,93,297
+"327","Aug","2003","Janakpuri","rsd",11,43,107,223
+"328","Aug","2003","Janakpuri","rsd",12,45,97,250
+"329","Mar","2003","Janakpuri","rsd",9,43,128,263
+"330","Aug","2003","Janakpuri","rsd",10,41,74,194
+"331","Nov","2003","Janakpuri","rsd",6,25,39,94
+"332","Sep","2003","Janakpuri","rsd",11,45,79,175
+"333","Sep","2003","Janakpuri","rsd",12,46,69,269
+"334","Sep","2003","Janakpuri","rsd",13,48,79,193
+"335","Sep","2003","Janakpuri","rsd",11,45,NA,250
+"336","Jun","2003","Janakpuri","rsd",15,49,NA,196
+"337","Sep","2003","Janakpuri","rsd",16,50,NA,319
+"338","Oct","2003","Janakpuri","rsd",15,49,NA,376
+"339","Oct","2003","Janakpuri","rsd",15,47,NA,246
+"340","Oct","2003","Janakpuri","rsd",11,53,193,408
+"341","Oct","2003","Janakpuri","rsd",19,61,272,586
+"342","Oct","2003","Janakpuri","rsd",12,42,154,325
+"343","May","2003","Janakpuri","rsd",12,50,161,494
+"344","Oct","2003","Janakpuri","rsd",15,51,222,444
+"345","Nov","2003","Janakpuri","rsd",13,53,156,474
+"346","Nov","2003","Janakpuri","rsd",15,49,195,353
+"347","Nov","2003","Janakpuri","rsd",15,53,195,279
+"348","Nov","2003","Janakpuri","rsd",12,50,102,270
+"349","Apr","2003","Janakpuri","rsd",10,42,236,485
+"350","Sep","2003","Janakpuri","rsd",10,50,168,481
+"351","Dec","2003","Janakpuri","rsd",13,46,180,296
+"352","Dec","2003","Janakpuri","rsd",13,46,NA,196
+"353","Dec","2003","Janakpuri","rsd",11,48,65,330
+"354","Mar","2003","Siri Fort","rsd",8,31,100,282
+"355","Aug","2003","Siri Fort","rsd",7,18,270,379
+"356","Jan","2003","Siri Fort","rsd",9,32,116,238
+"357","Jan","2003","Siri Fort","rsd",8,37,137,283
+"358","Jan","2003","Siri Fort","rsd",10,35,126,236
+"359","Jan","2003","Siri Fort","rsd",7,28,89,359
+"360","Jan","2003","Siri Fort","rsd",8,37,85,251
+"361","Apr","2003","Siri Fort","rsd",8,24,68,121
+"362","Jul","2003","Siri Fort","rsd",10,31,83,205
+"363","Feb","2003","Siri Fort","rsd",8,35,99,268
+"364","Feb","2003","Siri Fort","rsd",6,18,62,135
+"365","Feb","2003","Siri Fort","rsd",9,39,66,251
+"366","Feb","2003","Siri Fort","rsd",NA,NA,71,249
+"367","Apr","2003","Siri Fort","rsd",NA,NA,81,NA
+"368","Jul","2003","Siri Fort","rsd",NA,NA,87,NA
+"369","Dec","2003","Siri Fort","rsd",9,39,98,318
+"370","Mar","2003","Siri Fort","rsd",9,19,93,84
+"371","Mar","2003","Siri Fort","rsd",10,32,101,335
+"372","Mar","2003","Siri Fort","rsd",10,30,66,261
+"373","Feb","2003","Siri Fort","rsd",7,36,75,207
+"374","Jul","2003","Siri Fort","rsd",7,28,160,293
+"375","Oct","2003","Siri Fort","rsd",9,39,126,363
+"376","Apr","2003","Siri Fort","rsd",9,39,69,305
+"377","Apr","2003","Siri Fort","rsd",10,34,102,312
+"378","Apr","2003","Siri Fort","rsd",9,28,66,265
+"379","Feb","2003","Siri Fort","rsd",11,31,159,395
+"380","Jul","2003","Siri Fort","rsd",10,36,111,343
+"381","Dec","2003","Siri Fort","rsd",8,32,126,440
+"382","May","2003","Siri Fort","rsd",9,33,149,646
+"383","May","2003","Siri Fort","rsd",8,31,NA,239
+"384","May","2003","Siri Fort","rsd",8,27,131,556
+"385","Feb","2003","Siri Fort","rsd",6,25,104,313
+"386","May","2003","Siri Fort","rsd",9,30,195,NA
+"387","Oct","2003","Siri Fort","rsd",10,34,312,NA
+"388","Jun","2003","Siri Fort","rsd",7,33,130,247
+"389","Jun","2003","Siri Fort","rsd",9,29,72,231
+"390","Jun","2003","Siri Fort","rsd",10,28,66,182
+"391","Jun","2003","Siri Fort","rsd",9,32,134,474
+"392","Feb","2003","Siri Fort","rsd",8,29,67,208
+"393","Jul","2003","Siri Fort","rsd",7,22,NA,133
+"394","Oct","2003","Siri Fort","rsd",5,14,NA,79
+"395","Jul","2003","Siri Fort","rsd",7,24,NA,96
+"396","Jul","2003","Siri Fort","rsd",5,19,29,89
+"397","Jul","2003","Siri Fort","rsd",10,23,76,137
+"398","Jul","2003","Siri Fort","rsd",8,27,59,110
+"399","Jan","2003","Siri Fort","rsd",7,26,36,132
+"400","Jun","2003","Siri Fort","rsd",10,29,20,84
+"401","Nov","2003","Siri Fort","rsd",7,26,21,85
+"402","Aug","2003","Siri Fort","rsd",NA,NA,13,NA
+"403","Aug","2003","Siri Fort","rsd",9,24,52,98
+"404","Aug","2003","Siri Fort","rsd",12,31,59,188
+"405","Jan","2003","Siri Fort","rsd",9,32,34,215
+"406","Apr","2003","Siri Fort","rsd",10,26,NA,113
+"407","Sep","2003","Siri Fort","rsd",11,38,122,354
+"408","Dec","2003","Siri Fort","rsd",5,39,93,259
+"409","Sep","2003","Siri Fort","rsd",8,34,36,94
+"410","Sep","2003","Siri Fort","rsd",10,38,37,171
+"411","Sep","2003","Siri Fort","rsd",10,32,48,141
+"412","Jan","2003","Siri Fort","rsd",11,39,93,384
+"413","Jul","2003","Siri Fort","rsd",11,42,41,218
+"414","Oct","2003","Siri Fort","rsd",9,33,103,355
+"415","Oct","2003","Siri Fort","rsd",10,45,102,282
+"416","Oct","2003","Siri Fort","rsd",14,46,162,345
+"417","Oct","2003","Siri Fort","rsd",14,54,256,606
+"418","Oct","2003","Siri Fort","rsd",16,49,164,379
+"419","Mar","2003","Siri Fort","rsd",10,36,281,411
+"420","Jun","2003","Siri Fort","rsd",8,39,140,269
+"421","Nov","2003","Siri Fort","rsd",11,33,114,343
+"422","Nov","2003","Siri Fort","rsd",10,34,148,373
+"423","Nov","2003","Siri Fort","rsd",10,25,132,265
+"424","Nov","2003","Siri Fort","rsd",9,32,125,319
+"425","Feb","2003","Siri Fort","rsd",8,27,93,285
+"426","May","2003","Siri Fort","rsd",10,28,95,268
+"427","Oct","2003","Siri Fort","rsd",8,31,93,279
+"428","Dec","2003","Siri Fort","rsd",7,27,51,215
+"429","Dec","2003","Siri Fort","rsd",7,34,64,164
+"430","Dec","2003","Siri Fort","rsd",13,41,221,472
+"431","Dec","2003","Siri Fort","rsd",11,45,289,497
+"432","Jul","2003","N.Y. School","rsd",6,34,NA,329
+"433","Aug","2003","N.Y. School","rsd",8,50,NA,392
+"434","Jan","2003","N.Y. School","rsd",6,76,NA,450
+"435","Jan","2003","N.Y. School","rsd",6,94,NA,625
+"436","Jan","2003","N.Y. School","rsd",6,69,NA,448
+"437","Jan","2003","N.Y. School","rsd",6,65,NA,628
+"438","Jan","2003","N.Y. School","rsd",6,42,NA,143
+"439","Jan","2003","N.Y. School","rsd",6,48,NA,279
+"440","Apr","2003","N.Y. School","rsd",6,32,NA,208
+"441","May","2003","N.Y. School","rsd",6,39,NA,290
+"442","Nov","2003","N.Y. School","rsd",6,81,NA,401
+"443","Dec","2003","N.Y. School","rsd",6,65,NA,339
+"444","Feb","2003","N.Y. School","rsd",8,22,NA,105
+"445","Feb","2003","N.Y. School","rsd",6,51,NA,285
+"446","Feb","2003","N.Y. School","rsd",6,45,NA,210
+"447","Feb","2003","N.Y. School","rsd",6,52,NA,323
+"448","Apr","2003","N.Y. School","rsd",6,28,NA,367
+"449","May","2003","N.Y. School","rsd",6,41,NA,263
+"450","Nov","2003","N.Y. School","rsd",6,71,NA,352
+"451","Dec","2003","N.Y. School","rsd",11,60,NA,366
+"452","Mar","2003","N.Y. School","rsd",9,43,NA,291
+"453","Mar","2003","N.Y. School","rsd",8,40,NA,271
+"454","Mar","2003","N.Y. School","rsd",8,37,NA,333
+"455","Mar","2003","N.Y. School","rsd",10,38,NA,256
+"456","Jan","2003","N.Y. School","rsd",6,31,NA,346
+"457","Feb","2003","N.Y. School","rsd",14,55,NA,361
+"458","Jul","2003","N.Y. School","rsd",9,44,NA,320
+"459","Aug","2003","N.Y. School","rsd",7,58,NA,305
+"460","Apr","2003","N.Y. School","rsd",10,53,NA,585
+"461","Apr","2003","N.Y. School","rsd",12,41,NA,717
+"462","Apr","2003","N.Y. School","rsd",14,44,NA,317
+"463","Apr","2003","N.Y. School","rsd",10,51,NA,396
+"464","Jun","2003","N.Y. School","rsd",12,63,NA,485
+"465","Jul","2003","N.Y. School","rsd",15,65,NA,575
+"466","Oct","2003","N.Y. School","rsd",11,64,NA,590
+"467","Nov","2003","N.Y. School","rsd",14,38,NA,640
+"468","May","2003","N.Y. School","rsd",7,53,NA,420
+"469","May","2003","N.Y. School","rsd",7,64,NA,995
+"470","May","2003","N.Y. School","rsd",6,43,NA,1294
+"471","May","2003","N.Y. School","rsd",6,43,NA,394
+"472","Mar","2003","N.Y. School","rsd",6,28,NA,772
+"473","Apr","2003","N.Y. School","rsd",7,26,NA,1465
+"474","Jun","2003","N.Y. School","rsd",6,23,NA,747
+"475","Jun","2003","N.Y. School","rsd",6,25,NA,194
+"476","Jun","2003","N.Y. School","rsd",6,36,NA,197
+"477","Jun","2003","N.Y. School","rsd",8,24,NA,215
+"478","Jun","2003","N.Y. School","rsd",6,22,NA,193
+"479","Jun","2003","N.Y. School","rsd",6,21,NA,397
+"480","Jan","2003","N.Y. School","rsd",7,17,NA,380
+"481","Feb","2003","N.Y. School","rsd",7,14,NA,251
+"482","Aug","2003","N.Y. School","rsd",6,23,NA,127
+"483","Sep","2003","N.Y. School","rsd",6,25,NA,89
+"484","Jul","2003","N.Y. School","rsd",7,26,NA,94
+"485","Jul","2003","N.Y. School","rsd",6,28,NA,155
+"486","Jul","2003","N.Y. School","rsd",6,22,NA,162
+"487","Jul","2003","N.Y. School","rsd",6,19,NA,249
+"488","May","2003","N.Y. School","rsd",8,39,NA,155
+"489","Jun","2003","N.Y. School","rsd",6,45,NA,133
+"490","Nov","2003","N.Y. School","rsd",6,32,NA,110
+"491","Dec","2003","N.Y. School","rsd",6,31,NA,161
+"492","Aug","2003","N.Y. School","rsd",6,25,NA,173
+"493","Aug","2003","N.Y. School","rsd",6,24,NA,206
+"494","Aug","2003","N.Y. School","rsd",6,29,NA,120
+"495","Aug","2003","N.Y. School","rsd",7,26,NA,117
+"496","Feb","2003","N.Y. School","rsd",6,32,NA,144
+"497","Mar","2003","N.Y. School","rsd",7,33,NA,111
+"498","Sep","2003","N.Y. School","rsd",6,50,NA,247
+"499","Oct","2003","N.Y. School","rsd",6,35,NA,167
+"500","Sep","2003","N.Y. School","rsd",6,32,NA,114
+"501","Sep","2003","N.Y. School","rsd",7,29,NA,86
+"502","Sep","2003","N.Y. School","rsd",6,31,NA,126
+"503","Sep","2003","N.Y. School","rsd",7,25,NA,131
+"504","Jul","2003","N.Y. School","rsd",6,43,NA,322
+"505","Aug","2003","N.Y. School","rsd",6,57,NA,428
+"506","Oct","2003","N.Y. School","rsd",9,54,NA,374
+"507","Oct","2003","N.Y. School","rsd",10,61,NA,468
+"508","Oct","2003","N.Y. School","rsd",7,66,NA,761
+"509","Oct","2003","N.Y. School","rsd",26,62,NA,747
+"510","Oct","2003","N.Y. School","rsd",6,76,NA,437
+"511","Oct","2003","N.Y. School","rsd",6,75,NA,529
+"512","Apr","2003","N.Y. School","rsd",6,91,NA,562
+"513","May","2003","N.Y. School","rsd",6,89,NA,525
+"514","Nov","2003","N.Y. School","rsd",7,62,NA,563
+"515","Nov","2003","N.Y. School","rsd",11,59,NA,382
+"516","Nov","2003","N.Y. School","rsd",6,54,NA,326
+"517","Nov","2003","N.Y. School","rsd",7,69,NA,344
+"518","Nov","2003","N.Y. School","rsd",9,77,NA,583
+"519","Nov","2003","N.Y. School","rsd",9,76,NA,539
+"520","Jun","2003","N.Y. School","rsd",6,64,NA,505
+"521","Jul","2003","N.Y. School","rsd",8,77,NA,613
+"522","Sep","2003","N.Y. School","rsd",6,65,NA,526
+"523","Oct","2003","N.Y. School","rsd",6,63,NA,439
+"524","Dec","2003","N.Y. School","rsd",6,42,NA,222
+"525","Dec","2003","N.Y. School","rsd",6,44,NA,206
+"526","Dec","2003","N.Y. School","rsd",6,53,NA,516
+"527","Dec","2003","N.Y. School","rsd",6,36,NA,276
+"528","Apr","2003","Mayapuri","ind",23,26,NA,430
+"529","May","2003","Mayapuri","ind",20,25,NA,356
+"530","Nov","2003","Mayapuri","ind",17,45,NA,576
+"531","Dec","2003","Mayapuri","ind",27,51,NA,559
+"532","Mar","2003","Mayapuri","ind",28,58,NA,508
+"533","Mar","2003","Mayapuri","ind",20,53,NA,584
+"534","Mar","2003","Mayapuri","ind",14,34,NA,373
+"535","Mar","2003","Mayapuri","ind",14,34,NA,452
+"536","Jan","2003","Mayapuri","ind",10,34,NA,522
+"537","Feb","2003","Mayapuri","ind",20,51,NA,528
+"538","Jul","2003","Mayapuri","ind",9,49,NA,436
+"539","Aug","2003","Mayapuri","ind",15,63,NA,404
+"540","Apr","2003","Mayapuri","ind",16,42,NA,463
+"541","Apr","2003","Mayapuri","ind",13,39,NA,568
+"542","Apr","2003","Mayapuri","ind",22,42,NA,266
+"543","Apr","2003","Mayapuri","ind",9,51,NA,183
+"544","Mar","2003","Mayapuri","ind",10,46,NA,1182
+"545","Apr","2003","Mayapuri","ind",26,48,NA,556
+"546","Jun","2003","Mayapuri","ind",19,60,NA,557
+"547","Jul","2003","Mayapuri","ind",23,64,NA,586
+"548","May","2003","Mayapuri","ind",11,52,NA,371
+"549","May","2003","Mayapuri","ind",16,42,NA,767
+"550","May","2003","Mayapuri","ind",9,56,NA,1067
+"551","May","2003","Mayapuri","ind",6,44,NA,1450
+"552","Jul","2003","Mayapuri","ind",6,33,NA,1795
+"553","Aug","2003","Mayapuri","ind",6,27,NA,653
+"554","Jun","2003","Mayapuri","ind",6,35,NA,977
+"555","Jun","2003","Mayapuri","ind",7,39,NA,265
+"556","Jun","2003","Mayapuri","ind",7,38,NA,245
+"557","Jun","2003","Mayapuri","ind",6,27,NA,183
+"558","Jun","2003","Mayapuri","ind",6,26,NA,218
+"559","Jun","2003","Mayapuri","ind",7,28,NA,517
+"560","Jan","2003","Mayapuri","ind",6,21,NA,521
+"561","Feb","2003","Mayapuri","ind",6,27,NA,226
+"562","Nov","2003","Mayapuri","ind",6,29,NA,146
+"563","Dec","2003","Mayapuri","ind",6,22,NA,149
+"564","Jul","2003","Mayapuri","ind",5,19,NA,152
+"565","Jul","2003","Mayapuri","ind",6,22,NA,159
+"566","Jul","2003","Mayapuri","ind",7,26,NA,212
+"567","Jul","2003","Mayapuri","ind",7,29,NA,343
+"568","May","2003","Mayapuri","ind",7,40,NA,186
+"569","Jun","2003","Mayapuri","ind",7,40,NA,158
+"570","Nov","2003","Mayapuri","ind",12,28,NA,195
+"571","Dec","2003","Mayapuri","ind",12,29,NA,197
+"572","Aug","2003","Mayapuri","ind",15,27,NA,162
+"573","Aug","2003","Mayapuri","ind",7,24,NA,97
+"574","Aug","2003","Mayapuri","ind",7,32,NA,109
+"575","Aug","2003","Mayapuri","ind",6,28,NA,95
+"576","Jun","2003","Mayapuri","ind",7,31,NA,126
+"577","Jul","2003","Mayapuri","ind",13,25,NA,164
+"578","Sep","2003","Mayapuri","ind",11,43,NA,338
+"579","Oct","2003","Mayapuri","ind",12,31,NA,232
+"580","Sep","2003","Mayapuri","ind",10,33,NA,194
+"581","Sep","2003","Mayapuri","ind",7,29,NA,132
+"582","Sep","2003","Mayapuri","ind",6,30,NA,146
+"583","Sep","2003","Mayapuri","ind",9,27,NA,156
+"584","Nov","2003","Mayapuri","ind",33,49,NA,563
+"585","Dec","2003","Mayapuri","ind",33,48,NA,526
+"586","Oct","2003","Mayapuri","ind",27,65,NA,547
+"587","Oct","2003","Mayapuri","ind",25,59,NA,700
+"588","Oct","2003","Mayapuri","ind",25,65,NA,613
+"589","Oct","2003","Mayapuri","ind",17,63,NA,714
+"590","Oct","2003","Mayapuri","ind",18,73,NA,555
+"591","Oct","2003","Mayapuri","ind",23,58,NA,603
+"592","Apr","2003","Mayapuri","ind",7,94,NA,616
+"593","May","2003","Mayapuri","ind",9,103,NA,510
+"594","Nov","2003","Mayapuri","ind",13,77,NA,695
+"595","Dec","2003","Mayapuri","ind",10,82,NA,685
+"596","Nov","2003","Mayapuri","ind",15,41,NA,529
+"597","Nov","2003","Mayapuri","ind",22,45,NA,477
+"598","Nov","2003","Mayapuri","ind",24,64,NA,600
+"599","Nov","2003","Mayapuri","ind",26,72,NA,658
+"600","Mar","2003","Mayapuri","ind",13,82,NA,922
+"601","Apr","2003","Mayapuri","ind",9,89,NA,982
+"602","Sep","2003","Mayapuri","ind",6,58,NA,429
+"603","Oct","2003","Mayapuri","ind",13,71,NA,447
+"604","Dec","2003","Mayapuri","ind",11,51,NA,311
+"605","Dec","2003","Mayapuri","ind",6,52,NA,310
+"606","Dec","2003","Mayapuri","ind",18,54,NA,505
+"607","Dec","2003","Mayapuri","ind",12,52,NA,489
+"608","Jul","2003","Town Hall","rsd",6,43,NA,334
+"609","Aug","2003","Town Hall","rsd",14,56,NA,469
+"610","Jan","2003","Town Hall","rsd",6,119,NA,505
+"611","Jan","2003","Town Hall","rsd",7,120,NA,721
+"612","Jan","2003","Town Hall","rsd",6,78,NA,705
+"613","Jan","2003","Town Hall","rsd",7,93,NA,800
+"614","Jan","2003","Town Hall","rsd",7,57,NA,257
+"615","Jan","2003","Town Hall","rsd",6,53,NA,437
+"616","Apr","2003","Town Hall","rsd",10,76,NA,387
+"617","May","2003","Town Hall","rsd",11,54,NA,454
+"618","Nov","2003","Town Hall","rsd",13,76,NA,590
+"619","Dec","2003","Town Hall","rsd",6,72,NA,415
+"620","Feb","2003","Town Hall","rsd",6,27,NA,162
+"621","Feb","2003","Town Hall","rsd",14,58,NA,435
+"622","Feb","2003","Town Hall","rsd",10,47,NA,335
+"623","Feb","2003","Town Hall","rsd",17,58,NA,475
+"624","Apr","2003","Town Hall","rsd",7,33,NA,388
+"625","May","2003","Town Hall","rsd",11,64,NA,363
+"626","Nov","2003","Town Hall","rsd",17,81,NA,559
+"627","Dec","2003","Town Hall","rsd",26,77,NA,513
+"628","Mar","2003","Town Hall","rsd",23,64,NA,454
+"629","Mar","2003","Town Hall","rsd",24,80,NA,533
+"630","Mar","2003","Town Hall","rsd",24,54,NA,403
+"631","Mar","2003","Town Hall","rsd",17,66,NA,422
+"632","Jan","2003","Town Hall","rsd",7,35,NA,351
+"633","Feb","2003","Town Hall","rsd",27,64,NA,512
+"634","Jul","2003","Town Hall","rsd",14,56,NA,406
+"635","Aug","2003","Town Hall","rsd",16,61,NA,570
+"636","Apr","2003","Town Hall","rsd",14,58,NA,657
+"637","Apr","2003","Town Hall","rsd",23,86,NA,737
+"638","Apr","2003","Town Hall","rsd",24,67,NA,442
+"639","Apr","2003","Town Hall","rsd",16,62,NA,423
+"640","Jun","2003","Town Hall","rsd",18,47,NA,636
+"641","May","2003","Town Hall","rsd",6,43,NA,906
+"642","May","2003","Town Hall","rsd",9,50,NA,464
+"643","May","2003","Town Hall","rsd",22,64,NA,445
+"644","May","2003","Town Hall","rsd",12,51,NA,678
+"645","May","2003","Town Hall","rsd",6,71,NA,946
+"646","May","2003","Town Hall","rsd",6,49,NA,1235
+"647","May","2003","Town Hall","rsd",6,55,NA,471
+"648","Mar","2003","Town Hall","rsd",6,39,NA,838
+"649","Apr","2003","Town Hall","rsd",7,31,NA,1560
+"650","Jun","2003","Town Hall","rsd",6,34,NA,791
+"651","Jun","2003","Town Hall","rsd",6,34,NA,289
+"652","Jun","2003","Town Hall","rsd",6,35,NA,282
+"653","Jun","2003","Town Hall","rsd",7,28,NA,490
+"654","Jun","2003","Town Hall","rsd",7,44,NA,336
+"655","Jun","2003","Town Hall","rsd",7,45,NA,837
+"656","Jan","2003","Town Hall","rsd",6,25,NA,561
+"657","Feb","2003","Town Hall","rsd",8,21,NA,317
+"658","Aug","2003","Town Hall","rsd",7,43,NA,260
+"659","Sep","2003","Town Hall","rsd",6,30,NA,119
+"660","Jul","2003","Town Hall","rsd",8,31,NA,212
+"661","Jul","2003","Town Hall","rsd",8,38,NA,254
+"662","Jul","2003","Town Hall","rsd",6,21,NA,220
+"663","Jul","2003","Town Hall","rsd",6,20,NA,356
+"664","May","2003","Town Hall","rsd",6,58,NA,401
+"665","Jun","2003","Town Hall","rsd",7,74,NA,313
+"666","Aug","2003","Town Hall","rsd",8,39,NA,114
+"667","Aug","2003","Town Hall","rsd",6,24,NA,212
+"668","Aug","2003","Town Hall","rsd",6,31,NA,257
+"669","Aug","2003","Town Hall","rsd",8,38,NA,302
+"670","Aug","2003","Town Hall","rsd",7,47,NA,184
+"671","Aug","2003","Town Hall","rsd",9,31,NA,204
+"672","Feb","2003","Town Hall","rsd",8,33,NA,258
+"673","Mar","2003","Town Hall","rsd",9,32,NA,159
+"674","Sep","2003","Town Hall","rsd",8,58,NA,435
+"675","Oct","2003","Town Hall","rsd",9,40,NA,307
+"676","Sep","2003","Town Hall","rsd",8,40,NA,221
+"677","Sep","2003","Town Hall","rsd",8,39,NA,174
+"678","Sep","2003","Town Hall","rsd",7,40,NA,146
+"679","Sep","2003","Town Hall","rsd",9,35,NA,156
+"680","Jul","2003","Town Hall","rsd",18,64,NA,497
+"681","Aug","2003","Town Hall","rsd",18,80,NA,654
+"682","Oct","2003","Town Hall","rsd",16,59,NA,679
+"683","Oct","2003","Town Hall","rsd",19,52,NA,732
+"684","Oct","2003","Town Hall","rsd",16,72,NA,724
+"685","Oct","2003","Town Hall","rsd",18,86,NA,849
+"686","Oct","2003","Town Hall","rsd",10,96,NA,563
+"687","Oct","2003","Town Hall","rsd",16,92,NA,760
+"688","Apr","2003","Town Hall","rsd",18,107,NA,893
+"689","May","2003","Town Hall","rsd",20,104,NA,684
+"690","Nov","2003","Town Hall","rsd",19,128,NA,934
+"691","Dec","2003","Town Hall","rsd",18,136,NA,980
+"692","Nov","2003","Town Hall","rsd",12,68,NA,492
+"693","Nov","2003","Town Hall","rsd",12,69,NA,524
+"694","Nov","2003","Town Hall","rsd",10,47,NA,555
+"695","Nov","2003","Town Hall","rsd",21,83,NA,834
+"696","Mar","2003","Town Hall","rsd",16,117,NA,924
+"697","Apr","2003","Town Hall","rsd",14,102,NA,869
+"698","Sep","2003","Town Hall","rsd",8,67,NA,466
+"699","Oct","2003","Town Hall","rsd",18,76,NA,606
+"700","Dec","2003","Town Hall","rsd",6,43,NA,321
+"701","Dec","2003","Town Hall","rsd",6,50,NA,329
+"702","Dec","2003","Town Hall","rsd",15,77,NA,757
+"703","Dec","2003","Town Hall","rsd",6,67,NA,464

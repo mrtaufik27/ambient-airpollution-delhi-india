@@ -1,0 +1,109 @@
+"","mn","yr","st","PM10","SO2","NO2","typ","SPM"
+"1","Jan","2000","Nizamuddin",NA,17.7,34.6,"ind",243
+"2","Jan","2000","Ashok Vihar",NA,11.5,31.9,"ind",270
+"3","Jan","2000","Shahzada Bagh",NA,19.1,40.7,"ind",303
+"4","Jan","2000","Shahadra",NA,20.8,24.9,"ind",228
+"5","Jan","2000","Janakpuri",NA,19.6,27.2,"rsd",256
+"6","Jan","2000","Siri Fort",NA,15.9,19.4,"rsd",187
+"7","Jan","2000","N.Y. School",NA,6.5,58,"rsd",486
+"8","Jan","2000","Mayapuri",NA,17.2,60.4,"ind",424
+"9","Jan","2000","Town Hall",NA,11.9,63,"rsd",418
+"10","Feb","2000","Nizamuddin",NA,18.1,38.3,"ind",183
+"11","Feb","2000","Ashok Vihar",NA,9.6,27.1,"ind",188
+"12","Feb","2000","Shahzada Bagh",NA,16.6,37.5,"ind",192
+"13","Feb","2000","Shahadra",NA,18.3,21.9,"ind",192
+"14","Feb","2000","Janakpuri",NA,18.8,26.6,"rsd",204
+"15","Feb","2000","Siri Fort",NA,16,20.5,"rsd",163
+"16","Feb","2000","N.Y. School",NA,6.3,56.3,"rsd",344
+"17","Feb","2000","Mayapuri",NA,11.1,62.1,"ind",390
+"18","Feb","2000","Town Hall",NA,11.8,64.9,"rsd",434
+"19","Mar","2000","Nizamuddin",NA,17.8,37.2,"ind",313
+"20","Mar","2000","Ashok Vihar",NA,10.7,27.9,"ind",231
+"21","Mar","2000","Shahzada Bagh",NA,20.5,48.6,"ind",297
+"22","Mar","2000","Shahadra",NA,19.9,24.5,"ind",224
+"23","Mar","2000","Janakpuri",NA,19.3,26.6,"rsd",217
+"24","Mar","2000","Siri Fort",NA,15.4,21.5,"rsd",136
+"25","Mar","2000","N.Y. School",NA,10,56.7,"rsd",382
+"26","Mar","2000","Mayapuri",NA,15.7,51.2,"ind",459
+"27","Mar","2000","Town Hall",NA,22.1,56.3,"rsd",548
+"28","Apr","2000","Nizamuddin",NA,19.3,29.5,"ind",393
+"29","Apr","2000","Ashok Vihar",NA,11.5,25.3,"ind",352
+"30","Apr","2000","Shahzada Bagh",NA,23.3,46,"ind",387
+"31","Apr","2000","Shahadra",NA,28.7,36.5,"ind",412
+"32","Apr","2000","Janakpuri",NA,18.6,35.7,"rsd",228
+"33","Apr","2000","Siri Fort",NA,19.6,23.7,"rsd",268
+"34","Apr","2000","N.Y. School",NA,11.6,59.2,"rsd",623
+"35","Apr","2000","Mayapuri",NA,21.8,58.1,"ind",756
+"36","Apr","2000","Town Hall",NA,16.9,57.5,"rsd",779
+"37","May","2000","Nizamuddin",NA,16.9,23.5,"ind",525
+"38","May","2000","Ashok Vihar",NA,11,19.2,"ind",348
+"39","May","2000","Shahzada Bagh",NA,22.6,41.4,"ind",523
+"40","May","2000","Shahadra",NA,16.9,24.4,"ind",501
+"41","May","2000","Janakpuri",NA,18.8,36.7,"rsd",400
+"42","May","2000","Siri Fort",NA,15,23,"rsd",317
+"43","May","2000","N.Y. School",NA,8.7,47.5,"rsd",883
+"44","May","2000","Mayapuri",NA,13.5,46.7,"ind",1052
+"45","May","2000","Town Hall",NA,14,46.1,"rsd",804
+"46","Jun","2000","Nizamuddin",NA,16.1,24.5,"ind",243
+"47","Jun","2000","Ashok Vihar",NA,9.8,17.2,"ind",417
+"48","Jun","2000","Shahzada Bagh",NA,13.2,22.9,"ind",378
+"49","Jun","2000","Shahadra",NA,18.2,27.8,"ind",405
+"50","Jun","2000","Janakpuri",NA,19.9,29.4,"rsd",159
+"51","Jun","2000","Siri Fort",NA,16.3,27,"rsd",249
+"52","Jun","2000","N.Y. School",NA,6,25.2,"rsd",465
+"53","Jun","2000","Mayapuri",NA,7.3,32.8,"ind",837
+"54","Jun","2000","Town Hall",NA,7.7,36.7,"rsd",745
+"55","Jul","2000","Nizamuddin",NA,20.8,33.4,"ind",163
+"56","Jul","2000","Ashok Vihar",NA,12.2,20.7,"ind",212
+"57","Jul","2000","Shahzada Bagh",NA,19,33.7,"ind",357
+"58","Jul","2000","Shahadra",NA,15,27,"ind",199
+"59","Jul","2000","Janakpuri",NA,16.3,37.6,"rsd",218
+"60","Jul","2000","Siri Fort",NA,14.4,23.4,"rsd",147
+"61","Jul","2000","N.Y. School",NA,6.2,27,"rsd",338
+"62","Jul","2000","Mayapuri",NA,10.4,51.3,"ind",478
+"63","Jul","2000","Town Hall",NA,7,47.7,"rsd",383
+"64","Aug","2000","Nizamuddin",NA,16.2,33.1,"ind",148
+"65","Aug","2000","Ashok Vihar",NA,7.2,18.1,"ind",199
+"66","Aug","2000","Shahzada Bagh",NA,13.6,39.3,"ind",244
+"67","Aug","2000","Shahadra",NA,16.3,25.4,"ind",149
+"68","Aug","2000","Janakpuri",NA,16.3,29.6,"rsd",282
+"69","Aug","2000","Siri Fort",NA,16.1,25.4,"rsd",149
+"70","Aug","2000","N.Y. School",NA,6,41.3,"rsd",409
+"71","Aug","2000","Mayapuri",NA,6.1,24.1,"ind",NA
+"72","Aug","2000","Town Hall",NA,6,47.1,"rsd",345
+"73","Sep","2000","Nizamuddin",NA,17.8,35.5,"ind",179
+"74","Sep","2000","Ashok Vihar",NA,8.5,21.3,"ind",157
+"75","Sep","2000","Shahzada Bagh",NA,12.9,46.6,"ind",262
+"76","Sep","2000","Shahadra",NA,13.7,20.8,"ind",196
+"77","Sep","2000","Janakpuri",NA,15.4,36.9,"rsd",167
+"78","Sep","2000","Siri Fort",NA,14.8,23,"rsd",176
+"79","Sep","2000","N.Y. School",NA,10.9,36.9,"rsd",232
+"80","Sep","2000","Mayapuri",NA,17,46.3,"ind",NA
+"81","Sep","2000","Town Hall",NA,15.4,61.2,"rsd",629
+"82","Oct","2000","Nizamuddin",NA,17.3,37.6,"ind",312
+"83","Oct","2000","Ashok Vihar",NA,20.4,52.9,"ind",556
+"84","Oct","2000","Shahzada Bagh",NA,17.8,48.8,"ind",426
+"85","Oct","2000","Shahadra",NA,13.2,22,"ind",343
+"86","Oct","2000","Janakpuri",NA,17.6,30.5,"rsd",233
+"87","Oct","2000","Siri Fort",NA,14.5,25.4,"rsd",302
+"88","Oct","2000","N.Y. School",NA,11.2,73.8,"rsd",509
+"89","Oct","2000","Mayapuri",NA,22.3,82.5,"ind",688
+"90","Oct","2000","Town Hall",NA,16.4,71.4,"rsd",603
+"91","Nov","2000","Nizamuddin",NA,20.9,35,"ind",340
+"92","Nov","2000","Ashok Vihar",NA,11.3,27.3,"ind",346
+"93","Nov","2000","Shahzada Bagh",NA,11.8,39.4,"ind",419
+"94","Nov","2000","Shahadra",NA,14.8,26.1,"ind",293
+"95","Nov","2000","Janakpuri",NA,21.1,34.5,"rsd",273
+"96","Nov","2000","Siri Fort",NA,17.3,31.2,"rsd",314
+"97","Nov","2000","N.Y. School",NA,9.9,87.1,"rsd",NA
+"98","Nov","2000","Mayapuri",NA,19.6,85.8,"ind",903
+"99","Nov","2000","Town Hall",NA,29,110.5,"rsd",741
+"100","Dec","2000","Nizamuddin",NA,20.7,42.5,"ind",340
+"101","Dec","2000","Ashok Vihar",NA,11.9,27.5,"ind",375
+"102","Dec","2000","Shahzada Bagh",NA,14.6,44.4,"ind",356
+"103","Dec","2000","Shahadra",NA,18.7,33.5,"ind",275
+"104","Dec","2000","Janakpuri",NA,20.4,42,"rsd",369
+"105","Dec","2000","Siri Fort",NA,16.4,31.5,"rsd",295
+"106","Dec","2000","N.Y. School",NA,7,61,"rsd",583
+"107","Dec","2000","Mayapuri",NA,11.4,84.8,"ind",970
+"108","Dec","2000","Town Hall",NA,9.3,121.3,"rsd",516

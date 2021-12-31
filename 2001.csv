@@ -1,0 +1,100 @@
+"","mn","yr","st","typ","SO2","NO2","PM10","SPM"
+"1","Jan","2001","Nizamuddin","ind",16.3,35.9,NA,278
+"2","Feb","2001","Nizamuddin","ind",18.1,44.3,NA,367
+"3","Mar","2001","Nizamuddin","ind",17.7,35.1,NA,280
+"4","Apr","2001","Nizamuddin","ind",16.3,39.8,NA,342
+"5","May","2001","Nizamuddin","ind",16.5,33.6,NA,285
+"6","Jun","2001","Nizamuddin","ind",17.9,37.7,NA,193
+"7","Jul","2001","Nizamuddin","ind",13.3,20,NA,155
+"8","Aug","2001","Nizamuddin","ind",16.2,33.2,NA,147
+"9","Sep","2001","Nizamuddin","ind",17.4,33,NA,202
+"10","Oct","2001","Nizamuddin","ind",15.2,36,NA,283
+"11","Nov","2001","Nizamuddin","ind",18.5,42.4,NA,341
+"12","Dec","2001","Nizamuddin","ind",19.7,39.5,NA,301
+"13","Jan","2001","Ashok Vihar","ind",10,22.7,NA,289
+"14","Feb","2001","Ashok Vihar","ind",9.7,21.3,NA,365
+"15","Mar","2001","Ashok Vihar","ind",6.9,14.6,NA,281
+"16","May","2001","Ashok Vihar","ind",10.1,20.8,NA,251
+"17","Jun","2001","Ashok Vihar","ind",8.5,19.2,NA,205
+"18","Jul","2001","Ashok Vihar","ind",8.8,18.2,NA,163
+"19","Aug","2001","Ashok Vihar","ind",7.5,16.3,NA,193
+"20","Sep","2001","Ashok Vihar","ind",6.2,14.4,NA,199
+"21","Oct","2001","Ashok Vihar","ind",6.9,16.2,NA,NA
+"22","Nov","2001","Ashok Vihar","ind",9.2,31.2,NA,544
+"23","Dec","2001","Ashok Vihar","ind",7.8,22.7,NA,344
+"24","Jan","2001","Shahzada Bagh","ind",12.6,29.1,NA,280
+"25","Feb","2001","Shahzada Bagh","ind",16.8,43.1,NA,365
+"26","Mar","2001","Shahzada Bagh","ind",20.5,45.7,NA,411
+"27","Apr","2001","Shahzada Bagh","ind",17.5,36,NA,428
+"28","May","2001","Shahzada Bagh","ind",17.1,38.3,NA,415
+"29","Jun","2001","Shahzada Bagh","ind",12,30,NA,353
+"30","Jul","2001","Shahzada Bagh","ind",11.7,30.7,NA,258
+"31","Aug","2001","Shahzada Bagh","ind",11.4,35.6,NA,352
+"32","Sep","2001","Shahzada Bagh","ind",10.6,33.3,NA,332
+"33","Oct","2001","Shahzada Bagh","ind",11.9,36.1,NA,448
+"34","Nov","2001","Shahzada Bagh","ind",12.1,38.5,NA,530
+"35","Dec","2001","Shahzada Bagh","ind",9.5,30.4,NA,422
+"36","Jan","2001","Shahadra","ind",13,22.4,NA,296
+"37","Feb","2001","Shahadra","ind",12.5,20.2,NA,353
+"38","Mar","2001","Shahadra","ind",12.3,20.3,NA,316
+"39","Apr","2001","Shahadra","ind",10.1,20.1,NA,390
+"40","May","2001","Shahadra","ind",13.7,21.1,NA,341
+"41","Jun","2001","Shahadra","ind",12.4,20.6,NA,189
+"42","Jul","2001","Shahadra","ind",12.7,18.3,NA,185
+"43","Aug","2001","Shahadra","ind",14.1,21.9,NA,184
+"44","Sep","2001","Shahadra","ind",13.9,20.4,NA,228
+"45","Oct","2001","Shahadra","ind",16,22.9,NA,324
+"46","Nov","2001","Shahadra","ind",14.6,33.1,NA,426
+"47","Dec","2001","Shahadra","ind",9.9,30,NA,305
+"48","Jan","2001","Janakpuri","rsd",15.3,38.4,NA,363
+"49","Feb","2001","Janakpuri","rsd",17.3,43.6,NA,260
+"50","Mar","2001","Janakpuri","rsd",16.3,35.5,NA,337
+"51","Jun","2001","Janakpuri","rsd",16.3,30.4,NA,277
+"52","Jul","2001","Janakpuri","rsd",13.6,34.6,NA,143
+"53","Aug","2001","Janakpuri","rsd",16.1,35.3,NA,269
+"54","Sep","2001","Janakpuri","rsd",13.9,33.5,NA,245
+"55","Oct","2001","Janakpuri","rsd",17.1,39.5,NA,267
+"56","Nov","2001","Janakpuri","rsd",19.3,44.2,NA,365
+"57","Dec","2001","Janakpuri","rsd",19.1,37.8,NA,285
+"58","Jan","2001","Siri Fort","rsd",15.5,20.8,NA,323
+"59","Feb","2001","Siri Fort","rsd",15.6,26,NA,330
+"60","Mar","2001","Siri Fort","rsd",14.8,24.4,NA,370
+"61","Apr","2001","Siri Fort","rsd",11.6,19.4,NA,461
+"62","May","2001","Siri Fort","rsd",11.4,18.1,NA,457
+"63","Jun","2001","Siri Fort","rsd",11.8,19.7,NA,196
+"64","Jul","2001","Siri Fort","rsd",12.1,17.8,NA,238
+"65","Aug","2001","Siri Fort","rsd",14.4,22.2,NA,181
+"66","Sep","2001","Siri Fort","rsd",14.9,22.2,NA,300
+"67","Oct","2001","Siri Fort","rsd",14.9,20.1,NA,343
+"68","Nov","2001","Siri Fort","rsd",14.4,28.2,NA,336
+"69","Dec","2001","Siri Fort","rsd",12.1,29.2,NA,459
+"70","Jan","2001","N.Y. School","rsd",10.2,81.8,NA,441
+"71","Feb","2001","N.Y. School","rsd",11.7,73.7,NA,339
+"72","Mar","2001","N.Y. School","rsd",7.4,61.1,NA,372
+"73","Apr","2001","N.Y. School","rsd",7.3,42.8,NA,823
+"74","May","2001","N.Y. School","rsd",6.1,36.4,NA,281
+"75","Jun","2001","N.Y. School","rsd",6.6,38.3,NA,162
+"76","Jul","2001","N.Y. School","rsd",6,32,NA,195
+"77","Aug","2001","N.Y. School","rsd",6.2,25,NA,279
+"78","Sep","2001","N.Y. School","rsd",6.1,44,NA,307
+"79","Oct","2001","N.Y. School","rsd",6,49.2,NA,424
+"80","Nov","2001","N.Y. School","rsd",8.6,73,NA,598
+"81","Dec","2001","N.Y. School","rsd",9.2,71.4,NA,465
+"82","Jan","2001","Mayapuri","ind",18.7,76.6,NA,628
+"83","Feb","2001","Mayapuri","ind",22.6,79.9,NA,548
+"84","Mar","2001","Mayapuri","ind",14.1,63.1,NA,469
+"85","Apr","2001","Mayapuri","ind",11.8,65.7,NA,1048
+"86","May","2001","Mayapuri","ind",6.3,41.9,NA,NA
+"87","Jun","2001","Mayapuri","ind",8.7,66.4,NA,452
+"88","Jan","2001","Town Hall","rsd",17.8,121.1,NA,823
+"89","Feb","2001","Town Hall","rsd",33.7,88.3,NA,685
+"90","Mar","2001","Town Hall","rsd",15.6,85.2,NA,626
+"91","Apr","2001","Town Hall","rsd",11.5,60.5,NA,400
+"92","May","2001","Town Hall","rsd",6.8,55,NA,597
+"93","Jun","2001","Town Hall","rsd",12.1,64.4,NA,351
+"94","Jul","2001","Town Hall","rsd",6,55.6,NA,262
+"95","Aug","2001","Town Hall","rsd",6.2,32.9,NA,307
+"96","Sep","2001","Town Hall","rsd",6.7,63,NA,522
+"97","Oct","2001","Town Hall","rsd",9.3,70.3,NA,652
+"98","Nov","2001","Town Hall","rsd",17,82.2,NA,790
+"99","Dec","2001","Town Hall","rsd",20.6,74.5,NA,506

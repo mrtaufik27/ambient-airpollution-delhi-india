@@ -1,0 +1,599 @@
+"","mn","yr","st","typ","SO2","NO2","PM10","SPM"
+"1","Sep","2007","Mayapuri Indl. Area","ind",6,64.9,136,206
+"2","Oct","2007","Mayapuri Indl. Area","ind",2.6,41.1,40,64
+"3","Feb","2007","Mayapuri Indl. Area","ind",15.4,55.5,200,391
+"4","Feb","2007","Mayapuri Indl. Area","ind",16.6,59,173,372
+"5","Feb","2007","Mayapuri Indl. Area","ind",15.9,38.1,186,373
+"6","Feb","2007","Mayapuri Indl. Area","ind",20.6,49.6,215,480
+"7","Feb","2007","Mayapuri Indl. Area","ind",16.7,71.9,267,497
+"8","Feb","2007","Mayapuri Indl. Area","ind",9.4,37,175,341
+"9","Sep","2007","Mayapuri Indl. Area","ind",13.2,54.7,118,333
+"10","Oct","2007","Mayapuri Indl. Area","ind",9.7,64.3,85,247
+"11","Mar","2007","Mayapuri Indl. Area","ind",9.7,59.9,97,179
+"12","Mar","2007","Mayapuri Indl. Area","ind",8.8,43.7,146,300
+"13","Mar","2007","Mayapuri Indl. Area","ind",11.7,63.8,116,253
+"14","Mar","2007","Mayapuri Indl. Area","ind",11.2,57.7,146,343
+"15","Mar","2007","Mayapuri Indl. Area","ind",9,21.1,142,380
+"16","Mar","2007","Mayapuri Indl. Area","ind",10.5,23,174,419
+"17","Jan","2007","Mayapuri Indl. Area","ind",7.3,59,114,418
+"18","Feb","2007","Mayapuri Indl. Area","ind",11.2,92.2,111,275
+"19","Nov","2007","Mayapuri Indl. Area","ind",14.5,60.5,94,280
+"20","Dec","2007","Mayapuri Indl. Area","ind",5.9,60.8,71,229
+"21","May","2007","Mayapuri Indl. Area","ind",17.8,55.9,87,378
+"22","May","2007","Mayapuri Indl. Area","ind",11.1,47,117,508
+"23","May","2007","Mayapuri Indl. Area","ind",12.8,44.6,102,394
+"24","May","2007","Mayapuri Indl. Area","ind",16.5,80.4,138,503
+"25","Jan","2007","Mayapuri Indl. Area","ind",NA,51.7,44,114
+"26","Feb","2007","Mayapuri Indl. Area","ind",3,60.4,57,129
+"27","Jul","2007","Mayapuri Indl. Area","ind",NA,48,97,184
+"28","Aug","2007","Mayapuri Indl. Area","ind",2.6,45.1,61,145
+"29","Aug","2007","Mayapuri Indl. Area","ind",NA,35,150,465
+"30","Aug","2007","Mayapuri Indl. Area","ind",NA,38.2,107,255
+"31","Aug","2007","Mayapuri Indl. Area","ind",NA,47.4,141,193
+"32","Aug","2007","Mayapuri Indl. Area","ind",2.5,40.2,105,184
+"33","Mar","2007","Mayapuri Indl. Area","ind",17.1,104.4,259,526
+"34","Apr","2007","Mayapuri Indl. Area","ind",17.9,102.1,304,609
+"35","Sep","2007","Mayapuri Indl. Area","ind",7.6,88.7,273,580
+"36","Oct","2007","Mayapuri Indl. Area","ind",17,89.5,347,602
+"37","Oct","2007","Mayapuri Indl. Area","ind",16.7,126,516,917
+"38","Oct","2007","Mayapuri Indl. Area","ind",16.5,118.9,447,802
+"39","Oct","2007","Mayapuri Indl. Area","ind",23.3,117.1,426,854
+"40","Oct","2007","Mayapuri Indl. Area","ind",22.3,116,426,803
+"41","Feb","2007","Mayapuri Indl. Area","ind",14,121,500,887
+"42","Mar","2007","Mayapuri Indl. Area","ind",23.6,135.1,532,851
+"43","Apr","2007","Mayapuri Indl. Area","ind",15.2,115.1,707,1070
+"44","May","2007","Mayapuri Indl. Area","ind",18.6,112,598,850
+"45","Nov","2007","Mayapuri Indl. Area","ind",26.1,142.1,457,708
+"46","Nov","2007","Mayapuri Indl. Area","ind",23,136.9,468,785
+"47","Nov","2007","Mayapuri Indl. Area","ind",26.6,91.6,371,737
+"48","Nov","2007","Mayapuri Indl. Area","ind",25.1,105.5,618,1009
+"49","Apr","2007","Mayapuri Indl. Area","ind",22.1,92.9,397,644
+"50","May","2007","Mayapuri Indl. Area","ind",25.6,111.8,466,764
+"51","Nov","2007","Mayapuri Indl. Area","ind",28,109.2,313,469
+"52","Dec","2007","Mayapuri Indl. Area","ind",25.7,99.2,360,612
+"53","Dec","2007","Mayapuri Indl. Area","ind",25.3,91.7,436,669
+"54","Dec","2007","Mayapuri Indl. Area","ind",24.1,98.2,559,882
+"55","Dec","2007","Mayapuri Indl. Area","ind",27.5,99.2,381,646
+"56","Dec","2007","Mayapuri Indl. Area","ind",28.5,98,367,600
+"57","Mar","2007","Shahdara","ind",6.3,53.3,212,452
+"58","Aug","2007","Shahdara","ind",8.3,62.7,440,810
+"59","Nov","2007","Shahdara","ind",6.3,60.5,361,587
+"60","Jan","2007","Shahdara","ind",4.7,62.7,233,446
+"61","Jan","2007","Shahdara","ind",5,58.8,127,427
+"62","Jan","2007","Shahdara","ind",4.7,50.8,241,443
+"63","Jan","2007","Shahdara","ind",6.8,53.5,293,563
+"64","Jun","2007","Shahdara","ind",4,36.7,265,629
+"65","Sep","2007","Shahdara","ind",5.5,48.5,196,450
+"66","Feb","2007","Shahdara","ind",5.3,58.8,264,530
+"67","Feb","2007","Shahdara","ind",5.2,51,110,322
+"68","Feb","2007","Shahdara","ind",4.7,56.2,81,286
+"69","Jan","2007","Shahdara","ind",4.3,26.3,79,175
+"70","Jun","2007","Shahdara","ind",4.3,42,138,306
+"71","Sep","2007","Shahdara","ind",5.8,49,154,493
+"72","Mar","2007","Shahdara","ind",5,42.3,68,205
+"73","Mar","2007","Shahdara","ind",5,54.2,137,518
+"74","Mar","2007","Shahdara","ind",4.5,40.5,117,300
+"75","Mar","2007","Shahdara","ind",4.3,37.7,115,315
+"76","Mar","2007","Shahdara","ind",4.3,37,178,397
+"77","Sep","2007","Shahdara","ind",4.5,38.5,83,318
+"78","Dec","2007","Shahdara","ind",4.5,41.2,157,450
+"79","Apr","2007","Shahdara","ind",4.8,48.5,126,568
+"80","Apr","2007","Shahdara","ind",4.8,55.3,172,678
+"81","Apr","2007","Shahdara","ind",4.3,46,NA,722
+"82","Jan","2007","Shahdara","ind",4.7,51,NA,599
+"83","Jul","2007","Shahdara","ind",4.3,46,NA,452
+"84","Oct","2007","Shahdara","ind",4.5,52,NA,537
+"85","May","2007","Shahdara","ind",4.2,45.8,NA,490
+"86","May","2007","Shahdara","ind",4.2,56.7,NA,356
+"87","May","2007","Shahdara","ind",4,58.2,NA,406
+"88","May","2007","Shahdara","ind",4.7,52.2,NA,505
+"89","Jan","2007","Shahdara","ind",4.2,40.5,NA,355
+"90","Jun","2007","Shahdara","ind",4.2,44.2,NA,705
+"91","Nov","2007","Shahdara","ind",4.7,52.2,164,681
+"92","Jun","2007","Shahdara","ind",4.2,44.8,158,353
+"93","Jun","2007","Shahdara","ind",5,43,116,264
+"94","Jun","2007","Shahdara","ind",4.2,40.8,NA,202
+"95","Jun","2007","Shahdara","ind",4,41.2,NA,233
+"96","Mar","2007","Shahdara","ind",4,36.2,NA,141
+"97","Jun","2007","Shahdara","ind",4.2,39.7,NA,224
+"98","Jul","2007","Shahdara","ind",4.8,40,NA,314
+"99","Jul","2007","Shahdara","ind",4.3,31,NA,453
+"100","Jul","2007","Shahdara","ind",4.3,33.7,75,287
+"101","Jul","2007","Shahdara","ind",4,35.3,NA,357
+"102","Feb","2007","Shahdara","ind",4,36.5,NA,188
+"103","Jul","2007","Shahdara","ind",4,39.2,106,329
+"104","Oct","2007","Shahdara","ind",4,40.3,70,195
+"105","Aug","2007","Shahdara","ind",4.5,44,139,460
+"106","Aug","2007","Shahdara","ind",4.3,36.7,62,240
+"107","Aug","2007","Shahdara","ind",4,27,50,150
+"108","Aug","2007","Shahdara","ind",4,32.3,NA,272
+"109","May","2007","Shahdara","ind",4,35.3,NA,322
+"110","Oct","2007","Shahdara","ind",4,34.5,73,191
+"111","Sep","2007","Shahdara","ind",4,35.3,89,220
+"112","Sep","2007","Shahdara","ind",5,42.5,142,345
+"113","Sep","2007","Shahdara","ind",4.5,41.3,161,533
+"114","Sep","2007","Shahdara","ind",4,25,38,120
+"115","Mar","2007","Shahdara","ind",4,46,238,564
+"116","Aug","2007","Shahdara","ind",4.2,51.2,162,459
+"117","Nov","2007","Shahdara","ind",4.2,49,167,472
+"118","Oct","2007","Shahdara","ind",4,42.3,98,346
+"119","Oct","2007","Shahdara","ind",4.2,51.3,187,480
+"120","Oct","2007","Shahdara","ind",4.7,56.2,253,639
+"121","Oct","2007","Shahdara","ind",4,52.5,282,555
+"122","Feb","2007","Shahdara","ind",5,61.5,294,713
+"123","Jul","2007","Shahdara","ind",4.3,62.5,251,742
+"124","Nov","2007","Shahdara","ind",4.3,61.5,308,607
+"125","Nov","2007","Shahdara","ind",4.5,64.8,NA,494
+"126","Nov","2007","Shahdara","ind",4.5,55.5,229,426
+"127","Nov","2007","Shahdara","ind",5.8,75.8,375,775
+"128","Nov","2007","Shahdara","ind",5.7,79.8,281,786
+"129","May","2007","Shahdara","ind",5.5,76.7,331,722
+"130","Oct","2007","Shahdara","ind",5,78.8,296,624
+"131","Dec","2007","Shahdara","ind",5.5,71.5,160,441
+"132","Dec","2007","Shahdara","ind",4.5,53.3,131,454
+"133","Dec","2007","Shahdara","ind",4.8,56.3,157,585
+"134","Dec","2007","Shahdara","ind",4.3,58,123,580
+"135","Feb","2007","Shahzada Bagh","ind",4.3,46.2,235,281
+"136","May","2007","Shahzada Bagh","ind",5.2,28.5,106,235
+"137","Oct","2007","Shahzada Bagh","ind",5,32.8,230,322
+"138","Jan","2007","Shahzada Bagh","ind",6.3,66.2,172,301
+"139","Jan","2007","Shahzada Bagh","ind",4.5,53.2,184,351
+"140","Jan","2007","Shahzada Bagh","ind",5.2,62.3,140,308
+"141","Jan","2007","Shahzada Bagh","ind",4.3,36,166,427
+"142","May","2007","Shahzada Bagh","ind",5.3,32.5,150,403
+"143","Aug","2007","Shahzada Bagh","ind",4,31.8,150,324
+"144","Feb","2007","Shahzada Bagh","ind",6.8,32.4,77,118
+"145","Feb","2007","Shahzada Bagh","ind",4,30.7,98,234
+"146","Feb","2007","Shahzada Bagh","ind",4,34.7,111,272
+"147","Feb","2007","Shahzada Bagh","ind",4.2,28,145,326
+"148","May","2007","Shahzada Bagh","ind",4.3,30.3,80,286
+"149","Aug","2007","Shahzada Bagh","ind",4.5,34.5,170,330
+"150","Mar","2007","Shahzada Bagh","ind",4.7,32.2,69,140
+"151","Mar","2007","Shahzada Bagh","ind",4,36.2,82,266
+"152","Mar","2007","Shahzada Bagh","ind",4.2,37.5,137,297
+"153","Mar","2007","Shahzada Bagh","ind",4.2,35.3,126,304
+"154","Feb","2007","Shahzada Bagh","ind",6.2,30,79,284
+"155","May","2007","Shahzada Bagh","ind",4.7,41.3,114,308
+"156","Nov","2007","Shahzada Bagh","ind",4.5,39,188,610
+"157","Apr","2007","Shahzada Bagh","ind",4.8,42.5,276,971
+"158","Apr","2007","Shahzada Bagh","ind",5.8,45.5,110,398
+"159","Apr","2007","Shahzada Bagh","ind",4.2,45.8,218,624
+"160","Apr","2007","Shahzada Bagh","ind",4.8,43.7,236,570
+"161","Apr","2007","Shahzada Bagh","ind",4.3,38.3,131,329
+"162","Sep","2007","Shahzada Bagh","ind",4.2,40.5,190,374
+"163","May","2007","Shahzada Bagh","ind",5.2,35.3,136,268
+"164","May","2007","Shahzada Bagh","ind",4.5,30.3,75,203
+"165","May","2007","Shahzada Bagh","ind",4.3,30.5,118,284
+"166","May","2007","Shahzada Bagh","ind",4.5,25.2,NA,458
+"167","May","2007","Shahzada Bagh","ind",4.2,39.5,NA,258
+"168","May","2007","Shahzada Bagh","ind",4.2,42.2,NA,526
+"169","Aug","2007","Shahzada Bagh","ind",4.7,37.7,129,481
+"170","Jun","2007","Shahzada Bagh","ind",6.2,44,179,508
+"171","Jun","2007","Shahzada Bagh","ind",4.2,22.4,72,202
+"172","Jun","2007","Shahzada Bagh","ind",4.5,29.2,65,276
+"173","Jun","2007","Shahzada Bagh","ind",4.5,41,94,262
+"174","Feb","2007","Shahzada Bagh","ind",4,41.7,70,240
+"175","May","2007","Shahzada Bagh","ind",4,40.8,72,241
+"176","Jul","2007","Shahzada Bagh","ind",4,29,47,206
+"177","Jul","2007","Shahzada Bagh","ind",4,38.8,69,329
+"178","Jul","2007","Shahzada Bagh","ind",4.5,19.5,84,355
+"179","Jul","2007","Shahzada Bagh","ind",4,27.3,94,424
+"180","Jan","2007","Shahzada Bagh","ind",4,36,77,206
+"181","Jun","2007","Shahzada Bagh","ind",4,36.2,55,140
+"182","Sep","2007","Shahzada Bagh","ind",4,33.8,52,168
+"183","Aug","2007","Shahzada Bagh","ind",4,37.5,68,280
+"184","Aug","2007","Shahzada Bagh","ind",4,11.5,33,150
+"185","Aug","2007","Shahzada Bagh","ind",4,31.5,82,190
+"186","Aug","2007","Shahzada Bagh","ind",4,30,67,207
+"187","Mar","2007","Shahzada Bagh","ind",4,29.8,70,191
+"188","Jul","2007","Shahzada Bagh","ind",4,30.5,53,182
+"189","Dec","2007","Shahzada Bagh","ind",4,32.8,102,284
+"190","Sep","2007","Shahzada Bagh","ind",4,31.8,65,244
+"191","Sep","2007","Shahzada Bagh","ind",4,31,73,239
+"192","Sep","2007","Shahzada Bagh","ind",4,31.3,NA,262
+"193","Jan","2007","Shahzada Bagh","ind",4,42,76,293
+"194","May","2007","Shahzada Bagh","ind",4.8,35.5,175,294
+"195","Oct","2007","Shahzada Bagh","ind",4.3,39.3,99,311
+"196","Oct","2007","Shahzada Bagh","ind",4,30.5,144,445
+"197","Oct","2007","Shahzada Bagh","ind",4,29.3,NA,312
+"198","Oct","2007","Shahzada Bagh","ind",4,33.3,195,509
+"199","Oct","2007","Shahzada Bagh","ind",4,33.5,171,457
+"200","Jan","2007","Shahzada Bagh","ind",4,33.5,272,569
+"201","Jun","2007","Shahzada Bagh","ind",4.3,38,351,774
+"202","Dec","2007","Shahzada Bagh","ind",4,39,295,579
+"203","Nov","2007","Shahzada Bagh","ind",4,40.3,343,686
+"204","Nov","2007","Shahzada Bagh","ind",4,44.3,414,753
+"205","Nov","2007","Shahzada Bagh","ind",4,42.8,443,771
+"206","Nov","2007","Shahzada Bagh","ind",4,39.8,315,705
+"207","Apr","2007","Shahzada Bagh","ind",4,38,253,606
+"208","Jul","2007","Shahzada Bagh","ind",4,39.8,325,714
+"209","Dec","2007","Shahzada Bagh","ind",4,42.7,300,651
+"210","Dec","2007","Shahzada Bagh","ind",4,39.3,282,650
+"211","Dec","2007","Shahzada Bagh","ind",4,39,302,621
+"212","Dec","2007","Shahzada Bagh","ind",4,40.3,213,518
+"213","Feb","2007","Janakpuri","rsd",6.2,60,181,397
+"214","May","2007","Janakpuri","rsd",5,52.2,177,396
+"215","Oct","2007","Janakpuri","rsd",6.8,55.2,NA,405
+"216","Jan","2007","Janakpuri","rsd",4.7,59.5,NA,443
+"217","Jan","2007","Janakpuri","rsd",5,54.7,220,525
+"218","Jan","2007","Janakpuri","rsd",4.7,50.7,298,587
+"219","Jan","2007","Janakpuri","rsd",4.7,38,156,514
+"220","May","2007","Janakpuri","rsd",7.2,43.5,342,858
+"221","Aug","2007","Janakpuri","rsd",5.2,44.5,170,460
+"222","Feb","2007","Janakpuri","rsd",5,36.8,81,184
+"223","Feb","2007","Janakpuri","rsd",4.2,31.2,153,375
+"224","Feb","2007","Janakpuri","rsd",4.2,34.8,130,326
+"225","Feb","2007","Janakpuri","rsd",5,46,159,625
+"226","May","2007","Janakpuri","rsd",4.8,47.7,210,458
+"227","Aug","2007","Janakpuri","rsd",4.5,56.5,104,141
+"228","Mar","2007","Janakpuri","rsd",6,47.7,63,166
+"229","Mar","2007","Janakpuri","rsd",4,34.7,39,209
+"230","Mar","2007","Janakpuri","rsd",4,32.5,101,233
+"231","Mar","2007","Janakpuri","rsd",4,32.8,86,260
+"232","Feb","2007","Janakpuri","rsd",5.2,58.3,86,275
+"233","May","2007","Janakpuri","rsd",4,42.8,62,201
+"234","Nov","2007","Janakpuri","rsd",4.3,37.3,135,380
+"235","Apr","2007","Janakpuri","rsd",4.2,39.8,173,609
+"236","Apr","2007","Janakpuri","rsd",4.2,42,156,324
+"237","Apr","2007","Janakpuri","rsd",5.5,47.3,308,648
+"238","Apr","2007","Janakpuri","rsd",4.3,41.3,181,302
+"239","Apr","2007","Janakpuri","rsd",4.2,40,169,367
+"240","Sep","2007","Janakpuri","rsd",4.2,41.2,199,446
+"241","May","2007","Janakpuri","rsd",4.2,50,85,241
+"242","May","2007","Janakpuri","rsd",4.8,40.7,90,390
+"243","May","2007","Janakpuri","rsd",4,44.2,122,320
+"244","May","2007","Janakpuri","rsd",4.2,37.3,153,374
+"245","May","2007","Janakpuri","rsd",4,39,133,223
+"246","May","2007","Janakpuri","rsd",4.3,38.8,156,526
+"247","Aug","2007","Janakpuri","rsd",4.2,36.7,157,543
+"248","Jun","2007","Janakpuri","rsd",4.2,42.5,156,287
+"249","Jun","2007","Janakpuri","rsd",4,22.5,88,145
+"250","Jun","2007","Janakpuri","rsd",4.3,30.7,47,193
+"251","Jun","2007","Janakpuri","rsd",4,39.3,46,132
+"252","Feb","2007","Janakpuri","rsd",4,38,120,164
+"253","May","2007","Janakpuri","rsd",4.2,41.5,67,167
+"254","Oct","2007","Janakpuri","rsd",4,38.8,105,129
+"255","Jul","2007","Janakpuri","rsd",4,18.2,37,174
+"256","Jul","2007","Janakpuri","rsd",4,27,68,265
+"257","Jul","2007","Janakpuri","rsd",4,30.5,75,281
+"258","Jan","2007","Janakpuri","rsd",4.3,37.7,55,278
+"259","Jun","2007","Janakpuri","rsd",4,38.2,71,242
+"260","Sep","2007","Janakpuri","rsd",4.2,39.8,93,230
+"261","Aug","2007","Janakpuri","rsd",4,39,78,370
+"262","Aug","2007","Janakpuri","rsd",4.8,47.7,NA,173
+"263","Aug","2007","Janakpuri","rsd",4,36.3,NA,183
+"264","Mar","2007","Janakpuri","rsd",4,30,NA,248
+"265","Jul","2007","Janakpuri","rsd",4,38.5,NA,148
+"266","Dec","2007","Janakpuri","rsd",4,35.8,NA,258
+"267","Sep","2007","Janakpuri","rsd",4,39,50,195
+"268","Sep","2007","Janakpuri","rsd",4.2,36.5,75,232
+"269","Sep","2007","Janakpuri","rsd",4,37,86,297
+"270","Jan","2007","Janakpuri","rsd",4.2,37.2,121,337
+"271","May","2007","Janakpuri","rsd",4,57,180,387
+"272","Oct","2007","Janakpuri","rsd",4,47.3,200,414
+"273","Oct","2007","Janakpuri","rsd",NA,NA,127,NA
+"274","Oct","2007","Janakpuri","rsd",4,32.7,132,NA
+"275","Oct","2007","Janakpuri","rsd",4,41.8,NA,NA
+"276","Oct","2007","Janakpuri","rsd",NA,NA,NA,NA
+"277","Jan","2007","Janakpuri","rsd",4.2,51.2,510,NA
+"278","Jun","2007","Janakpuri","rsd",4,48.3,349,NA
+"279","Dec","2007","Janakpuri","rsd",4,61,257,542
+"280","Nov","2007","Janakpuri","rsd",4.5,65,406,NA
+"281","Nov","2007","Janakpuri","rsd",4.5,58.8,246,488
+"282","Nov","2007","Janakpuri","rsd",4.3,51,192,382
+"283","Nov","2007","Janakpuri","rsd",4.5,49.3,183,397
+"284","Apr","2007","Janakpuri","rsd",4.3,49,167,475
+"285","Jul","2007","Janakpuri","rsd",4.5,76.7,230,527
+"286","Dec","2007","Janakpuri","rsd",4.5,67.8,221,483
+"287","Dec","2007","Janakpuri","rsd",4.2,52.5,217,438
+"288","Dec","2007","Janakpuri","rsd",4,53.8,397,594
+"289","Dec","2007","Janakpuri","rsd",4.5,59.8,198,324
+"290","Jun","2007","N.Y. School","rsd",13.9,74.9,190,390
+"291","Jul","2007","N.Y. School","rsd",16.4,52.6,130,317
+"292","Feb","2007","N.Y. School","rsd",4.8,56.7,120,223
+"293","Feb","2007","N.Y. School","rsd",8.4,59,131,199
+"294","Feb","2007","N.Y. School","rsd",6.1,51.4,141,223
+"295","Feb","2007","N.Y. School","rsd",9.5,60.3,152,299
+"296","Feb","2007","N.Y. School","rsd",11.4,68.9,194,368
+"297","Feb","2007","N.Y. School","rsd",4.1,35.8,102,207
+"298","Jun","2007","N.Y. School","rsd",NA,54.2,87,194
+"299","Jul","2007","N.Y. School","rsd",4.1,53.8,72,187
+"300","Mar","2007","N.Y. School","rsd",3.9,46,56,124
+"301","Mar","2007","N.Y. School","rsd",2.5,47,59,156
+"302","Mar","2007","N.Y. School","rsd",7.2,43.2,74,183
+"303","Mar","2007","N.Y. School","rsd",9.2,52.5,81,266
+"304","Mar","2007","N.Y. School","rsd",NA,40.7,84,250
+"305","Mar","2007","N.Y. School","rsd",3.3,45.2,97,248
+"306","Jan","2007","N.Y. School","rsd",3.6,47.6,199,480
+"307","Feb","2007","N.Y. School","rsd",10.4,96.9,116,278
+"308","Sep","2007","N.Y. School","rsd",10.1,65,89,436
+"309","Oct","2007","N.Y. School","rsd",11.3,77.3,116,357
+"310","May","2007","N.Y. School","rsd",16.4,73.1,101,333
+"311","May","2007","N.Y. School","rsd",9.8,56.5,121,430
+"312","May","2007","N.Y. School","rsd",7.2,86.8,127,381
+"313","May","2007","N.Y. School","rsd",4.2,80.3,137,389
+"314","Jan","2007","N.Y. School","rsd",NA,79.2,48,91
+"315","Feb","2007","N.Y. School","rsd",NA,55.4,32,76
+"316","Aug","2007","N.Y. School","rsd",NA,33.7,82,263
+"317","Aug","2007","N.Y. School","rsd",NA,33.8,75,179
+"318","Aug","2007","N.Y. School","rsd",NA,62.5,96,204
+"319","Aug","2007","N.Y. School","rsd",3,53.5,97,220
+"320","Aug","2007","N.Y. School","rsd",NA,35,65,135
+"321","Aug","2007","N.Y. School","rsd",3.5,48.9,60,172
+"322","Mar","2007","N.Y. School","rsd",2.8,117.3,217,375
+"323","Apr","2007","N.Y. School","rsd",6.7,147.5,213,432
+"324","Oct","2007","N.Y. School","rsd",6.9,81.6,70,212
+"325","Oct","2007","N.Y. School","rsd",3.5,97.5,162,340
+"326","Oct","2007","N.Y. School","rsd",2.4,102.9,271,526
+"327","Oct","2007","N.Y. School","rsd",5.2,129.1,268,504
+"328","Oct","2007","N.Y. School","rsd",16.2,146.8,300,518
+"329","Oct","2007","N.Y. School","rsd",9.6,144.4,306,528
+"330","Apr","2007","Nizamuddin","rsd",5.3,29.5,148,267
+"331","Sep","2007","Nizamuddin","rsd",5.2,28.8,NA,382
+"332","Dec","2007","Nizamuddin","rsd",5,76.3,NA,323
+"333","Jan","2007","Nizamuddin","rsd",4.7,60.5,NA,427
+"334","Jan","2007","Nizamuddin","rsd",4,51,NA,261
+"335","Feb","2007","Nizamuddin","rsd",4,23.2,NA,280
+"336","Jul","2007","Nizamuddin","rsd",4,24.7,NA,313
+"337","Dec","2007","Nizamuddin","rsd",4,21.8,NA,148
+"338","Feb","2007","Nizamuddin","rsd",4,23.5,NA,179
+"339","Feb","2007","Nizamuddin","rsd",4,26.7,NA,197
+"340","Feb","2007","Nizamuddin","rsd",4.3,29.5,NA,220
+"341","Feb","2007","Nizamuddin","rsd",4,26.3,113,246
+"342","Jul","2007","Nizamuddin","rsd",4.3,31.5,61,178
+"343","Mar","2007","Nizamuddin","rsd",4,31,79,185
+"344","Mar","2007","Nizamuddin","rsd",4.2,30,60,244
+"345","Mar","2007","Nizamuddin","rsd",4,27.5,NA,217
+"346","Mar","2007","Nizamuddin","rsd",5,34.8,141,305
+"347","Apr","2007","Nizamuddin","rsd",4.4,27.8,206,394
+"348","Oct","2007","Nizamuddin","rsd",4,37.2,123,373
+"349","Apr","2007","Nizamuddin","rsd",4.7,41.8,211,595
+"350","Apr","2007","Nizamuddin","rsd",4.3,46.8,229,858
+"351","Apr","2007","Nizamuddin","rsd",4,44.2,319,846
+"352","Apr","2007","Nizamuddin","rsd",4.8,40.2,203,799
+"353","Mar","2007","Nizamuddin","rsd",4,34.3,103,230
+"354","Aug","2007","Nizamuddin","rsd",4.2,35.7,59,242
+"355","Nov","2007","Nizamuddin","rsd",5.4,39.6,98,303
+"356","May","2007","Nizamuddin","rsd",4,25,79,510
+"357","May","2007","Nizamuddin","rsd",4.2,30.3,227,642
+"358","May","2007","Nizamuddin","rsd",4,27.7,132,286
+"359","May","2007","Nizamuddin","rsd",4.3,38.3,102,186
+"360","Apr","2007","Nizamuddin","rsd",4.3,37.3,152,782
+"361","Jul","2007","Nizamuddin","rsd",4.5,37.2,140,624
+"362","Dec","2007","Nizamuddin","rsd",4,26.3,92,445
+"363","Jun","2007","Nizamuddin","rsd",4.8,20.3,51,276
+"364","Jun","2007","Nizamuddin","rsd",4,37.2,75,234
+"365","Jun","2007","Nizamuddin","rsd",4.3,41.8,76,338
+"366","Apr","2007","Nizamuddin","rsd",4,37.7,52,205
+"367","Sep","2007","Nizamuddin","rsd",4,39.2,80,196
+"368","Jul","2007","Nizamuddin","rsd",4.7,40.7,85,352
+"369","Jul","2007","Nizamuddin","rsd",4,19.7,82,327
+"370","Jul","2007","Nizamuddin","rsd",4.8,21.6,43,270
+"371","Jul","2007","Nizamuddin","rsd",4,37.3,80,211
+"372","Mar","2007","Nizamuddin","rsd",4,36.3,50,187
+"373","Aug","2007","Nizamuddin","rsd",4.3,37.3,28,135
+"374","Aug","2007","Nizamuddin","rsd",4,18.2,27,119
+"375","Aug","2007","Nizamuddin","rsd",4.2,36.8,37,240
+"376","Aug","2007","Nizamuddin","rsd",4,34,43,160
+"377","Jun","2007","Nizamuddin","rsd",4,28.5,43,175
+"378","Nov","2007","Nizamuddin","rsd",4,32.3,102,201
+"379","Sep","2007","Nizamuddin","rsd",4,28.5,36,127
+"380","Sep","2007","Nizamuddin","rsd",4,31,61,236
+"381","Sep","2007","Nizamuddin","rsd",4,27.3,61,312
+"382","Sep","2007","Nizamuddin","rsd",4,25.3,NA,137
+"383","Apr","2007","Nizamuddin","rsd",4,18.8,64,233
+"384","Sep","2007","Nizamuddin","rsd",4,20.5,54,264
+"385","Dec","2007","Nizamuddin","rsd",4,21.5,106,395
+"386","Oct","2007","Nizamuddin","rsd",4,20.3,47,254
+"387","Oct","2007","Nizamuddin","rsd",4,20.8,45,325
+"388","Oct","2007","Nizamuddin","rsd",4,23,108,441
+"389","Oct","2007","Nizamuddin","rsd",4,21,67,273
+"390","May","2007","Nizamuddin","rsd",4,24.5,182,497
+"391","Nov","2007","Nizamuddin","rsd",4,25,191,406
+"392","Nov","2007","Nizamuddin","rsd",4,26.8,251,582
+"393","Nov","2007","Nizamuddin","rsd",4,26.5,238,547
+"394","Nov","2007","Nizamuddin","rsd",4,28.8,263,562
+"395","Mar","2007","Nizamuddin","rsd",4,29.8,154,468
+"396","Jun","2007","Nizamuddin","rsd",4,29.8,147,449
+"397","Nov","2007","Nizamuddin","rsd",4,31.3,125,426
+"398","Dec","2007","Nizamuddin","rsd",4,32.5,116,273
+"399","Dec","2007","Nizamuddin","rsd",4,36,215,607
+"400","Dec","2007","Nizamuddin","rsd",4,35.3,95,340
+"401","Mar","2007","Pritampura","rsd",5,36.7,106,284
+"402","Aug","2007","Pritampura","rsd",5.5,25,133,332
+"403","Nov","2007","Pritampura","rsd",4.3,26.7,105,244
+"404","Jan","2007","Pritampura","rsd",4.7,59.3,116,276
+"405","Jan","2007","Pritampura","rsd",4,57.7,106,287
+"406","Jan","2007","Pritampura","rsd",4.3,47.2,103,236
+"407","Jan","2007","Pritampura","rsd",4.8,28.5,104,256
+"408","Jun","2007","Pritampura","rsd",4.5,22,106,366
+"409","Sep","2007","Pritampura","rsd",4,24.8,83,263
+"410","Feb","2007","Pritampura","rsd",4.3,22.3,NA,160
+"411","Feb","2007","Pritampura","rsd",4,30.7,NA,119
+"412","Jan","2007","Pritampura","rsd",4,14,NA,105
+"413","Jun","2007","Pritampura","rsd",7,26.5,NA,181
+"414","Sep","2007","Pritampura","rsd",5.5,24.2,NA,295
+"415","Mar","2007","Pritampura","rsd",4.3,37.8,NA,149
+"416","Mar","2007","Pritampura","rsd",4.3,41.8,256,400
+"417","Mar","2007","Pritampura","rsd",4.2,31.7,188,332
+"418","Mar","2007","Pritampura","rsd",4,31,195,212
+"419","Mar","2007","Pritampura","rsd",4,34.5,236,326
+"420","Sep","2007","Pritampura","rsd",4.2,35.3,174,267
+"421","Dec","2007","Pritampura","rsd",4.3,38.7,280,367
+"422","Apr","2007","Pritampura","rsd",4,36,441,NA
+"423","Apr","2007","Pritampura","rsd",4.8,28,457,NA
+"424","Apr","2007","Pritampura","rsd",5.5,27.2,556,694
+"425","Jan","2007","Pritampura","rsd",4.7,39.7,456,NA
+"426","Jul","2007","Pritampura","rsd",4,36.8,182,NA
+"427","Oct","2007","Pritampura","rsd",4.3,32.5,235,NA
+"428","May","2007","Pritampura","rsd",4.2,23.5,77,NA
+"429","May","2007","Pritampura","rsd",4.2,20.8,164,NA
+"430","May","2007","Pritampura","rsd",4,25.7,NA,NA
+"431","May","2007","Pritampura","rsd",4,36.2,222,NA
+"432","Jan","2007","Pritampura","rsd",4,36.2,185,NA
+"433","Jun","2007","Pritampura","rsd",4,33.7,237,NA
+"434","Nov","2007","Pritampura","rsd",4.3,30.5,290,521
+"435","Jun","2007","Pritampura","rsd",4.5,20.7,207,342
+"436","Jun","2007","Pritampura","rsd",4,20,215,314
+"437","Jun","2007","Pritampura","rsd",4,35.5,99,291
+"438","Jun","2007","Pritampura","rsd",4.3,34.8,80,208
+"439","Mar","2007","Pritampura","rsd",4,34.4,116,233
+"440","Jun","2007","Pritampura","rsd",4,39.7,52,201
+"441","Nov","2007","Pritampura","rsd",4,35.8,54,155
+"442","Jul","2007","Pritampura","rsd",4,16,40,113
+"443","Jul","2007","Pritampura","rsd",4,15.5,103,430
+"444","Jul","2007","Pritampura","rsd",4,18.2,50,232
+"445","Jul","2007","Pritampura","rsd",4.3,19.5,42,339
+"446","Feb","2007","Pritampura","rsd",4,30.4,28,75
+"447","Jul","2007","Pritampura","rsd",4,34.7,15,140
+"448","Oct","2007","Pritampura","rsd",4,35.7,19,167
+"449","Aug","2007","Pritampura","rsd",4,22.3,80,236
+"450","Aug","2007","Pritampura","rsd",4,33,35,96
+"451","Aug","2007","Pritampura","rsd",4,30.3,83,207
+"452","Sep","2007","Pritampura","rsd",4,29.5,60,191
+"453","Sep","2007","Pritampura","rsd",4,30.8,60,245
+"454","Sep","2007","Pritampura","rsd",4,30.5,NA,259
+"455","Sep","2007","Pritampura","rsd",4,28.5,18,93
+"456","Mar","2007","Pritampura","rsd",4,23,NA,279
+"457","Aug","2007","Pritampura","rsd",4,15,NA,381
+"458","Nov","2007","Pritampura","rsd",4,19,NA,277
+"459","Oct","2007","Pritampura","rsd",4,21.5,NA,392
+"460","Oct","2007","Pritampura","rsd",4,18.8,185,333
+"461","Oct","2007","Pritampura","rsd",4,23.8,195,468
+"462","Oct","2007","Pritampura","rsd",4,30.3,228,450
+"463","Feb","2007","Pritampura","rsd",4,31.5,NA,473
+"464","Nov","2007","Pritampura","rsd",4,35,472,824
+"465","Nov","2007","Pritampura","rsd",4,31,368,477
+"466","Nov","2007","Pritampura","rsd",4,40.5,209,423
+"467","Nov","2007","Pritampura","rsd",4,43.8,479,877
+"468","Nov","2007","Pritampura","rsd",4,33.5,218,521
+"469","May","2007","Pritampura","rsd",4,34.7,230,450
+"470","Oct","2007","Pritampura","rsd",4,34.8,363,710
+"471","Dec","2007","Pritampura","rsd",4,38.5,211,412
+"472","Dec","2007","Pritampura","rsd",4,38.2,200,441
+"473","Dec","2007","Pritampura","rsd",4,41,205,434
+"474","Dec","2007","Pritampura","rsd",4,37.5,199,453
+"475","Apr","2007","Siri Fort","rsd",5.7,31.8,201,381
+"476","Sep","2007","Siri Fort","rsd",6.2,32.7,260,456
+"477","Dec","2007","Siri Fort","rsd",5.5,59.3,269,452
+"478","Jan","2007","Siri Fort","rsd",4,46.5,223,455
+"479","Jan","2007","Siri Fort","rsd",4.5,56,308,496
+"480","Jan","2007","Siri Fort","rsd",4,45.7,241,477
+"481","Feb","2007","Siri Fort","rsd",5,40.5,351,694
+"482","Jul","2007","Siri Fort","rsd",5.2,30.8,172,438
+"483","Dec","2007","Siri Fort","rsd",4.5,33,99,127
+"484","Feb","2007","Siri Fort","rsd",4.5,32.2,135,209
+"485","Feb","2007","Siri Fort","rsd",4.3,37.7,166,335
+"486","Feb","2007","Siri Fort","rsd",4.3,40.5,175,302
+"487","Feb","2007","Siri Fort","rsd",4.7,28.2,59,222
+"488","Jul","2007","Siri Fort","rsd",5,37.2,98,165
+"489","Mar","2007","Siri Fort","rsd",4,35,79,159
+"490","Mar","2007","Siri Fort","rsd",4,35,88,234
+"491","Mar","2007","Siri Fort","rsd",4,29,87,190
+"492","Mar","2007","Siri Fort","rsd",4.3,25.3,176,363
+"493","Apr","2007","Siri Fort","rsd",4.3,36,338,410
+"494","Oct","2007","Siri Fort","rsd",4,34,195,338
+"495","Apr","2007","Siri Fort","rsd",4.2,43,267,464
+"496","Apr","2007","Siri Fort","rsd",4,39.5,433,735
+"497","Apr","2007","Siri Fort","rsd",4.2,29.5,270,668
+"498","Apr","2007","Siri Fort","rsd",4.3,25.3,NA,416
+"499","Mar","2007","Siri Fort","rsd",4,37,216,336
+"500","Aug","2007","Siri Fort","rsd",4,36.5,143,235
+"501","Nov","2007","Siri Fort","rsd",4.2,38.5,159,385
+"502","May","2007","Siri Fort","rsd",4.3,36.8,274,762
+"503","May","2007","Siri Fort","rsd",4,41.3,368,699
+"504","May","2007","Siri Fort","rsd",4,26.3,123,269
+"505","May","2007","Siri Fort","rsd",4,35.8,174,239
+"506","Apr","2007","Siri Fort","rsd",4,40.5,396,857
+"507","Jul","2007","Siri Fort","rsd",4,41.3,379,844
+"508","Dec","2007","Siri Fort","rsd",4.2,32.3,210,540
+"509","Jun","2007","Siri Fort","rsd",4.2,22.2,82,233
+"510","Jun","2007","Siri Fort","rsd",4,24.3,202,243
+"511","Jun","2007","Siri Fort","rsd",4,41.5,100,264
+"512","Jun","2007","Siri Fort","rsd",4,35.7,45,80
+"513","Apr","2007","Siri Fort","rsd",4,36.3,66,102
+"514","Sep","2007","Siri Fort","rsd",4,36.8,NA,105
+"515","Dec","2007","Siri Fort","rsd",4,18.8,60,127
+"516","Jul","2007","Siri Fort","rsd",4,37.2,83,210
+"517","Jul","2007","Siri Fort","rsd",4,25.8,168,270
+"518","Jul","2007","Siri Fort","rsd",4.5,20.7,114,203
+"519","Jul","2007","Siri Fort","rsd",4,37.5,167,355
+"520","Mar","2007","Siri Fort","rsd",4,37.3,47,104
+"521","Aug","2007","Siri Fort","rsd",4,39.3,215,323
+"522","Aug","2007","Siri Fort","rsd",4.2,21.5,56,151
+"523","Aug","2007","Siri Fort","rsd",4.2,34.7,94,249
+"524","Aug","2007","Siri Fort","rsd",4,37.7,113,262
+"525","Aug","2007","Siri Fort","rsd",4,33.5,100,287
+"526","Aug","2007","Siri Fort","rsd",4,34.5,60,196
+"527","Jun","2007","Siri Fort","rsd",4.2,38.2,63,126
+"528","Nov","2007","Siri Fort","rsd",4,36.5,117,210
+"529","Sep","2007","Siri Fort","rsd",4,29.3,56,127
+"530","Sep","2007","Siri Fort","rsd",4,33,106,241
+"531","Sep","2007","Siri Fort","rsd",4,33.7,129,230
+"532","Sep","2007","Siri Fort","rsd",4,26.8,NA,163
+"533","Apr","2007","Siri Fort","rsd",4,44,NA,420
+"534","Sep","2007","Siri Fort","rsd",4,43,NA,319
+"535","Dec","2007","Siri Fort","rsd",4,35.2,NA,267
+"536","Oct","2007","Siri Fort","rsd",4,27.8,NA,162
+"537","Oct","2007","Siri Fort","rsd",4.2,46.7,NA,437
+"538","Oct","2007","Siri Fort","rsd",4.2,47,303,508
+"539","Oct","2007","Siri Fort","rsd",4.2,56.5,287,462
+"540","May","2007","Siri Fort","rsd",4.3,53.5,297,529
+"541","Nov","2007","Siri Fort","rsd",4,42.5,182,398
+"542","Nov","2007","Siri Fort","rsd",5.3,55.3,285,450
+"543","Nov","2007","Siri Fort","rsd",4.8,59.8,230,383
+"544","Nov","2007","Siri Fort","rsd",4.8,60.8,316,516
+"545","Mar","2007","Siri Fort","rsd",4.3,50.7,158,530
+"546","Jun","2007","Siri Fort","rsd",4.2,47,150,241
+"547","Nov","2007","Siri Fort","rsd",4.7,72.7,199,619
+"548","Dec","2007","Siri Fort","rsd",4.2,55.7,191,446
+"549","Dec","2007","Siri Fort","rsd",4.2,68,304,568
+"550","Dec","2007","Siri Fort","rsd",4,70,177,352
+"551","Jun","2007","Town Hall","rsd",17.6,85,181,452
+"552","Jul","2007","Town Hall","rsd",15.4,74.9,139,480
+"553","Feb","2007","Town Hall","rsd",9.2,58.6,86,236
+"554","Feb","2007","Town Hall","rsd",11,73,193,562
+"555","Feb","2007","Town Hall","rsd",12.9,53,120,401
+"556","Feb","2007","Town Hall","rsd",17.3,73.3,138,485
+"557","Feb","2007","Town Hall","rsd",21.2,93.1,229,653
+"558","Feb","2007","Town Hall","rsd",17,45.7,89,320
+"559","Sep","2007","Town Hall","rsd",16,70.2,85,485
+"560","Oct","2007","Town Hall","rsd",16.8,92.5,90,440
+"561","May","2007","Town Hall","rsd",18,81.6,115,619
+"562","May","2007","Town Hall","rsd",10.8,73,64,479
+"563","May","2007","Town Hall","rsd",14.5,94.9,114,517
+"564","May","2007","Town Hall","rsd",9.5,86.4,129,583
+"565","May","2007","Town Hall","rsd",7.7,81.8,116,374
+"566","May","2007","Town Hall","rsd",17.1,83.3,162,523
+"567","Jul","2007","Town Hall","rsd",NA,48,92,193
+"568","Aug","2007","Town Hall","rsd",NA,42.8,73,167
+"569","Sep","2007","Town Hall","rsd",9.1,67.7,64,186
+"570","Aug","2007","Town Hall","rsd",NA,49.8,72,217
+"571","Aug","2007","Town Hall","rsd",2.4,56.9,85,220
+"572","Aug","2007","Town Hall","rsd",NA,48.8,116,236
+"573","Aug","2007","Town Hall","rsd",4.7,40.7,64,188
+"574","Aug","2007","Town Hall","rsd",3.6,38.5,83,181
+"575","Sep","2007","Town Hall","rsd",5.6,127,178,514
+"576","Oct","2007","Town Hall","rsd",9.4,135.7,185,524
+"577","Nov","2007","Town Hall","rsd",4.4,142.4,218,556
+"578","Oct","2007","Town Hall","rsd",9.5,87.7,85,300
+"579","Oct","2007","Town Hall","rsd",7.8,103.7,207,506
+"580","Oct","2007","Town Hall","rsd",8,126.3,205,583
+"581","Oct","2007","Town Hall","rsd",8.9,151.9,381,883
+"582","Oct","2007","Town Hall","rsd",5.4,152.9,327,832
+"583","May","2007","Town Hall","rsd",10.2,116.8,485,807
+"584","Jun","2007","Town Hall","rsd",29.1,150.2,606,1002
+"585","Dec","2007","Town Hall","rsd",24.5,158.1,392,819
+"586","Nov","2007","Town Hall","rsd",31.3,159.2,416,869
+"587","Nov","2007","Town Hall","rsd",6.4,125,450,862
+"588","Nov","2007","Town Hall","rsd",21.7,137.2,440,903
+"589","Nov","2007","Town Hall","rsd",19.7,96.8,329,722
+"590","Nov","2007","Town Hall","rsd",22.5,145,597,1044
+"591","Apr","2007","Town Hall","rsd",22.2,115.4,294,633
+"592","May","2007","Town Hall","rsd",23,143.8,429,787
+"593","Oct","2007","Town Hall","rsd",31.2,110.7,441,795
+"594","Nov","2007","Town Hall","rsd",27,93.7,268,534
+"595","Dec","2007","Town Hall","rsd",19.8,94.5,356,671
+"596","Dec","2007","Town Hall","rsd",15.7,101.5,319,627
+"597","Dec","2007","Town Hall","rsd",15,145.2,604,922
+"598","Dec","2007","Town Hall","rsd",16.2,95.3,438,762

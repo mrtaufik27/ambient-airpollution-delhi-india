@@ -1,0 +1,734 @@
+"","mn","yr","st","typ","SO2","NO2","PM10","SPM"
+"1","Apr","2005","Mayapuri Indl. Area","ind",10.9,62.9,203,384
+"2","May","2005","Mayapuri Indl. Area","ind",25.1,64.1,381,601
+"3","Jan","2005","Mayapuri Indl. Area","ind",15.9,58.1,217,479
+"4","Jan","2005","Mayapuri Indl. Area","ind",17.5,77.8,246,558
+"5","Jan","2005","Mayapuri Indl. Area","ind",8.5,70,306,574
+"6","Jan","2005","Mayapuri Indl. Area","ind",17.7,68.6,285,543
+"7","Jan","2005","Mayapuri Indl. Area","ind",19.7,36.8,259,463
+"8","Jan","2005","Mayapuri Indl. Area","ind",16.1,18.6,150,236
+"9","Apr","2005","Mayapuri Indl. Area","ind",16.4,78.8,203,378
+"10","May","2005","Mayapuri Indl. Area","ind",16.8,62.9,175,349
+"11","Aug","2005","Mayapuri Indl. Area","ind",13.5,51.7,120,196
+"12","Sep","2005","Mayapuri Indl. Area","ind",16.1,61.6,220,410
+"13","Feb","2005","Mayapuri Indl. Area","ind",18.7,42.6,144,438
+"14","Feb","2005","Mayapuri Indl. Area","ind",10.4,26.9,98,310
+"15","Feb","2005","Mayapuri Indl. Area","ind",15.1,23.1,142,381
+"16","Feb","2005","Mayapuri Indl. Area","ind",13.1,23.3,179,371
+"17","Jan","2005","Mayapuri Indl. Area","ind",18.7,40.5,166,387
+"18","Feb","2005","Mayapuri Indl. Area","ind",13,28.2,120,355
+"19","Mar","2005","Mayapuri Indl. Area","ind",14.8,25.3,223,451
+"20","Mar","2005","Mayapuri Indl. Area","ind",16.7,28.6,194,399
+"21","Mar","2005","Mayapuri Indl. Area","ind",16.8,51.1,130,259
+"22","Mar","2005","Mayapuri Indl. Area","ind",15.3,64.3,139,360
+"23","Mar","2005","Mayapuri Indl. Area","ind",16,45.9,169,549
+"24","Mar","2005","Mayapuri Indl. Area","ind",18.3,20,150,387
+"25","Aug","2005","Mayapuri Indl. Area","ind",24.7,37.7,395,NA
+"26","Sep","2005","Mayapuri Indl. Area","ind",20.2,42.2,338,903
+"27","Apr","2005","Mayapuri Indl. Area","ind",21.8,58.3,220,592
+"28","Apr","2005","Mayapuri Indl. Area","ind",19,41.5,218,600
+"29","Apr","2005","Mayapuri Indl. Area","ind",23.8,77.3,210,732
+"30","Apr","2005","Mayapuri Indl. Area","ind",18.3,37,194,686
+"31","Apr","2005","Mayapuri Indl. Area","ind",2.5,56.5,177,473
+"32","Apr","2005","Mayapuri Indl. Area","ind",4.3,45.2,124,460
+"33","Nov","2005","Mayapuri Indl. Area","ind",9.4,20.7,201,501
+"34","Dec","2005","Mayapuri Indl. Area","ind",14,38,215,578
+"35","May","2005","Mayapuri Indl. Area","ind",15,17.4,377,549
+"36","May","2005","Mayapuri Indl. Area","ind",12,55.8,242,518
+"37","May","2005","Mayapuri Indl. Area","ind",12.1,94.5,268,606
+"38","May","2005","Mayapuri Indl. Area","ind",13.5,57.1,339,691
+"39","May","2005","Mayapuri Indl. Area","ind",2.5,56.6,238,512
+"40","May","2005","Mayapuri Indl. Area","ind",2.4,62.6,231,616
+"41","Jan","2005","Mayapuri Indl. Area","ind",17.2,33.5,244,621
+"42","Feb","2005","Mayapuri Indl. Area","ind",15.2,36.5,331,811
+"43","Oct","2005","Mayapuri Indl. Area","ind",16.5,49.8,374,952
+"44","Nov","2005","Mayapuri Indl. Area","ind",11.8,36.8,466,NA
+"45","Jun","2005","Mayapuri Indl. Area","ind",6.2,37.7,196,601
+"46","Jun","2005","Mayapuri Indl. Area","ind",4.7,23.5,169,603
+"47","Jun","2005","Mayapuri Indl. Area","ind",7,35.8,113,274
+"48","Jun","2005","Mayapuri Indl. Area","ind",5.3,43,NA,258
+"49","Aug","2005","Mayapuri Indl. Area","ind",10.1,40.9,164,368
+"50","Sep","2005","Mayapuri Indl. Area","ind",10.7,37.6,138,361
+"51","Jul","2005","Mayapuri Indl. Area","ind",6.2,39,48,133
+"52","Jul","2005","Mayapuri Indl. Area","ind",15.7,29.5,45,149
+"53","Jul","2005","Mayapuri Indl. Area","ind",7.3,26.9,156,502
+"54","Jul","2005","Mayapuri Indl. Area","ind",7.7,33.2,171,665
+"55","Jul","2005","Mayapuri Indl. Area","ind",6.1,35.5,89,264
+"56","Jul","2005","Mayapuri Indl. Area","ind",NA,28.6,62,147
+"57","Feb","2005","Mayapuri Indl. Area","ind",3.5,33.5,64,208
+"58","Mar","2005","Mayapuri Indl. Area","ind",NA,35.3,68,171
+"59","Sep","2005","Mayapuri Indl. Area","ind",5.8,25.8,93,429
+"60","Oct","2005","Mayapuri Indl. Area","ind",8.7,21.6,145,492
+"61","Aug","2005","Mayapuri Indl. Area","ind",13.3,24.1,105,445
+"62","Aug","2005","Mayapuri Indl. Area","ind",12.6,30.4,85,460
+"63","Aug","2005","Mayapuri Indl. Area","ind",5.7,19.8,88,431
+"64","Aug","2005","Mayapuri Indl. Area","ind",2.8,24,59,381
+"65","Jun","2005","Mayapuri Indl. Area","ind",2.6,34.1,59,162
+"66","Jul","2005","Mayapuri Indl. Area","ind",NA,34.9,51,169
+"67","Sep","2005","Mayapuri Indl. Area","ind",3.4,34,59,133
+"68","Sep","2005","Mayapuri Indl. Area","ind",5.7,24.1,75,149
+"69","Sep","2005","Mayapuri Indl. Area","ind",12.6,37.1,147,302
+"70","Sep","2005","Mayapuri Indl. Area","ind",5.6,21.1,87,174
+"71","Sep","2005","Mayapuri Indl. Area","ind",11.8,24.4,121,454
+"72","Sep","2005","Mayapuri Indl. Area","ind",16,23.9,142,526
+"73","Apr","2005","Mayapuri Indl. Area","ind",28.5,50.8,237,681
+"74","May","2005","Mayapuri Indl. Area","ind",19.1,49.6,248,797
+"75","Oct","2005","Mayapuri Indl. Area","ind",25.3,63.7,324,695
+"76","Oct","2005","Mayapuri Indl. Area","ind",16.6,65.5,231,500
+"77","Oct","2005","Mayapuri Indl. Area","ind",22.8,88.5,310,647
+"78","Oct","2005","Mayapuri Indl. Area","ind",14.7,72,214,503
+"79","Oct","2005","Mayapuri Indl. Area","ind",19.8,64.5,322,780
+"80","Oct","2005","Mayapuri Indl. Area","ind",16.5,49,320,754
+"81","Mar","2005","Mayapuri Indl. Area","ind",23.1,50.9,259,439
+"82","Apr","2005","Mayapuri Indl. Area","ind",21.8,57.5,335,607
+"83","Aug","2005","Mayapuri Indl. Area","ind",17.8,44.1,466,910
+"84","Sep","2005","Mayapuri Indl. Area","ind",19.5,39.5,437,772
+"85","Nov","2005","Mayapuri Indl. Area","ind",17.5,102.1,364,859
+"86","Nov","2005","Mayapuri Indl. Area","ind",20.2,97.1,312,645
+"87","Nov","2005","Mayapuri Indl. Area","ind",23.5,87.8,340,788
+"88","Nov","2005","Mayapuri Indl. Area","ind",19.2,45.6,314,746
+"89","Sep","2005","Mayapuri Indl. Area","ind",20.9,92,530,912
+"90","Oct","2005","Mayapuri Indl. Area","ind",23.1,80.7,425,925
+"91","Dec","2005","Mayapuri Indl. Area","ind",9.5,65.1,458,743
+"92","Dec","2005","Mayapuri Indl. Area","ind",12.7,69.6,529,896
+"93","Dec","2005","Mayapuri Indl. Area","ind",11.2,106.2,664,1104
+"94","Dec","2005","Mayapuri Indl. Area","ind",17.5,110.4,602,1068
+"95","Dec","2005","Mayapuri Indl. Area","ind",20.2,98,543,717
+"96","Dec","2005","Mayapuri Indl. Area","ind",22,95.5,711,1036
+"97","May","2005","Shahdara","ind",11,36,165,261
+"98","Oct","2005","Shahdara","ind",8,31,152,234
+"99","Jan","2005","Shahdara","ind",9,33,121,258
+"100","Jan","2005","Shahdara","ind",8,33,113,191
+"101","Jan","2005","Shahdara","ind",8,29,64,135
+"102","Jan","2005","Shahdara","ind",9,30,73,145
+"103","Mar","2005","Shahdara","ind",11,36,135,249
+"104","Aug","2005","Shahdara","ind",9,27,80,173
+"105","Nov","2005","Shahdara","ind",11,35,128,270
+"106","Feb","2005","Shahdara","ind",11,28,142,207
+"107","Feb","2005","Shahdara","ind",9,32,181,232
+"108","Feb","2005","Shahdara","ind",10,40,148,217
+"109","Feb","2005","Shahdara","ind",7,25,71,195
+"110","Jul","2005","Shahdara","ind",10,34,137,298
+"111","Nov","2005","Shahdara","ind",7,24,61,197
+"112","Mar","2005","Shahdara","ind",8,34,169,295
+"113","Mar","2005","Shahdara","ind",10,40,142,284
+"114","Mar","2005","Shahdara","ind",7,24,162,219
+"115","Mar","2005","Shahdara","ind",7,27,NA,NA
+"116","May","2005","Shahdara","ind",7,24,167,263
+"117","Aug","2005","Shahdara","ind",19,53,567,981
+"118","Apr","2005","Shahdara","ind",10,40,281,339
+"119","Apr","2005","Shahdara","ind",10,35,162,307
+"120","Apr","2005","Shahdara","ind",9,37,162,321
+"121","Apr","2005","Shahdara","ind",6,31,181,340
+"122","Mar","2005","Shahdara","ind",4,25,48,183
+"123","Jun","2005","Shahdara","ind",8,35,123,294
+"124","Nov","2005","Shahdara","ind",7,21,99,185
+"125","May","2005","Shahdara","ind",9,38,317,488
+"126","May","2005","Shahdara","ind",8,30,215,307
+"127","May","2005","Shahdara","ind",6,26,113,221
+"128","May","2005","Shahdara","ind",7,32,135,245
+"129","Mar","2005","Shahdara","ind",6,31,188,437
+"130","Aug","2005","Shahdara","ind",8,32,169,269
+"131","Jun","2005","Shahdara","ind",9,43,NA,255
+"132","Jun","2005","Shahdara","ind",10,37,151,352
+"133","Jun","2005","Shahdara","ind",7,31,80,273
+"134","Jun","2005","Shahdara","ind",10,41,77,232
+"135","Jun","2005","Shahdara","ind",11,40,147,294
+"136","May","2005","Shahdara","ind",5,18,85,140
+"137","Aug","2005","Shahdara","ind",7,25,111,226
+"138","Jul","2005","Shahdara","ind",5,20,58,97
+"139","Jul","2005","Shahdara","ind",9,35,103,226
+"140","Jul","2005","Shahdara","ind",13,49,183,673
+"141","Jul","2005","Shahdara","ind",7,33,63,195
+"142","Jan","2005","Shahdara","ind",6,30,54,181
+"143","Apr","2005","Shahdara","ind",8,29,77,238
+"144","Sep","2005","Shahdara","ind",8,29,74,230
+"145","Dec","2005","Shahdara","ind",9,35,115,311
+"146","Aug","2005","Shahdara","ind",11,35,75,274
+"147","Aug","2005","Shahdara","ind",7,31,71,217
+"148","Aug","2005","Shahdara","ind",8,39,144,308
+"149","Jan","2005","Shahdara","ind",10,41,97,319
+"150","Jun","2005","Shahdara","ind",9,37,102,215
+"151","Sep","2005","Shahdara","ind",8,30,87,244
+"152","Sep","2005","Shahdara","ind",8,26,61,178
+"153","Sep","2005","Shahdara","ind",7,30,71,175
+"154","Sep","2005","Shahdara","ind",9,34,61,164
+"155","Sep","2005","Shahdara","ind",6,28,62,183
+"156","Mar","2005","Shahdara","ind",12,45,66,294
+"157","Jun","2005","Shahdara","ind",12,42,126,357
+"158","Oct","2005","Shahdara","ind",13,49,111,311
+"159","Oct","2005","Shahdara","ind",9,41,122,300
+"160","Oct","2005","Shahdara","ind",12,51,134,373
+"161","Oct","2005","Shahdara","ind",17,55,259,543
+"162","Apr","2005","Shahzada Bagh","ind",8,37,126,267
+"163","Jul","2005","Shahzada Bagh","ind",8,40,154,295
+"164","Dec","2005","Shahzada Bagh","ind",9,46,106,236
+"165","Jan","2005","Shahzada Bagh","ind",9,44,161,394
+"166","Jan","2005","Shahzada Bagh","ind",7,37,102,206
+"167","Jan","2005","Shahzada Bagh","ind",6,33,110,307
+"168","Feb","2005","Shahzada Bagh","ind",7,35,106,251
+"169","Jul","2005","Shahzada Bagh","ind",4,22,95,175
+"170","Oct","2005","Shahzada Bagh","ind",5,29,85,191
+"171","Feb","2005","Shahzada Bagh","ind",5,25,71,153
+"172","Feb","2005","Shahzada Bagh","ind",7,36,137,251
+"173","Feb","2005","Shahzada Bagh","ind",8,44,110,202
+"174","Jan","2005","Shahzada Bagh","ind",9,48,103,229
+"175","Apr","2005","Shahzada Bagh","ind",9,47,107,277
+"176","Oct","2005","Shahzada Bagh","ind",9,49,65,199
+"177","Mar","2005","Shahzada Bagh","ind",9,45,84,342
+"178","Mar","2005","Shahzada Bagh","ind",7,42,102,273
+"179","Mar","2005","Shahzada Bagh","ind",7,39,138,247
+"180","Apr","2005","Shahzada Bagh","ind",9,59,103,249
+"181","Jul","2005","Shahzada Bagh","ind",11,68,199,NA
+"182","Dec","2005","Shahzada Bagh","ind",9,61,178,NA
+"183","Apr","2005","Shahzada Bagh","ind",8,48,77,NA
+"184","Apr","2005","Shahzada Bagh","ind",9,60,113,249
+"185","Feb","2005","Shahzada Bagh","ind",10,63,65,262
+"186","May","2005","Shahzada Bagh","ind",10,67,111,291
+"187","Oct","2005","Shahzada Bagh","ind",10,67,105,273
+"188","May","2005","Shahzada Bagh","ind",12,72,157,570
+"189","May","2005","Shahzada Bagh","ind",10,58,274,404
+"190","May","2005","Shahzada Bagh","ind",9,56,120,322
+"191","May","2005","Shahzada Bagh","ind",9,53,121,257
+"192","Feb","2005","Shahzada Bagh","ind",10,59,119,323
+"193","Jul","2005","Shahzada Bagh","ind",11,70,108,352
+"194","Oct","2005","Shahzada Bagh","ind",11,68,158,455
+"195","Jun","2005","Shahzada Bagh","ind",11,65,80,271
+"196","Jun","2005","Shahzada Bagh","ind",8,51,130,275
+"197","Jun","2005","Shahzada Bagh","ind",9,51,119,508
+"198","Jun","2005","Shahzada Bagh","ind",8,51,88,241
+"199","Apr","2005","Shahzada Bagh","ind",8,44,93,250
+"200","Jul","2005","Shahzada Bagh","ind",7,35,71,140
+"201","Dec","2005","Shahzada Bagh","ind",7,35,80,166
+"202","Jul","2005","Shahzada Bagh","ind",9,39,59,NA
+"203","Jul","2005","Shahzada Bagh","ind",8,37,114,NA
+"204","Jul","2005","Shahzada Bagh","ind",7,35,130,NA
+"205","Jul","2005","Shahzada Bagh","ind",7,36,96,NA
+"206","Mar","2005","Shahzada Bagh","ind",7,32,89,NA
+"207","Aug","2005","Shahzada Bagh","ind",6,33,69,NA
+"208","Nov","2005","Shahzada Bagh","ind",6,34,139,NA
+"209","Aug","2005","Shahzada Bagh","ind",5,30,86,NA
+"210","Aug","2005","Shahzada Bagh","ind",6,39,78,NA
+"211","Aug","2005","Shahzada Bagh","ind",7,42,87,305
+"212","Aug","2005","Shahzada Bagh","ind",8,46,97,234
+"213","May","2005","Shahzada Bagh","ind",7,41,63,233
+"214","Aug","2005","Shahzada Bagh","ind",7,39,74,183
+"215","Sep","2005","Shahzada Bagh","ind",5,27,41,139
+"216","Sep","2005","Shahzada Bagh","ind",5,30,96,201
+"217","Sep","2005","Shahzada Bagh","ind",6,35,117,268
+"218","May","2005","Shahzada Bagh","ind",7,39,110,448
+"219","Oct","2005","Shahzada Bagh","ind",8,46,90,255
+"220","Oct","2005","Shahzada Bagh","ind",8,47,160,306
+"221","Oct","2005","Shahzada Bagh","ind",11,66,204,512
+"222","Mar","2005","Ashok Vihar","rsd",8,42,90,218
+"223","Jun","2005","Ashok Vihar","rsd",9,54,99,213
+"224","Nov","2005","Ashok Vihar","rsd",8,47,90,287
+"225","Jan","2005","Ashok Vihar","rsd",8,47,62,223
+"226","Jan","2005","Ashok Vihar","rsd",6,32,96,233
+"227","Jan","2005","Ashok Vihar","rsd",5,36,108,280
+"228","Apr","2005","Ashok Vihar","rsd",6,40,122,348
+"229","Sep","2005","Ashok Vihar","rsd",6,42,99,267
+"230","Feb","2005","Ashok Vihar","rsd",5,38,74,239
+"231","Feb","2005","Ashok Vihar","rsd",5,37,74,215
+"232","Feb","2005","Ashok Vihar","rsd",4,33,97,234
+"233","Feb","2005","Ashok Vihar","rsd",5,37,61,178
+"234","Mar","2005","Ashok Vihar","rsd",8,54,89,312
+"235","Sep","2005","Ashok Vihar","rsd",6,41,29,53
+"236","Mar","2005","Ashok Vihar","rsd",7,44,59,208
+"237","Mar","2005","Ashok Vihar","rsd",6,38,65,161
+"238","Mar","2005","Ashok Vihar","rsd",6,49,66,245
+"239","Jan","2005","Ashok Vihar","rsd",9,61,61,165
+"240","Jun","2005","Ashok Vihar","rsd",10,65,86,349
+"241","Nov","2005","Ashok Vihar","rsd",10,72,134,388
+"242","Apr","2005","Ashok Vihar","rsd",10,71,77,292
+"243","Apr","2005","Ashok Vihar","rsd",10,66,60,235
+"244","Apr","2005","Ashok Vihar","rsd",11,75,73,245
+"245","Apr","2005","Ashok Vihar","rsd",10,71,82,290
+"246","Apr","2005","Ashok Vihar","rsd",8,50,81,275
+"247","Sep","2005","Ashok Vihar","rsd",8,59,NA,248
+"248","Dec","2005","Ashok Vihar","rsd",10,70,NA,267
+"249","May","2005","Ashok Vihar","rsd",8,56,NA,375
+"250","May","2005","Ashok Vihar","rsd",8,55,NA,296
+"251","May","2005","Ashok Vihar","rsd",8,58,82,319
+"252","Jan","2005","Ashok Vihar","rsd",10,63,137,319
+"253","Jun","2005","Ashok Vihar","rsd",11,69,55,364
+"254","Sep","2005","Ashok Vihar","rsd",10,62,NA,404
+"255","Jun","2005","Ashok Vihar","rsd",9,57,NA,338
+"256","Jun","2005","Ashok Vihar","rsd",8,50,NA,279
+"257","Jun","2005","Ashok Vihar","rsd",8,50,NA,517
+"258","Jun","2005","Ashok Vihar","rsd",8,49,NA,265
+"259","Jan","2005","Ashok Vihar","rsd",8,44,65,NA
+"260","Nov","2005","Ashok Vihar","rsd",5,27,75,NA
+"261","Jul","2005","Ashok Vihar","rsd",8,47,89,292
+"262","Jul","2005","Ashok Vihar","rsd",7,43,135,594
+"263","Jul","2005","Ashok Vihar","rsd",7,40,113,197
+"264","Feb","2005","Ashok Vihar","rsd",6,36,59,136
+"265","May","2005","Ashok Vihar","rsd",8,47,46,170
+"266","Oct","2005","Ashok Vihar","rsd",10,56,104,231
+"267","Aug","2005","Ashok Vihar","rsd",7,41,44,142
+"268","Aug","2005","Ashok Vihar","rsd",7,41,94,146
+"269","Aug","2005","Ashok Vihar","rsd",8,48,103,288
+"270","Aug","2005","Ashok Vihar","rsd",8,52,128,383
+"271","Feb","2005","Ashok Vihar","rsd",7,36,72,211
+"272","Jul","2005","Ashok Vihar","rsd",6,32,50,172
+"273","Sep","2005","Ashok Vihar","rsd",5,22,36,62
+"274","Sep","2005","Ashok Vihar","rsd",8,43,71,152
+"275","Sep","2005","Ashok Vihar","rsd",6,33,54,127
+"276","Apr","2005","Ashok Vihar","rsd",8,41,96,397
+"277","Jul","2005","Ashok Vihar","rsd",8,45,110,370
+"278","Oct","2005","Ashok Vihar","rsd",9,50,121,270
+"279","Oct","2005","Ashok Vihar","rsd",9,50,159,427
+"280","Oct","2005","Ashok Vihar","rsd",10,59,254,653
+"281","Oct","2005","Ashok Vihar","rsd",10,63,246,557
+"282","Jan","2005","BSZ Marg","rsd",8,74,126,346
+"283","Feb","2005","BSZ Marg","rsd",8,77,212,344
+"284","Mar","2005","BSZ Marg","rsd",6,48,243,371
+"285","Apr","2005","BSZ Marg","rsd",8,62,204,302
+"286","May","2005","BSZ Marg","rsd",5,45,118,225
+"287","Jul","2005","BSZ Marg","rsd",7,60,57,187
+"288","Aug","2005","BSZ Marg","rsd",7,58,111,378
+"289","Sep","2005","BSZ Marg","rsd",8,61,113,390
+"290","Oct","2005","BSZ Marg","rsd",7,78,103,399
+"291","Nov","2005","BSZ Marg","rsd",5,57,106,286
+"292","Dec","2005","BSZ Marg","rsd",6,53,81,164
+"293","Jul","2005","BSZ Marg","rsd",9,69,78,206
+"294","Jul","2005","BSZ Marg","rsd",10,75,73,250
+"295","Jul","2005","BSZ Marg","rsd",8,81,114,288
+"296","Jul","2005","BSZ Marg","rsd",7,80,61,242
+"297","Jul","2005","BSZ Marg","rsd",9,65,72,222
+"298","Jul","2005","BSZ Marg","rsd",8,89,110,342
+"299","Jul","2005","BSZ Marg","rsd",7,67,81,353
+"300","Jul","2005","BSZ Marg","rsd",6,66,105,431
+"301","Jul","2005","BSZ Marg","rsd",6,58,185,924
+"302","Jul","2005","BSZ Marg","rsd",5,57,145,745
+"303","Jul","2005","BSZ Marg","rsd",5,61,118,457
+"304","Jul","2005","BSZ Marg","rsd",7,62,98,347
+"305","Jul","2005","BSZ Marg","rsd",7,66,114,300
+"306","Jul","2005","BSZ Marg","rsd",11,62,92,314
+"307","Jul","2005","BSZ Marg","rsd",8,66,123,297
+"308","Jul","2005","BSZ Marg","rsd",8,64,138,362
+"309","Jul","2005","BSZ Marg","rsd",7,71,79,292
+"310","Jul","2005","BSZ Marg","rsd",6,66,109,328
+"311","Jul","2005","BSZ Marg","rsd",5,62,160,277
+"312","Jan","2005","BSZ Marg","rsd",7,68,119,339
+"313","Feb","2005","BSZ Marg","rsd",8,70,148,282
+"314","Mar","2005","BSZ Marg","rsd",10,84,211,334
+"315","Apr","2005","BSZ Marg","rsd",9,86,233,434
+"316","May","2005","BSZ Marg","rsd",7,83,237,428
+"317","Jun","2005","BSZ Marg","rsd",6,81,156,302
+"318","Jul","2005","BSZ Marg","rsd",7,72,102,439
+"319","Aug","2005","BSZ Marg","rsd",8,77,136,283
+"320","Sep","2005","BSZ Marg","rsd",8,89,148,300
+"321","Oct","2005","BSZ Marg","rsd",6,78,201,351
+"322","Nov","2005","BSZ Marg","rsd",6,93,165,506
+"323","Dec","2005","BSZ Marg","rsd",5,83,156,483
+"324","Aug","2005","BSZ Marg","rsd",5,72,155,463
+"325","Aug","2005","BSZ Marg","rsd",5,80,217,489
+"326","Aug","2005","BSZ Marg","rsd",5,74,135,400
+"327","Aug","2005","BSZ Marg","rsd",9,86,149,290
+"328","Aug","2005","BSZ Marg","rsd",7,73,144,316
+"329","Aug","2005","BSZ Marg","rsd",7,77,115,390
+"330","Aug","2005","BSZ Marg","rsd",9,77,163,368
+"331","Aug","2005","BSZ Marg","rsd",9,86,101,220
+"332","Aug","2005","BSZ Marg","rsd",9,67,92,389
+"333","Aug","2005","BSZ Marg","rsd",9,81,153,364
+"334","Aug","2005","BSZ Marg","rsd",7,59,137,350
+"335","Aug","2005","BSZ Marg","rsd",7,60,276,385
+"336","Aug","2005","BSZ Marg","rsd",7,71,235,567
+"337","Aug","2005","BSZ Marg","rsd",7,60,197,439
+"338","Aug","2005","BSZ Marg","rsd",7,64,276,410
+"339","Aug","2005","BSZ Marg","rsd",6,52,192,493
+"340","Aug","2005","BSZ Marg","rsd",6,55,176,387
+"341","Aug","2005","BSZ Marg","rsd",6,49,148,406
+"342","Aug","2005","BSZ Marg","rsd",6,56,180,449
+"343","Jan","2005","BSZ Marg","rsd",6,61,152,506
+"344","Feb","2005","BSZ Marg","rsd",7,76,159,450
+"345","Mar","2005","BSZ Marg","rsd",7,74,130,426
+"346","Apr","2005","BSZ Marg","rsd",11,75,156,428
+"347","May","2005","BSZ Marg","rsd",10,74,100,407
+"348","Jun","2005","BSZ Marg","rsd",11,67,152,511
+"349","Jul","2005","BSZ Marg","rsd",15,82,192,497
+"350","Aug","2005","BSZ Marg","rsd",14,69,146,424
+"351","Nov","2005","DCE","rsd",12.3,28.2,NA,NA
+"352","Dec","2005","DCE","rsd",4.8,16.8,NA,NA
+"353","Jun","2005","DCE","rsd",8.5,15.9,NA,NA
+"354","Jun","2005","DCE","rsd",NA,25.5,NA,NA
+"355","Jun","2005","DCE","rsd",11.8,22.2,NA,NA
+"356","Jun","2005","DCE","rsd",16.7,25,NA,NA
+"357","Jun","2005","DCE","rsd",17.5,32.8,NA,NA
+"358","Jun","2005","DCE","rsd",11.5,NA,NA,NA
+"359","Jun","2005","DCE","rsd",7.9,30.1,NA,NA
+"360","Jun","2005","DCE","rsd",6.3,17.7,NA,NA
+"361","Jun","2005","DCE","rsd",NA,26.8,NA,NA
+"362","Jun","2005","DCE","rsd",NA,22.3,NA,NA
+"363","Jun","2005","DCE","rsd",NA,22.5,NA,NA
+"364","Jun","2005","DCE","rsd",7.7,18.9,NA,NA
+"365","Jun","2005","DCE","rsd",NA,18.8,NA,NA
+"366","Jun","2005","DCE","rsd",NA,16.8,NA,NA
+"367","Jun","2005","DCE","rsd",NA,15.3,NA,NA
+"368","Jun","2005","DCE","rsd",NA,17.5,NA,NA
+"369","Jun","2005","DCE","rsd",7.7,13.6,NA,NA
+"370","Jan","2005","DCE","rsd",5.4,13.1,NA,NA
+"371","Feb","2005","DCE","rsd",NA,36,NA,NA
+"372","Mar","2005","DCE","rsd",NA,29.9,NA,NA
+"373","Apr","2005","DCE","rsd",NA,23,NA,NA
+"374","May","2005","DCE","rsd",5.1,29.1,NA,NA
+"375","Jun","2005","DCE","rsd",NA,13,NA,NA
+"376","Jul","2005","DCE","rsd",NA,33.3,NA,NA
+"377","May","2005","Janakpuri","rsd",8,39,93,216
+"378","Oct","2005","Janakpuri","rsd",8,31,152,234
+"379","Jan","2005","Janakpuri","rsd",10,40,119,234
+"380","Jan","2005","Janakpuri","rsd",8,36,77,179
+"381","Jan","2005","Janakpuri","rsd",8,50,128,240
+"382","Mar","2005","Janakpuri","rsd",9,53,82,207
+"383","Aug","2005","Janakpuri","rsd",9,54,57,174
+"384","Nov","2005","Janakpuri","rsd",9,50,78,332
+"385","Feb","2005","Janakpuri","rsd",11,53,112,220
+"386","Feb","2005","Janakpuri","rsd",11,47,45,135
+"387","Feb","2005","Janakpuri","rsd",10,54,76,242
+"388","Feb","2005","Janakpuri","rsd",10,47,127,285
+"389","Jul","2005","Janakpuri","rsd",10,46,188,641
+"390","Nov","2005","Janakpuri","rsd",11,57,123,207
+"391","Mar","2005","Janakpuri","rsd",9,47,227,278
+"392","Mar","2005","Janakpuri","rsd",11,50,170,311
+"393","Mar","2005","Janakpuri","rsd",11,58,83,175
+"394","Mar","2005","Janakpuri","rsd",13,55,142,230
+"395","May","2005","Janakpuri","rsd",10,53,153,288
+"396","Aug","2005","Janakpuri","rsd",9,48,316,582
+"397","Apr","2005","Janakpuri","rsd",12,49,197,NA
+"398","Apr","2005","Janakpuri","rsd",9,55,NA,260
+"399","Mar","2005","Janakpuri","rsd",11,46,84,232
+"400","Jun","2005","Janakpuri","rsd",10,54,163,372
+"401","Nov","2005","Janakpuri","rsd",9,44,136,262
+"402","May","2005","Janakpuri","rsd",12,51,66,196
+"403","May","2005","Janakpuri","rsd",12,45,90,161
+"404","May","2005","Janakpuri","rsd",8,46,79,298
+"405","May","2005","Janakpuri","rsd",10,40,61,144
+"406","Mar","2005","Janakpuri","rsd",10,41,175,575
+"407","Aug","2005","Janakpuri","rsd",9,42,191,572
+"408","Jun","2005","Janakpuri","rsd",11,36,140,345
+"409","Jun","2005","Janakpuri","rsd",9,39,136,265
+"410","Jun","2005","Janakpuri","rsd",7,40,146,256
+"411","Jun","2005","Janakpuri","rsd",8,45,77,275
+"412","Jun","2005","Janakpuri","rsd",8,39,117,177
+"413","May","2005","Janakpuri","rsd",11,35,202,328
+"414","Aug","2005","Janakpuri","rsd",9,47,108,173
+"415","Apr","2005","Janakpuri","rsd",12,56,83,232
+"416","Sep","2005","Janakpuri","rsd",9,46,112,306
+"417","Dec","2005","Janakpuri","rsd",10,40,148,427
+"418","Aug","2005","Janakpuri","rsd",12,55,51,239
+"419","Aug","2005","Janakpuri","rsd",12,52,87,368
+"420","Aug","2005","Janakpuri","rsd",11,52,163,403
+"421","Jan","2005","Janakpuri","rsd",11,46,107,325
+"422","Jun","2005","Janakpuri","rsd",10,51,163,235
+"423","Sep","2005","Janakpuri","rsd",9,40,96,237
+"424","Sep","2005","Janakpuri","rsd",11,44,86,198
+"425","Sep","2005","Janakpuri","rsd",10,39,63,150
+"426","Sep","2005","Janakpuri","rsd",9,41,71,118
+"427","Sep","2005","Janakpuri","rsd",8,27,90,521
+"428","Mar","2005","Janakpuri","rsd",12,55,116,233
+"429","Jun","2005","Janakpuri","rsd",10,59,80,288
+"430","Oct","2005","Janakpuri","rsd",13,60,109,236
+"431","Oct","2005","Janakpuri","rsd",12,62,96,NA
+"432","Oct","2005","Janakpuri","rsd",11,54,92,145
+"433","Oct","2005","Janakpuri","rsd",13,56,117,355
+"434","Jul","2005","N.Y. School","rsd",NA,69,192,287
+"435","Aug","2005","N.Y. School","rsd",NA,85.3,250,376
+"436","Nov","2005","N.Y. School","rsd",NA,78.1,219,346
+"437","Dec","2005","N.Y. School","rsd",NA,82.7,223,356
+"438","Jan","2005","N.Y. School","rsd",7.3,79.6,221,356
+"439","Jan","2005","N.Y. School","rsd",5.3,40.8,130,178
+"440","Jan","2005","N.Y. School","rsd",6.6,63.6,93,178
+"441","Jan","2005","N.Y. School","rsd",3.1,70.7,113,190
+"442","Jan","2005","N.Y. School","rsd",2.4,76.6,138,240
+"443","Feb","2005","N.Y. School","rsd",5.5,94.8,174,262
+"444","Nov","2005","N.Y. School","rsd",2.4,83.8,169,264
+"445","Dec","2005","N.Y. School","rsd",2.8,77.8,104,212
+"446","Feb","2005","N.Y. School","rsd",NA,77.3,99,263
+"447","Feb","2005","N.Y. School","rsd",NA,64.2,113,232
+"448","Feb","2005","N.Y. School","rsd",NA,84.6,109,235
+"449","Feb","2005","N.Y. School","rsd",NA,76.2,103,222
+"450","Nov","2005","N.Y. School","rsd",NA,53.2,76,149
+"451","Dec","2005","N.Y. School","rsd",NA,53.3,116,198
+"452","Mar","2005","N.Y. School","rsd",3.7,22.2,138,255
+"453","Mar","2005","N.Y. School","rsd",7.3,26.5,166,286
+"454","Mar","2005","N.Y. School","rsd",3.4,38.2,63,119
+"455","Mar","2005","N.Y. School","rsd",9.3,60.8,81,167
+"456","Mar","2005","N.Y. School","rsd",12.4,32.9,101,313
+"457","Mar","2005","N.Y. School","rsd",NA,32.3,68,196
+"458","Mar","2005","N.Y. School","rsd",5.6,34.1,94,388
+"459","Apr","2005","N.Y. School","rsd",5.3,32.6,68,255
+"460","Oct","2005","N.Y. School","rsd",9.2,42.3,82,287
+"461","May","2005","N.Y. School","rsd",2.6,61.5,187,580
+"462","May","2005","N.Y. School","rsd",6.3,40.7,123,357
+"463","May","2005","N.Y. School","rsd",6.2,81.1,130,402
+"464","May","2005","N.Y. School","rsd",12.4,60.9,130,382
+"465","Nov","2005","N.Y. School","rsd",4.9,26.6,NA,NA
+"466","Dec","2005","N.Y. School","rsd",NA,50.3,96,143
+"467","Jul","2005","N.Y. School","rsd",NA,43.9,36,82
+"468","Jul","2005","N.Y. School","rsd",2.4,24.5,33,72
+"469","Jul","2005","N.Y. School","rsd",2.6,19.9,42,73
+"470","Jul","2005","N.Y. School","rsd",NA,24.9,117,258
+"471","Jul","2005","N.Y. School","rsd",6.3,25.2,74,215
+"472","Jul","2005","N.Y. School","rsd",8,29.8,55,103
+"473","Jul","2005","N.Y. School","rsd",13.5,47.2,76,149
+"474","Feb","2005","N.Y. School","rsd",3,31.4,40,135
+"475","Mar","2005","N.Y. School","rsd",2.4,28.3,53,134
+"476","Sep","2005","N.Y. School","rsd",NA,24.8,64,229
+"477","Oct","2005","N.Y. School","rsd",NA,22.4,77,270
+"478","Aug","2005","N.Y. School","rsd",NA,23,54,143
+"479","Aug","2005","N.Y. School","rsd",NA,22.3,32,159
+"480","Aug","2005","N.Y. School","rsd",NA,21.2,50,289
+"481","Aug","2005","N.Y. School","rsd",NA,26.6,55,329
+"482","Feb","2005","N.Y. School","rsd",6.9,29.3,109,329
+"483","Mar","2005","N.Y. School","rsd",4.8,31.2,84,256
+"484","Jun","2005","N.Y. School","rsd",6.3,25.5,74,176
+"485","Jul","2005","N.Y. School","rsd",NA,23,33,137
+"486","Sep","2005","N.Y. School","rsd",2.5,20.6,38,94
+"487","Sep","2005","N.Y. School","rsd",8.7,19.3,26,62
+"488","Sep","2005","N.Y. School","rsd",4.3,31.5,63,229
+"489","Sep","2005","N.Y. School","rsd",NA,26.2,53,209
+"490","Apr","2005","N.Y. School","rsd",3.2,50.7,115,328
+"491","May","2005","N.Y. School","rsd",2.9,50.9,115,419
+"492","Oct","2005","N.Y. School","rsd",4.1,50.9,139,339
+"493","Nov","2005","N.Y. School","rsd",5.4,43,93,291
+"494","Oct","2005","N.Y. School","rsd",3.5,82.1,170,401
+"495","Oct","2005","N.Y. School","rsd",3.4,60.2,140,349
+"496","Oct","2005","N.Y. School","rsd",6.4,79.2,216,536
+"497","Oct","2005","N.Y. School","rsd",9,66.3,164,465
+"498","Mar","2005","N.Y. School","rsd",4.9,44,94,240
+"499","Apr","2005","N.Y. School","rsd",4.3,61,170,394
+"500","Nov","2005","N.Y. School","rsd",15.8,99.4,198,538
+"501","Dec","2005","N.Y. School","rsd",9.4,77.3,134,451
+"502","Nov","2005","N.Y. School","rsd",5.6,52.4,173,398
+"503","Nov","2005","N.Y. School","rsd",7.4,58.4,131,390
+"504","Nov","2005","N.Y. School","rsd",9.2,96.6,245,543
+"505","Nov","2005","N.Y. School","rsd",8,78.7,221,515
+"506","Feb","2005","N.Y. School","rsd",8.9,77.2,241,527
+"507","Mar","2005","N.Y. School","rsd",11,74.5,192,472
+"508","Jun","2005","N.Y. School","rsd",7.4,97.4,288,571
+"509","Jul","2005","N.Y. School","rsd",7.4,86.7,286,574
+"510","Dec","2005","N.Y. School","rsd",NA,90.7,210,517
+"511","Dec","2005","N.Y. School","rsd",3.7,95,319,599
+"512","Dec","2005","N.Y. School","rsd",2.6,117.2,502,835
+"513","Dec","2005","N.Y. School","rsd",4.4,98.8,353,630
+"514","Apr","2005","Nizamuddin","rsd",11,44,150,554
+"515","Jul","2005","Nizamuddin","rsd",7,36,104,297
+"516","Dec","2005","Nizamuddin","rsd",7,31,190,307
+"517","Jan","2005","Nizamuddin","rsd",7,29,104,228
+"518","Jan","2005","Nizamuddin","rsd",8,31,105,507
+"519","Jan","2005","Nizamuddin","rsd",6,31,104,274
+"520","Feb","2005","Nizamuddin","rsd",7,48,90,295
+"521","Jul","2005","Nizamuddin","rsd",6,43,63,130
+"522","Oct","2005","Nizamuddin","rsd",6,42,62,238
+"523","Feb","2005","Nizamuddin","rsd",7,51,66,214
+"524","Feb","2005","Nizamuddin","rsd",9,52,119,292
+"525","Feb","2005","Nizamuddin","rsd",7,59,112,235
+"526","Jan","2005","Nizamuddin","rsd",10,25,100,207
+"527","Apr","2005","Nizamuddin","rsd",8,36,126,266
+"528","Oct","2005","Nizamuddin","rsd",10,53,84,170
+"529","Mar","2005","Nizamuddin","rsd",10,51,93,364
+"530","Mar","2005","Nizamuddin","rsd",9,51,71,245
+"531","Mar","2005","Nizamuddin","rsd",9,34,78,198
+"532","Mar","2005","Nizamuddin","rsd",9,52,76,202
+"533","Apr","2005","Nizamuddin","rsd",10,51,97,190
+"534","Jul","2005","Nizamuddin","rsd",11,49,182,597
+"535","Dec","2005","Nizamuddin","rsd",9,45,146,367
+"536","Apr","2005","Nizamuddin","rsd",10,46,111,432
+"537","Apr","2005","Nizamuddin","rsd",8,42,100,228
+"538","Feb","2005","Nizamuddin","rsd",7,41,75,267
+"539","May","2005","Nizamuddin","rsd",8,31,65,221
+"540","Oct","2005","Nizamuddin","rsd",6,28,71,157
+"541","May","2005","Nizamuddin","rsd",9,45,139,329
+"542","May","2005","Nizamuddin","rsd",8,37,175,353
+"543","May","2005","Nizamuddin","rsd",9,26,108,194
+"544","May","2005","Nizamuddin","rsd",7,25,63,156
+"545","Feb","2005","Nizamuddin","rsd",8,48,103,221
+"546","Jul","2005","Nizamuddin","rsd",8,51,90,197
+"547","Oct","2005","Nizamuddin","rsd",9,44,53,254
+"548","Jun","2005","Nizamuddin","rsd",8,41,96,318
+"549","Jun","2005","Nizamuddin","rsd",9,41,91,235
+"550","Jun","2005","Nizamuddin","rsd",9,47,86,216
+"551","Jun","2005","Nizamuddin","rsd",8,39,53,223
+"552","Apr","2005","Nizamuddin","rsd",9,37,82,153
+"553","Jul","2005","Nizamuddin","rsd",9,47,53,111
+"554","Dec","2005","Nizamuddin","rsd",11,43,37,97
+"555","Jul","2005","Nizamuddin","rsd",9,38,50,99
+"556","Jul","2005","Nizamuddin","rsd",10,44,66,140
+"557","Jul","2005","Nizamuddin","rsd",10,44,83,128
+"558","Jul","2005","Nizamuddin","rsd",9,36,63,155
+"559","Mar","2005","Nizamuddin","rsd",10,54,60,106
+"560","Aug","2005","Nizamuddin","rsd",11,52,50,208
+"561","Nov","2005","Nizamuddin","rsd",11,48,70,222
+"562","Aug","2005","Nizamuddin","rsd",9,54,82,257
+"563","Aug","2005","Nizamuddin","rsd",11,58,73,149
+"564","Aug","2005","Nizamuddin","rsd",12,57,106,260
+"565","Aug","2005","Nizamuddin","rsd",11,46,90,215
+"566","May","2005","Nizamuddin","rsd",9,39,68,157
+"567","Aug","2005","Nizamuddin","rsd",9,37,52,162
+"568","Sep","2005","Nizamuddin","rsd",10,40,50,151
+"569","Sep","2005","Nizamuddin","rsd",11,50,63,151
+"570","Sep","2005","Nizamuddin","rsd",11,51,104,246
+"571","Sep","2005","Nizamuddin","rsd",9,48,85,240
+"572","May","2005","Nizamuddin","rsd",13,53,116,399
+"573","Oct","2005","Nizamuddin","rsd",11,44,69,221
+"574","Oct","2005","Nizamuddin","rsd",9,43,164,462
+"575","Oct","2005","Nizamuddin","rsd",13,49,138,305
+"576","Oct","2005","Nizamuddin","rsd",12,57,142,354
+"577","Oct","2005","Nizamuddin","rsd",13,50,224,368
+"578","Jun","2005","Siri Fort","rsd",8,35,134,309
+"579","Nov","2005","Siri Fort","rsd",7,38,114,306
+"580","Jan","2005","Siri Fort","rsd",7,36,156,360
+"581","Jan","2005","Siri Fort","rsd",6,28,104,481
+"582","Jan","2005","Siri Fort","rsd",5,21,NA,209
+"583","Jan","2005","Siri Fort","rsd",10,26,NA,305
+"584","Apr","2005","Siri Fort","rsd",11,28,88,265
+"585","Sep","2005","Siri Fort","rsd",10,27,77,218
+"586","Feb","2005","Siri Fort","rsd",9,27,80,215
+"587","Feb","2005","Siri Fort","rsd",13,36,124,259
+"588","Feb","2005","Siri Fort","rsd",13,42,66,307
+"589","Feb","2005","Siri Fort","rsd",8,30,82,306
+"590","Mar","2005","Siri Fort","rsd",14,42,209,708
+"591","Sep","2005","Siri Fort","rsd",7,24,49,213
+"592","Mar","2005","Siri Fort","rsd",9,31,58,226
+"593","Mar","2005","Siri Fort","rsd",10,35,58,285
+"594","Mar","2005","Siri Fort","rsd",6,21,46,194
+"595","Mar","2005","Siri Fort","rsd",9,35,136,338
+"596","Jan","2005","Siri Fort","rsd",8,44,148,302
+"597","Jun","2005","Siri Fort","rsd",9,38,66,293
+"598","Nov","2005","Siri Fort","rsd",12,44,163,571
+"599","Apr","2005","Siri Fort","rsd",9,32,121,343
+"600","Apr","2005","Siri Fort","rsd",7,26,102,253
+"601","Apr","2005","Siri Fort","rsd",9,32,98,281
+"602","Apr","2005","Siri Fort","rsd",9,33,96,290
+"603","Sep","2005","Siri Fort","rsd",9,32,57,244
+"604","Dec","2005","Siri Fort","rsd",8,27,64,239
+"605","May","2005","Siri Fort","rsd",9,36,147,411
+"606","May","2005","Siri Fort","rsd",7,30,79,280
+"607","May","2005","Siri Fort","rsd",7,43,106,407
+"608","Jan","2005","Siri Fort","rsd",10,35,93,416
+"609","Jun","2005","Siri Fort","rsd",10,41,134,581
+"610","Sep","2005","Siri Fort","rsd",8,34,107,373
+"611","Jun","2005","Siri Fort","rsd",9,31,179,366
+"612","Jun","2005","Siri Fort","rsd",9,36,140,411
+"613","Jun","2005","Siri Fort","rsd",10,36,85,317
+"614","Jun","2005","Siri Fort","rsd",7,30,58,184
+"615","Jan","2005","Siri Fort","rsd",7,31,77,239
+"616","Jun","2005","Siri Fort","rsd",6,23,78,158
+"617","Nov","2005","Siri Fort","rsd",7,24,41,64
+"618","Jul","2005","Siri Fort","rsd",5,17,31,87
+"619","Jul","2005","Siri Fort","rsd",9,33,50,290
+"620","Jul","2005","Siri Fort","rsd",13,42,109,515
+"621","Jul","2005","Siri Fort","rsd",9,31,56,180
+"622","Feb","2005","Siri Fort","rsd",4,23,69,NA
+"623","May","2005","Siri Fort","rsd",6,26,41,139
+"624","Oct","2005","Siri Fort","rsd",7,32,61,201
+"625","Aug","2005","Siri Fort","rsd",8,33,58,171
+"626","Aug","2005","Siri Fort","rsd",9,37,45,227
+"627","Aug","2005","Siri Fort","rsd",9,39,108,329
+"628","Aug","2005","Siri Fort","rsd",8,34,75,324
+"629","Feb","2005","Siri Fort","rsd",6,29,89,274
+"630","Jul","2005","Siri Fort","rsd",5,27,45,151
+"631","Sep","2005","Siri Fort","rsd",7,27,56,175
+"632","Sep","2005","Siri Fort","rsd",4,18,56,122
+"633","Sep","2005","Siri Fort","rsd",7,28,71,237
+"634","Apr","2005","Siri Fort","rsd",6,35,51,282
+"635","Jul","2005","Siri Fort","rsd",6,25,79,238
+"636","Oct","2005","Siri Fort","rsd",12,42,145,400
+"637","Oct","2005","Siri Fort","rsd",9,48,201,611
+"638","Oct","2005","Siri Fort","rsd",8,38,148,419
+"639","May","2005","Town Hall","rsd",3.7,104.4,191,428
+"640","Nov","2005","Town Hall","rsd",4.7,120.3,244,536
+"641","Dec","2005","Town Hall","rsd",NA,51.2,281,471
+"642","Jan","2005","Town Hall","rsd",NA,62.3,300,519
+"643","Jan","2005","Town Hall","rsd",NA,128.5,242,489
+"644","Jan","2005","Town Hall","rsd",NA,118.5,223,420
+"645","Jan","2005","Town Hall","rsd",9.7,79.5,115,272
+"646","Jan","2005","Town Hall","rsd",12.2,75.4,126,266
+"647","Feb","2005","Town Hall","rsd",6.9,94.4,154,350
+"648","Aug","2005","Town Hall","rsd",7.4,101.8,185,387
+"649","Sep","2005","Town Hall","rsd",13.8,96.1,126,263
+"650","Feb","2005","Town Hall","rsd",7,79.3,160,381
+"651","Feb","2005","Town Hall","rsd",2.4,74.6,139,345
+"652","Feb","2005","Town Hall","rsd",NA,63.8,136,311
+"653","Feb","2005","Town Hall","rsd",2.4,63.3,57,289
+"654","Jan","2005","Town Hall","rsd",NA,52,125,300
+"655","Feb","2005","Town Hall","rsd",8.2,51.5,93,268
+"656","Sep","2005","Town Hall","rsd",7,58.1,97,269
+"657","Oct","2005","Town Hall","rsd",6.4,46.8,91,182
+"658","Mar","2005","Town Hall","rsd",3,51.3,141,283
+"659","Mar","2005","Town Hall","rsd",8,27.8,179,423
+"660","Mar","2005","Town Hall","rsd",11.8,22.6,179,391
+"661","Mar","2005","Town Hall","rsd",6.6,45.6,71,203
+"662","May","2005","Town Hall","rsd",12.3,55.4,131,328
+"663","Jun","2005","Town Hall","rsd",18.5,90,143,546
+"664","Dec","2005","Town Hall","rsd",16,61.7,125,524
+"665","Apr","2005","Town Hall","rsd",15.2,57.8,141,524
+"666","Apr","2005","Town Hall","rsd",16.7,62,173,754
+"667","Apr","2005","Town Hall","rsd",19.2,96.5,274,909
+"668","Apr","2005","Town Hall","rsd",18.5,100.5,389,619
+"669","Apr","2005","Town Hall","rsd",16,70.5,112,467
+"670","Mar","2005","Town Hall","rsd",9.7,42.8,112,442
+"671","Apr","2005","Town Hall","rsd",10.4,44.7,91,332
+"672","May","2005","Town Hall","rsd",10.4,61.2,110,564
+"673","May","2005","Town Hall","rsd",12,66.2,127,659
+"674","May","2005","Town Hall","rsd",5.7,81.7,130,597
+"675","May","2005","Town Hall","rsd",10.3,79.3,134,599
+"676","May","2005","Town Hall","rsd",NA,58.8,123,617
+"677","May","2005","Town Hall","rsd",NA,52.6,125,685
+"678","Jan","2005","Town Hall","rsd",2.7,43.5,113,511
+"679","Feb","2005","Town Hall","rsd",4.2,37.7,139,816
+"680","Jul","2005","Town Hall","rsd",4.5,53.3,177,817
+"681","Aug","2005","Town Hall","rsd",2.3,45.3,191,834
+"682","Jun","2005","Town Hall","rsd",3.2,47.2,179,710
+"683","Jun","2005","Town Hall","rsd",4,40,154,700
+"684","Jun","2005","Town Hall","rsd",3.3,42.8,139,722
+"685","Jun","2005","Town Hall","rsd",4.7,30.3,106,647
+"686","May","2005","Town Hall","rsd",NA,6.3,43,136
+"687","Jun","2005","Town Hall","rsd",NA,8.7,35,73
+"688","Dec","2005","Town Hall","rsd",NA,39.8,62,150
+"689","Jul","2005","Town Hall","rsd",NA,45.8,44,131
+"690","Jul","2005","Town Hall","rsd",NA,43.2,59,493
+"691","Jul","2005","Town Hall","rsd",NA,44,88,639
+"692","Jul","2005","Town Hall","rsd",8.5,31.8,48,203
+"693","Jul","2005","Town Hall","rsd",2.9,36.5,37,187
+"694","Feb","2005","Town Hall","rsd",NA,31,43,213
+"695","Mar","2005","Town Hall","rsd",3.4,30.9,35,225
+"696","Sep","2005","Town Hall","rsd",NA,27.5,51,403
+"697","Oct","2005","Town Hall","rsd",NA,26.7,49,432
+"698","Aug","2005","Town Hall","rsd",5.1,35.7,68,317
+"699","Aug","2005","Town Hall","rsd",3.6,32.2,66,312
+"700","Aug","2005","Town Hall","rsd",3,36.2,79,488
+"701","Aug","2005","Town Hall","rsd",NA,26,69,466
+"702","Jul","2005","Town Hall","rsd",12.1,37.7,45,228
+"703","Aug","2005","Town Hall","rsd",7.3,43.5,63,260
+"704","Sep","2005","Town Hall","rsd",NA,23.4,46,164
+"705","Sep","2005","Town Hall","rsd",NA,19.6,45,147
+"706","Sep","2005","Town Hall","rsd",8.3,44,94,326
+"707","Sep","2005","Town Hall","rsd",5.9,28.7,45,187
+"708","Sep","2005","Town Hall","rsd",4.2,31.4,78,413
+"709","Sep","2005","Town Hall","rsd",6.1,33.9,75,441
+"710","Apr","2005","Town Hall","rsd",5.7,56,152,769
+"711","May","2005","Town Hall","rsd",9.9,49.9,123,632
+"712","Oct","2005","Town Hall","rsd",9.6,78.7,158,676
+"713","Nov","2005","Town Hall","rsd",9,57.4,149,539
+"714","Oct","2005","Town Hall","rsd",16.8,109.4,264,835
+"715","Oct","2005","Town Hall","rsd",12.6,81.9,185,637
+"716","Oct","2005","Town Hall","rsd",13.5,117,383,939
+"717","Oct","2005","Town Hall","rsd",11,85.7,289,892
+"718","Aug","2005","Town Hall","rsd",16.4,76.7,308,856
+"719","Sep","2005","Town Hall","rsd",12.2,70.8,266,737
+"720","Nov","2005","Town Hall","rsd",6.4,53.9,136,584
+"721","Nov","2005","Town Hall","rsd",8,48.4,151,622
+"722","Nov","2005","Town Hall","rsd",15.4,110.6,277,777
+"723","Nov","2005","Town Hall","rsd",21.2,96.2,268,730
+"724","Nov","2005","Town Hall","rsd",29.7,119.1,359,825
+"725","Nov","2005","Town Hall","rsd",22,84.2,212,588
+"726","Jun","2005","Town Hall","rsd",22.9,116.4,405,923
+"727","Jul","2005","Town Hall","rsd",22.1,114.2,440,965
+"728","Dec","2005","Town Hall","rsd",9,89.3,220,642
+"729","Dec","2005","Town Hall","rsd",9.3,110.2,205,736
+"730","Dec","2005","Town Hall","rsd",8.4,146,625,1100
+"731","Dec","2005","Town Hall","rsd",9.5,108.1,508,872
+"732","Dec","2005","Town Hall","rsd",21,157.5,485,1054
+"733","Dec","2005","Town Hall","rsd",17,152.5,578,1136

@@ -1,0 +1,737 @@
+"","mn","yr","st","typ","SO2","NO2","PM10","SPM"
+"1","Apr","2011","Pritampura","rsd",4,38,109,NA
+"2","Jul","2011","Pritampura","rsd",4,44,331,NA
+"3","Dec","2011","Pritampura","rsd",5,52,193,NA
+"4","Jan","2011","Pritampura","rsd",5,43,264,NA
+"5","Jan","2011","Pritampura","rsd",5,41,225,NA
+"6","Jan","2011","Pritampura","rsd",4,46,195,NA
+"7","Jan","2011","Pritampura","rsd",4,44,196,NA
+"8","Apr","2011","Pritampura","rsd",4,36,292,NA
+"9","Sep","2011","Pritampura","rsd",4,36,166,NA
+"10","Feb","2011","Pritampura","rsd",4,33,150,NA
+"11","Feb","2011","Pritampura","rsd",4,34,251,NA
+"12","Feb","2011","Pritampura","rsd",4,41,291,NA
+"13","Jan","2011","Pritampura","rsd",4,33,156,NA
+"14","Jul","2011","Pritampura","rsd",4,48,114,NA
+"15","Oct","2011","Pritampura","rsd",4,35,147,NA
+"16","Mar","2011","Pritampura","rsd",4,41,127,NA
+"17","Mar","2011","Pritampura","rsd",4,51,254,NA
+"18","Mar","2011","Pritampura","rsd",4,54,314,NA
+"19","Mar","2011","Pritampura","rsd",4,52,206,NA
+"20","Jan","2011","Pritampura","rsd",4,39,215,NA
+"21","Jun","2011","Pritampura","rsd",4,48,251,NA
+"22","Nov","2011","Pritampura","rsd",4,48,343,NA
+"23","Apr","2011","Pritampura","rsd",4,36,164,NA
+"24","Apr","2011","Pritampura","rsd",4,44,208,NA
+"25","Apr","2011","Pritampura","rsd",4,38,276,NA
+"26","Mar","2011","Pritampura","rsd",4,38,296,NA
+"27","Jun","2011","Pritampura","rsd",4,36,209,NA
+"28","Nov","2011","Pritampura","rsd",4,35,220,NA
+"29","May","2011","Pritampura","rsd",4,39,NA,NA
+"30","May","2011","Pritampura","rsd",4,40,257,NA
+"31","May","2011","Pritampura","rsd",4,38,265,NA
+"32","May","2011","Pritampura","rsd",4,38,160,NA
+"33","Mar","2011","Pritampura","rsd",4,35,167,NA
+"34","Aug","2011","Pritampura","rsd",4,37,156,NA
+"35","Jun","2011","Pritampura","rsd",4,34,182,NA
+"36","Jun","2011","Pritampura","rsd",4,36,416,NA
+"37","Jun","2011","Pritampura","rsd",4,36,128,NA
+"38","Jun","2011","Pritampura","rsd",4,32,121,NA
+"39","Jun","2011","Pritampura","rsd",4,35,146,NA
+"40","May","2011","Pritampura","rsd",4,31,203,NA
+"41","Aug","2011","Pritampura","rsd",4,42,122,NA
+"42","Jul","2011","Pritampura","rsd",4,37,135,NA
+"43","Jul","2011","Pritampura","rsd",4,38,252,NA
+"44","Jul","2011","Pritampura","rsd",4,32,167,NA
+"45","Jul","2011","Pritampura","rsd",4,33,180,NA
+"46","Mar","2011","Pritampura","rsd",4,35,93,NA
+"47","Aug","2011","Pritampura","rsd",4,35,110,NA
+"48","Nov","2011","Pritampura","rsd",4,45,98,NA
+"49","Aug","2011","Pritampura","rsd",4,35,75,NA
+"50","Aug","2011","Pritampura","rsd",4,35,140,NA
+"51","Aug","2011","Pritampura","rsd",4,37,185,NA
+"52","Feb","2011","Pritampura","rsd",4,36,140,NA
+"53","Jul","2011","Pritampura","rsd",4,33,177,NA
+"54","Dec","2011","Pritampura","rsd",4,35,122,NA
+"55","Sep","2011","Pritampura","rsd",4,35,107,NA
+"56","Sep","2011","Pritampura","rsd",4,41,55,NA
+"57","Sep","2011","Pritampura","rsd",4,43,47,NA
+"58","Apr","2011","Pritampura","rsd",4,45,103,NA
+"59","Oct","2011","Pritampura","rsd",4,47,149,NA
+"60","Oct","2011","Pritampura","rsd",4,42,181,NA
+"61","Oct","2011","Pritampura","rsd",7,34,184,NA
+"62","Oct","2011","Pritampura","rsd",4,48,444,NA
+"63","Oct","2011","Pritampura","rsd",6,42,502,NA
+"64","Jan","2011","Pritampura","rsd",5,58,417,NA
+"65","Apr","2011","Pritampura","rsd",5,55,459,NA
+"66","Nov","2011","Pritampura","rsd",5,40,271,NA
+"67","Nov","2011","Pritampura","rsd",4,47,281,NA
+"68","Nov","2011","Pritampura","rsd",4,52,457,NA
+"69","Nov","2011","Pritampura","rsd",4,47,185,NA
+"70","Nov","2011","Pritampura","rsd",5,39,232,NA
+"71","May","2011","Pritampura","rsd",5,52,248,NA
+"72","Sep","2011","Pritampura","rsd",4,45,296,NA
+"73","Dec","2011","Pritampura","rsd",5,48,281,NA
+"74","Dec","2011","Pritampura","rsd",4,42,463,NA
+"75","Dec","2011","Pritampura","rsd",5,56,245,NA
+"76","Dec","2011","Pritampura","rsd",5,51,277,NA
+"77","May","2011","Siri Fort","rsd",4,53,232,NA
+"78","Oct","2011","Siri Fort","rsd",4,60,326,NA
+"79","Jan","2011","Siri Fort","rsd",5,62,387,NA
+"80","Jan","2011","Siri Fort","rsd",4,52,259,NA
+"81","Jan","2011","Siri Fort","rsd",5,67,352,NA
+"82","Jan","2011","Siri Fort","rsd",4,66,409,NA
+"83","Feb","2011","Siri Fort","rsd",4,43,168,NA
+"84","Jul","2011","Siri Fort","rsd",4,55,257,NA
+"85","Oct","2011","Siri Fort","rsd",4,52,330,NA
+"86","Feb","2011","Siri Fort","rsd",4,36,76,NA
+"87","Feb","2011","Siri Fort","rsd",4,48,227,NA
+"88","Mar","2011","Siri Fort","rsd",4,29,91,NA
+"89","Aug","2011","Siri Fort","rsd",4,49,164,NA
+"90","Nov","2011","Siri Fort","rsd",4,47,178,NA
+"91","Mar","2011","Siri Fort","rsd",4,43,247,NA
+"92","Mar","2011","Siri Fort","rsd",4,46,180,NA
+"93","Mar","2011","Siri Fort","rsd",4,60,256,NA
+"94","Mar","2011","Siri Fort","rsd",4,52,211,NA
+"95","Apr","2011","Siri Fort","rsd",4,57,150,NA
+"96","Jul","2011","Siri Fort","rsd",4,57,122,NA
+"97","Apr","2011","Siri Fort","rsd",4,52,172,NA
+"98","Apr","2011","Siri Fort","rsd",4,49,149,NA
+"99","Apr","2011","Siri Fort","rsd",5,68,NA,NA
+"100","Apr","2011","Siri Fort","rsd",4,45,NA,NA
+"101","Apr","2011","Siri Fort","rsd",4,41,207,NA
+"102","Sep","2011","Siri Fort","rsd",4,40,NA,NA
+"103","Dec","2011","Siri Fort","rsd",4,48,NA,NA
+"104","May","2011","Siri Fort","rsd",5,52,181,NA
+"105","May","2011","Siri Fort","rsd",4,48,208,NA
+"106","May","2011","Siri Fort","rsd",4,51,222,NA
+"107","Jan","2011","Siri Fort","rsd",4,53,171,NA
+"108","Jun","2011","Siri Fort","rsd",4,49,226,NA
+"109","Sep","2011","Siri Fort","rsd",4,46,295,NA
+"110","Jun","2011","Siri Fort","rsd",4,46,264,NA
+"111","Jun","2011","Siri Fort","rsd",4,48,286,NA
+"112","Jun","2011","Siri Fort","rsd",4,56,371,NA
+"113","Jan","2011","Siri Fort","rsd",4,46,255,NA
+"114","Jun","2011","Siri Fort","rsd",4,41,131,NA
+"115","Nov","2011","Siri Fort","rsd",4,35,150,NA
+"116","Jul","2011","Siri Fort","rsd",4,37,99,NA
+"117","Jul","2011","Siri Fort","rsd",NA,NA,148,NA
+"118","Jul","2011","Siri Fort","rsd",4,46,164,NA
+"119","Jul","2011","Siri Fort","rsd",4,31,98,NA
+"120","Jan","2011","Siri Fort","rsd",4,39,94,NA
+"121","Apr","2011","Siri Fort","rsd",4,29,97,NA
+"122","Sep","2011","Siri Fort","rsd",4,29,60,NA
+"123","Dec","2011","Siri Fort","rsd",4,22,41,NA
+"124","Aug","2011","Siri Fort","rsd",4,44,148,NA
+"125","Aug","2011","Siri Fort","rsd",4,32,87,NA
+"126","Aug","2011","Siri Fort","rsd",4,37,86,NA
+"127","May","2011","Siri Fort","rsd",4,29,64,NA
+"128","Aug","2011","Siri Fort","rsd",4,34,53,NA
+"129","Sep","2011","Siri Fort","rsd",4,34,75,NA
+"130","Sep","2011","Siri Fort","rsd",4,40,99,NA
+"131","Sep","2011","Siri Fort","rsd",4,40,148,NA
+"132","Sep","2011","Siri Fort","rsd",4,42,120,NA
+"133","May","2011","Siri Fort","rsd",4,43,167,NA
+"134","Nov","2011","Siri Fort","rsd",4,42,155,NA
+"135","Oct","2011","Siri Fort","rsd",4,45,134,NA
+"136","Oct","2011","Siri Fort","rsd",10,75,292,NA
+"137","Oct","2011","Siri Fort","rsd",10,78,435,NA
+"138","Oct","2011","Siri Fort","rsd",5,42,169,NA
+"139","Feb","2011","Siri Fort","rsd",4,51,298,NA
+"140","Aug","2011","Siri Fort","rsd",5,55,472,NA
+"141","Nov","2011","Siri Fort","rsd",5,51,341,NA
+"142","Nov","2011","Siri Fort","rsd",5,47,344,NA
+"143","Nov","2011","Siri Fort","rsd",5,68,369,NA
+"144","Nov","2011","Siri Fort","rsd",4,48,330,NA
+"145","Jan","2011","Siri Fort","rsd",4,49,315,NA
+"146","Jul","2011","Siri Fort","rsd",4,52,233,NA
+"147","Dec","2011","Siri Fort","rsd",5,54,281,NA
+"148","Dec","2011","Siri Fort","rsd",4,40,252,NA
+"149","Dec","2011","Siri Fort","rsd",5,49,353,NA
+"150","Dec","2011","Siri Fort","rsd",4,51,251,NA
+"151","Dec","2011","Siri Fort","rsd",5,57,405,NA
+"152","Mar","2011","Janakpuri","rsd",4,56,312,NA
+"153","Jun","2011","Janakpuri","rsd",4,52,340,NA
+"154","Nov","2011","Janakpuri","rsd",4,55,405,NA
+"155","Jan","2011","Janakpuri","rsd",4,48,425,NA
+"156","Jan","2011","Janakpuri","rsd",4,55,331,NA
+"157","Mar","2011","Janakpuri","rsd",4,53,360,NA
+"158","Aug","2011","Janakpuri","rsd",4,54,230,NA
+"159","Nov","2011","Janakpuri","rsd",4,61,144,NA
+"160","Feb","2011","Janakpuri","rsd",4,61,116,NA
+"161","Feb","2011","Janakpuri","rsd",4,59,169,NA
+"162","Feb","2011","Janakpuri","rsd",4,52,132,NA
+"163","Apr","2011","Janakpuri","rsd",4,60,72,NA
+"164","Sep","2011","Janakpuri","rsd",4,57,92,NA
+"165","Mar","2011","Janakpuri","rsd",4,59,66,NA
+"166","Mar","2011","Janakpuri","rsd",4,60,165,NA
+"167","Mar","2011","Janakpuri","rsd",4,55,169,NA
+"168","Mar","2011","Janakpuri","rsd",4,55,NA,NA
+"169","Mar","2011","Janakpuri","rsd",4,58,290,NA
+"170","May","2011","Janakpuri","rsd",4,67,200,NA
+"171","Aug","2011","Janakpuri","rsd",4,63,486,NA
+"172","Apr","2011","Janakpuri","rsd",4,60,NA,NA
+"173","Apr","2011","Janakpuri","rsd",4,56,316,NA
+"174","Apr","2011","Janakpuri","rsd",4,54,411,NA
+"175","Feb","2011","Janakpuri","rsd",4,60,314,NA
+"176","May","2011","Janakpuri","rsd",4,59,280,NA
+"177","Oct","2011","Janakpuri","rsd",4,57,325,NA
+"178","May","2011","Janakpuri","rsd",4,60,104,NA
+"179","May","2011","Janakpuri","rsd",4,58,134,NA
+"180","May","2011","Janakpuri","rsd",4,54,274,NA
+"181","May","2011","Janakpuri","rsd",4,60,183,NA
+"182","Feb","2011","Janakpuri","rsd",4,59,267,NA
+"183","Jul","2011","Janakpuri","rsd",4,52,171,NA
+"184","Oct","2011","Janakpuri","rsd",4,49,252,NA
+"185","Jun","2011","Janakpuri","rsd",4,52,297,NA
+"186","Jun","2011","Janakpuri","rsd",4,58,308,NA
+"187","Jun","2011","Janakpuri","rsd",4,54,231,NA
+"188","Jun","2011","Janakpuri","rsd",4,42,320,NA
+"189","Apr","2011","Janakpuri","rsd",4,47,272,NA
+"190","Jul","2011","Janakpuri","rsd",4,44,186,NA
+"191","Dec","2011","Janakpuri","rsd",4,42,171,NA
+"192","Jul","2011","Janakpuri","rsd",4,39,119,NA
+"193","Jul","2011","Janakpuri","rsd",4,44,158,NA
+"194","Jul","2011","Janakpuri","rsd",4,36,116,NA
+"195","Jul","2011","Janakpuri","rsd",4,32,239,NA
+"196","Feb","2011","Janakpuri","rsd",4,44,125,NA
+"197","May","2011","Janakpuri","rsd",4,45,126,NA
+"198","Oct","2011","Janakpuri","rsd",4,43,88,NA
+"199","Aug","2011","Janakpuri","rsd",4,26,136,NA
+"200","Aug","2011","Janakpuri","rsd",4,39,147,NA
+"201","Jan","2011","Janakpuri","rsd",4,45,80,NA
+"202","Jun","2011","Janakpuri","rsd",4,34,94,NA
+"203","Sep","2011","Janakpuri","rsd",4,32,87,NA
+"204","Sep","2011","Janakpuri","rsd",4,46,79,NA
+"205","Sep","2011","Janakpuri","rsd",4,41,73,NA
+"206","Sep","2011","Janakpuri","rsd",4,41,105,NA
+"207","Sep","2011","Janakpuri","rsd",4,41,119,NA
+"208","Mar","2011","Janakpuri","rsd",4,47,154,NA
+"209","Jul","2011","Janakpuri","rsd",4,47,127,NA
+"210","Dec","2011","Janakpuri","rsd",4,43,125,NA
+"211","Oct","2011","Janakpuri","rsd",4,38,109,NA
+"212","Oct","2011","Janakpuri","rsd",4,52,323,NA
+"213","Mar","2011","Janakpuri","rsd",4,44,284,NA
+"214","Sep","2011","Janakpuri","rsd",5,49,338,NA
+"215","Nov","2011","Janakpuri","rsd",4,49,262,NA
+"216","Nov","2011","Janakpuri","rsd",4,27,93,NA
+"217","Nov","2011","Janakpuri","rsd",4,38,185,NA
+"218","Nov","2011","Janakpuri","rsd",4,44,314,NA
+"219","Feb","2011","Janakpuri","rsd",4,41,254,NA
+"220","Aug","2011","Janakpuri","rsd",4,49,188,NA
+"221","Dec","2011","Janakpuri","rsd",4,44,269,NA
+"222","Dec","2011","Janakpuri","rsd",4,45,405,NA
+"223","Dec","2011","Janakpuri","rsd",4,51,211,NA
+"224","Dec","2011","Janakpuri","rsd",4,45,496,NA
+"225","Dec","2011","Janakpuri","rsd",4,43,218,NA
+"226","Apr","2011","Nizamuddin","rsd",4,47,NA,NA
+"227","Jul","2011","Nizamuddin","rsd",4,46,556,NA
+"228","Dec","2011","Nizamuddin","rsd",4,52,357,NA
+"229","Jan","2011","Nizamuddin","rsd",4,63,293,NA
+"230","Jan","2011","Nizamuddin","rsd",4,55,284,NA
+"231","Jan","2011","Nizamuddin","rsd",4,56,252,NA
+"232","Jan","2011","Nizamuddin","rsd",4,52,227,NA
+"233","Apr","2011","Nizamuddin","rsd",4,50,336,NA
+"234","Sep","2011","Nizamuddin","rsd",4,57,280,NA
+"235","Feb","2011","Nizamuddin","rsd",4,58,158,NA
+"236","Feb","2011","Nizamuddin","rsd",5,67,309,NA
+"237","Feb","2011","Nizamuddin","rsd",4,54,179,NA
+"238","Jan","2011","Nizamuddin","rsd",4,53,198,NA
+"239","Jul","2011","Nizamuddin","rsd",4,49,167,NA
+"240","Oct","2011","Nizamuddin","rsd",4,50,102,NA
+"241","Mar","2011","Nizamuddin","rsd",4,52,113,NA
+"242","Mar","2011","Nizamuddin","rsd",4,55,146,NA
+"243","Mar","2011","Nizamuddin","rsd",4,49,152,NA
+"244","Mar","2011","Nizamuddin","rsd",4,53,117,NA
+"245","Jan","2011","Nizamuddin","rsd",4,47,129,NA
+"246","Jun","2011","Nizamuddin","rsd",4,58,134,NA
+"247","Nov","2011","Nizamuddin","rsd",4,59,160,NA
+"248","Apr","2011","Nizamuddin","rsd",4,58,236,NA
+"249","Apr","2011","Nizamuddin","rsd",5,60,218,NA
+"250","Apr","2011","Nizamuddin","rsd",4,38,190,NA
+"251","Mar","2011","Nizamuddin","rsd",4,54,244,NA
+"252","Jun","2011","Nizamuddin","rsd",4,48,204,NA
+"253","Nov","2011","Nizamuddin","rsd",4,50,198,NA
+"254","May","2011","Nizamuddin","rsd",5,50,206,NA
+"255","May","2011","Nizamuddin","rsd",4,50,206,NA
+"256","May","2011","Nizamuddin","rsd",4,51,308,NA
+"257","May","2011","Nizamuddin","rsd",4,56,202,NA
+"258","Mar","2011","Nizamuddin","rsd",4,58,203,NA
+"259","Aug","2011","Nizamuddin","rsd",4,55,157,NA
+"260","Jun","2011","Nizamuddin","rsd",4,50,166,NA
+"261","Jun","2011","Nizamuddin","rsd",4,54,153,NA
+"262","Jun","2011","Nizamuddin","rsd",4,50,237,NA
+"263","Jun","2011","Nizamuddin","rsd",4,46,133,NA
+"264","Jun","2011","Nizamuddin","rsd",4,41,130,NA
+"265","May","2011","Nizamuddin","rsd",4,44,129,NA
+"266","Aug","2011","Nizamuddin","rsd",4,35,97,NA
+"267","Jul","2011","Nizamuddin","rsd",4,35,79,NA
+"268","Jul","2011","Nizamuddin","rsd",4,42,81,NA
+"269","Jul","2011","Nizamuddin","rsd",4,47,106,NA
+"270","Mar","2011","Nizamuddin","rsd",4,36,93,NA
+"271","Aug","2011","Nizamuddin","rsd",4,34,73,NA
+"272","Nov","2011","Nizamuddin","rsd",4,25,75,NA
+"273","Aug","2011","Nizamuddin","rsd",4,22,58,NA
+"274","Aug","2011","Nizamuddin","rsd",4,35,135,NA
+"275","Feb","2011","Nizamuddin","rsd",4,31,54,NA
+"276","Jul","2011","Nizamuddin","rsd",4,35,108,NA
+"277","Dec","2011","Nizamuddin","rsd",4,34,70,NA
+"278","Sep","2011","Nizamuddin","rsd",4,34,75,NA
+"279","Sep","2011","Nizamuddin","rsd",4,36,80,NA
+"280","Sep","2011","Nizamuddin","rsd",4,37,80,NA
+"281","Apr","2011","Nizamuddin","rsd",4,45,110,NA
+"282","Oct","2011","Nizamuddin","rsd",4,47,162,NA
+"283","Oct","2011","Nizamuddin","rsd",5,44,164,NA
+"284","Oct","2011","Nizamuddin","rsd",4,46,220,NA
+"285","Oct","2011","Nizamuddin","rsd",4,45,300,NA
+"286","Oct","2011","Nizamuddin","rsd",4,46,151,NA
+"287","Jan","2011","Nizamuddin","rsd",5,50,210,NA
+"288","Apr","2011","Nizamuddin","rsd",5,65,365,NA
+"289","Nov","2011","Nizamuddin","rsd",4,43,196,NA
+"290","Nov","2011","Nizamuddin","rsd",5,51,244,NA
+"291","Nov","2011","Nizamuddin","rsd",4,41,250,NA
+"292","Nov","2011","Nizamuddin","rsd",5,46,255,NA
+"293","Nov","2011","Nizamuddin","rsd",4,43,249,NA
+"294","May","2011","Nizamuddin","rsd",4,38,170,NA
+"295","Sep","2011","Nizamuddin","rsd",4,41,266,NA
+"296","Dec","2011","Nizamuddin","rsd",4,32,184,NA
+"297","Dec","2011","Nizamuddin","rsd",4,42,474,NA
+"298","Dec","2011","Nizamuddin","rsd",5,55,451,NA
+"299","May","2011","Shahzada Bagh","ind",4,48,260,NA
+"300","Oct","2011","Shahzada Bagh","ind",5,66,267,NA
+"301","Jan","2011","Shahzada Bagh","ind",5,57,511,NA
+"302","Jan","2011","Shahzada Bagh","ind",6,69,301,NA
+"303","Jan","2011","Shahzada Bagh","ind",4,43,306,NA
+"304","Jan","2011","Shahzada Bagh","ind",5,53,452,NA
+"305","Feb","2011","Shahzada Bagh","ind",5,49,330,NA
+"306","Jul","2011","Shahzada Bagh","ind",6,54,370,NA
+"307","Oct","2011","Shahzada Bagh","ind",4,60,344,NA
+"308","Feb","2011","Shahzada Bagh","ind",4,40,83,NA
+"309","Feb","2011","Shahzada Bagh","ind",4,46,NA,NA
+"310","Mar","2011","Shahzada Bagh","ind",4,42,NA,NA
+"311","Aug","2011","Shahzada Bagh","ind",5,56,174,NA
+"312","Nov","2011","Shahzada Bagh","ind",5,56,254,NA
+"313","Mar","2011","Shahzada Bagh","ind",5,65,233,NA
+"314","Mar","2011","Shahzada Bagh","ind",5,69,180,NA
+"315","Mar","2011","Shahzada Bagh","ind",5,63,247,NA
+"316","Mar","2011","Shahzada Bagh","ind",5,69,275,NA
+"317","Apr","2011","Shahzada Bagh","ind",6,72,339,NA
+"318","Jul","2011","Shahzada Bagh","ind",NA,NA,312,NA
+"319","Apr","2011","Shahzada Bagh","ind",5,60,331,NA
+"320","Apr","2011","Shahzada Bagh","ind",5,57,281,NA
+"321","Apr","2011","Shahzada Bagh","ind",5,56,364,NA
+"322","Apr","2011","Shahzada Bagh","ind",5,51,394,NA
+"323","Apr","2011","Shahzada Bagh","ind",4,48,279,NA
+"324","Sep","2011","Shahzada Bagh","ind",5,74,323,NA
+"325","Dec","2011","Shahzada Bagh","ind",5,74,335,NA
+"326","May","2011","Shahzada Bagh","ind",4,55,301,NA
+"327","May","2011","Shahzada Bagh","ind",6,76,228,NA
+"328","May","2011","Shahzada Bagh","ind",4,58,203,NA
+"329","Jan","2011","Shahzada Bagh","ind",5,68,139,NA
+"330","Jun","2011","Shahzada Bagh","ind",6,65,280,NA
+"331","Sep","2011","Shahzada Bagh","ind",5,66,169,NA
+"332","Jun","2011","Shahzada Bagh","ind",5,57,191,NA
+"333","Jun","2011","Shahzada Bagh","ind",5,61,151,NA
+"334","Jun","2011","Shahzada Bagh","ind",4,70,153,NA
+"335","Jun","2011","Shahzada Bagh","ind",4,37,161,NA
+"336","Jan","2011","Shahzada Bagh","ind",5,67,232,NA
+"337","Jun","2011","Shahzada Bagh","ind",5,64,159,NA
+"338","Nov","2011","Shahzada Bagh","ind",5,43,162,NA
+"339","Jul","2011","Shahzada Bagh","ind",5,55,141,NA
+"340","Jul","2011","Shahzada Bagh","ind",4,57,136,NA
+"341","Jul","2011","Shahzada Bagh","ind",6,70,203,NA
+"342","Jul","2011","Shahzada Bagh","ind",6,63,134,NA
+"343","Apr","2011","Shahzada Bagh","ind",4,39,157,NA
+"344","Sep","2011","Shahzada Bagh","ind",4,49,89,NA
+"345","Dec","2011","Shahzada Bagh","ind",4,34,73,NA
+"346","Aug","2011","Shahzada Bagh","ind",5,53,98,NA
+"347","Aug","2011","Shahzada Bagh","ind",6,54,172,NA
+"348","Aug","2011","Shahzada Bagh","ind",5,53,122,NA
+"349","May","2011","Shahzada Bagh","ind",5,47,71,NA
+"350","Aug","2011","Shahzada Bagh","ind",4,49,88,NA
+"351","Sep","2011","Shahzada Bagh","ind",5,50,143,NA
+"352","Sep","2011","Shahzada Bagh","ind",4,57,119,NA
+"353","Sep","2011","Shahzada Bagh","ind",6,67,126,NA
+"354","Sep","2011","Shahzada Bagh","ind",5,56,148,NA
+"355","May","2011","Shahzada Bagh","ind",5,55,163,NA
+"356","Oct","2011","Shahzada Bagh","ind",4,53,304,NA
+"357","Oct","2011","Shahzada Bagh","ind",6,58,301,NA
+"358","Oct","2011","Shahzada Bagh","ind",6,60,355,NA
+"359","Feb","2011","Shahzada Bagh","ind",5,50,411,NA
+"360","Aug","2011","Shahzada Bagh","ind",6,46,478,NA
+"361","Nov","2011","Shahzada Bagh","ind",7,50,438,NA
+"362","Nov","2011","Shahzada Bagh","ind",6,59,285,NA
+"363","Nov","2011","Shahzada Bagh","ind",6,50,362,NA
+"364","Nov","2011","Shahzada Bagh","ind",5,52,392,NA
+"365","Jan","2011","Shahzada Bagh","ind",5,46,529,NA
+"366","Jul","2011","Shahzada Bagh","ind",5,52,303,NA
+"367","Dec","2011","Shahzada Bagh","ind",4,48,465,NA
+"368","Dec","2011","Shahzada Bagh","ind",4,47,519,NA
+"369","Dec","2011","Shahzada Bagh","ind",5,53,251,NA
+"370","Dec","2011","Shahzada Bagh","ind",5,58,289,NA
+"371","Dec","2011","Shahzada Bagh","ind",4,58,351,NA
+"372","Mar","2011","Shahadra","ind",4,52,417,NA
+"373","Jun","2011","Shahadra","ind",5,55,273,NA
+"374","Nov","2011","Shahadra","ind",5,49,365,NA
+"375","Jan","2011","Shahadra","ind",4,54,375,NA
+"376","Jan","2011","Shahadra","ind",5,42,331,NA
+"377","Jan","2011","Shahadra","ind",5,55,384,NA
+"378","Jan","2011","Shahadra","ind",6,53,417,NA
+"379","Mar","2011","Shahadra","ind",5,66,404,NA
+"380","Aug","2011","Shahadra","ind",4,56,229,NA
+"381","Nov","2011","Shahadra","ind",5,47,202,NA
+"382","Feb","2011","Shahadra","ind",5,61,248,NA
+"383","Feb","2011","Shahadra","ind",4,60,272,NA
+"384","Feb","2011","Shahadra","ind",NA,NA,272,NA
+"385","Apr","2011","Shahadra","ind",5,52,158,NA
+"386","Sep","2011","Shahadra","ind",5,51,276,NA
+"387","Mar","2011","Shahadra","ind",4,51,205,NA
+"388","Mar","2011","Shahadra","ind",NA,NA,374,NA
+"389","Mar","2011","Shahadra","ind",5,60,387,NA
+"390","Mar","2011","Shahadra","ind",4,63,245,NA
+"391","Mar","2011","Shahadra","ind",5,70,212,NA
+"392","May","2011","Shahadra","ind",5,61,272,NA
+"393","Aug","2011","Shahadra","ind",4,61,142,NA
+"394","Apr","2011","Shahadra","ind",5,62,409,NA
+"395","Apr","2011","Shahadra","ind",5,59,271,NA
+"396","Apr","2011","Shahadra","ind",4,58,273,NA
+"397","Feb","2011","Shahadra","ind",4,58,202,NA
+"398","May","2011","Shahadra","ind",4,48,192,NA
+"399","Oct","2011","Shahadra","ind",5,57,299,NA
+"400","May","2011","Shahadra","ind",5,62,278,NA
+"401","May","2011","Shahadra","ind",4,59,221,NA
+"402","May","2011","Shahadra","ind",5,56,210,NA
+"403","May","2011","Shahadra","ind",4,40,157,NA
+"404","Feb","2011","Shahadra","ind",6,70,252,NA
+"405","Jul","2011","Shahadra","ind",5,61,213,NA
+"406","Oct","2011","Shahadra","ind",4,46,141,NA
+"407","Jun","2011","Shahadra","ind",5,61,110,NA
+"408","Jun","2011","Shahadra","ind",5,54,171,NA
+"409","Jun","2011","Shahadra","ind",4,57,177,NA
+"410","Jun","2011","Shahadra","ind",5,58,107,NA
+"411","Apr","2011","Shahadra","ind",5,61,223,NA
+"412","Jul","2011","Shahadra","ind",5,57,132,NA
+"413","Dec","2011","Shahadra","ind",5,57,217,NA
+"414","Jul","2011","Shahadra","ind",4,45,78,NA
+"415","Jul","2011","Shahadra","ind",4,60,133,NA
+"416","Jul","2011","Shahadra","ind",5,58,136,NA
+"417","Jul","2011","Shahadra","ind",4,37,114,NA
+"418","Feb","2011","Shahadra","ind",4,45,97,NA
+"419","May","2011","Shahadra","ind",4,49,129,NA
+"420","Oct","2011","Shahadra","ind",4,35,140,NA
+"421","Aug","2011","Shahadra","ind",4,42,91,NA
+"422","Aug","2011","Shahadra","ind",4,54,51,NA
+"423","Aug","2011","Shahadra","ind",4,42,178,NA
+"424","Jan","2011","Shahadra","ind",5,51,155,NA
+"425","Jun","2011","Shahadra","ind",4,36,135,NA
+"426","Sep","2011","Shahadra","ind",4,48,89,NA
+"427","Sep","2011","Shahadra","ind",4,44,109,NA
+"428","Sep","2011","Shahadra","ind",4,49,97,NA
+"429","Sep","2011","Shahadra","ind",4,52,87,NA
+"430","Mar","2011","Shahadra","ind",5,61,158,NA
+"431","Jul","2011","Shahadra","ind",4,58,227,NA
+"432","Dec","2011","Shahadra","ind",5,53,NA,NA
+"433","Oct","2011","Shahadra","ind",5,58,349,NA
+"434","Oct","2011","Shahadra","ind",6,59,486,NA
+"435","Oct","2011","Shahadra","ind",6,67,193,NA
+"436","Mar","2011","Shahadra","ind",5,50,351,NA
+"437","Sep","2011","Shahadra","ind",5,43,386,NA
+"438","Nov","2011","Shahadra","ind",5,46,305,NA
+"439","Nov","2011","Shahadra","ind",5,53,356,NA
+"440","Nov","2011","Shahadra","ind",6,47,312,NA
+"441","Nov","2011","Shahadra","ind",5,52,411,NA
+"442","Feb","2011","Shahadra","ind",6,65,371,NA
+"443","Aug","2011","Shahadra","ind",5,57,247,NA
+"444","Dec","2011","Shahadra","ind",6,58,234,NA
+"445","Dec","2011","Shahadra","ind",5,52,462,NA
+"446","Dec","2011","Shahadra","ind",5,55,417,NA
+"447","Dec","2011","Shahadra","ind",7,65,356,NA
+"448","Dec","2011","Shahadra","ind",4,55,373,NA
+"449","Apr","2011","N.Y. School","rsd",2,38,144,NA
+"450","May","2011","N.Y. School","rsd",2,53,190,NA
+"451","Nov","2011","N.Y. School","rsd",5,77,279,NA
+"452","Dec","2011","N.Y. School","rsd",6,93,432,NA
+"453","Jan","2011","N.Y. School","rsd",9,70,420,NA
+"454","Jan","2011","N.Y. School","rsd",12,67,177,NA
+"455","Jan","2011","N.Y. School","rsd",7,93,151,NA
+"456","Jan","2011","N.Y. School","rsd",13,104,210,NA
+"457","Feb","2011","N.Y. School","rsd",4,78,229,NA
+"458","Feb","2011","N.Y. School","rsd",3,79,99,NA
+"459","Feb","2011","N.Y. School","rsd",2,79,140,NA
+"460","Feb","2011","N.Y. School","rsd",3,103,203,NA
+"461","Feb","2011","N.Y. School","rsd",6,100,318,NA
+"462","Feb","2011","N.Y. School","rsd",4,76,90,NA
+"463","Feb","2011","N.Y. School","rsd",7,71,100,NA
+"464","Feb","2011","N.Y. School","rsd",3,50,63,NA
+"465","Mar","2011","N.Y. School","rsd",2,101,151,NA
+"466","Mar","2011","N.Y. School","rsd",2,85,129,NA
+"467","Mar","2011","N.Y. School","rsd",4,87,172,NA
+"468","Mar","2011","N.Y. School","rsd",3,82,156,NA
+"469","Mar","2011","N.Y. School","rsd",5,88,149,NA
+"470","Mar","2011","N.Y. School","rsd",6,78,193,NA
+"471","Mar","2011","N.Y. School","rsd",6,88,171,NA
+"472","Mar","2011","N.Y. School","rsd",3,77,199,NA
+"473","Apr","2011","N.Y. School","rsd",2,83,174,NA
+"474","Apr","2011","N.Y. School","rsd",2,87,147,NA
+"475","Apr","2011","N.Y. School","rsd",2,56,152,NA
+"476","Apr","2011","N.Y. School","rsd",3,84,131,NA
+"477","Apr","2011","N.Y. School","rsd",3,87,176,NA
+"478","Apr","2011","N.Y. School","rsd",2,100,237,NA
+"479","Apr","2011","N.Y. School","rsd",2,83,400,NA
+"480","Apr","2011","N.Y. School","rsd",2,91,386,NA
+"481","May","2011","N.Y. School","rsd",3,75,192,NA
+"482","May","2011","N.Y. School","rsd",3,76,126,NA
+"483","May","2011","N.Y. School","rsd",2,42,110,NA
+"484","May","2011","N.Y. School","rsd",2,26,164,NA
+"485","May","2011","N.Y. School","rsd",2,27,48,NA
+"486","May","2011","N.Y. School","rsd",2,73,157,NA
+"487","May","2011","N.Y. School","rsd",3,73,192,NA
+"488","May","2011","N.Y. School","rsd",4,51,99,NA
+"489","Jul","2011","N.Y. School","rsd",2,47,101,NA
+"490","Aug","2011","N.Y. School","rsd",2,41,118,NA
+"491","Sep","2011","N.Y. School","rsd",2,42,186,NA
+"492","Jun","2011","N.Y. School","rsd",2,43,59,NA
+"493","Jun","2011","N.Y. School","rsd",2,41,85,NA
+"494","Jun","2011","N.Y. School","rsd",2,49,66,NA
+"495","Jun","2011","N.Y. School","rsd",2,33,46,NA
+"496","Jun","2011","N.Y. School","rsd",2,46,43,NA
+"497","May","2011","N.Y. School","rsd",2,54,64,NA
+"498","Jun","2011","N.Y. School","rsd",2,55,51,NA
+"499","Jul","2011","N.Y. School","rsd",2,40,53,NA
+"500","Jul","2011","N.Y. School","rsd",2,52,77,NA
+"501","Jul","2011","N.Y. School","rsd",2,35,71,NA
+"502","Jul","2011","N.Y. School","rsd",2,46,74,NA
+"503","Jul","2011","N.Y. School","rsd",2,59,48,NA
+"504","Jul","2011","N.Y. School","rsd",2,51,34,NA
+"505","Sep","2011","N.Y. School","rsd",2,45,45,NA
+"506","Oct","2011","N.Y. School","rsd",2,63,27,NA
+"507","Aug","2011","N.Y. School","rsd",2,45,77,NA
+"508","Aug","2011","N.Y. School","rsd",2,51,67,NA
+"509","Aug","2011","N.Y. School","rsd",2,62,121,NA
+"510","Aug","2011","N.Y. School","rsd",3,62,56,NA
+"511","Aug","2011","N.Y. School","rsd",2,61,54,NA
+"512","Aug","2011","N.Y. School","rsd",2,55,62,NA
+"513","Jan","2011","N.Y. School","rsd",2,43,51,NA
+"514","Feb","2011","N.Y. School","rsd",4,29,34,NA
+"515","Jul","2011","N.Y. School","rsd",2,75,65,NA
+"516","Aug","2011","N.Y. School","rsd",5,66,41,NA
+"517","Sep","2011","N.Y. School","rsd",2,54,61,NA
+"518","Sep","2011","N.Y. School","rsd",2,33,56,NA
+"519","Sep","2011","N.Y. School","rsd",2,45,66,NA
+"520","Sep","2011","N.Y. School","rsd",2,35,54,NA
+"521","Mar","2011","N.Y. School","rsd",2,54,72,NA
+"522","Apr","2011","N.Y. School","rsd",2,58,78,NA
+"523","Aug","2011","N.Y. School","rsd",2,55,114,NA
+"524","Sep","2011","N.Y. School","rsd",2,59,99,NA
+"525","Oct","2011","N.Y. School","rsd",2,49,99,NA
+"526","Oct","2011","N.Y. School","rsd",3,114,253,NA
+"527","Oct","2011","N.Y. School","rsd",4,114,283,NA
+"528","Oct","2011","N.Y. School","rsd",3,117,327,NA
+"529","Sep","2011","N.Y. School","rsd",2,100,326,NA
+"530","Oct","2011","N.Y. School","rsd",2,93,269,NA
+"531","Nov","2011","N.Y. School","rsd",2,82,139,NA
+"532","Nov","2011","N.Y. School","rsd",3,131,292,NA
+"533","Nov","2011","N.Y. School","rsd",3,131,208,NA
+"534","Nov","2011","N.Y. School","rsd",3,132,257,NA
+"535","Nov","2011","N.Y. School","rsd",4,40,236,NA
+"536","Nov","2011","N.Y. School","rsd",8,95,210,NA
+"537","Dec","2011","N.Y. School","rsd",14,138,296,NA
+"538","Dec","2011","N.Y. School","rsd",19,140,344,NA
+"539","Dec","2011","N.Y. School","rsd",15,128,507,NA
+"540","Dec","2011","N.Y. School","rsd",19,123,324,NA
+"541","Dec","2011","N.Y. School","rsd",25,134,384,NA
+"542","Dec","2011","N.Y. School","rsd",10,132,285,NA
+"543","Dec","2011","N.Y. School","rsd",21,151,644,NA
+"544","Dec","2011","N.Y. School","rsd",10,138,464,NA
+"545","Apr","2011","Town Hall","rsd",2,51,180,NA
+"546","May","2011","Town Hall","rsd",2,54,187,NA
+"547","Nov","2011","Town Hall","rsd",5,68,456,NA
+"548","Dec","2011","Town Hall","rsd",12,99,612,NA
+"549","Jan","2011","Town Hall","rsd",23,94,508,NA
+"550","Jan","2011","Town Hall","rsd",8,72,306,NA
+"551","Jan","2011","Town Hall","rsd",5,81,255,NA
+"552","Jan","2011","Town Hall","rsd",11,107,431,NA
+"553","Jan","2011","Town Hall","rsd",6,98,262,NA
+"554","Feb","2011","Town Hall","rsd",12,100,344,NA
+"555","Mar","2011","Town Hall","rsd",23,112,534,NA
+"556","Aug","2011","Town Hall","rsd",6,87,279,NA
+"557","Sep","2011","Town Hall","rsd",4,87,202,NA
+"558","Oct","2011","Town Hall","rsd",12,74,265,NA
+"559","Feb","2011","Town Hall","rsd",2,77,162,NA
+"560","Feb","2011","Town Hall","rsd",4,80,197,NA
+"561","Jan","2011","Town Hall","rsd",11,75,199,NA
+"562","Feb","2011","Town Hall","rsd",12,95,321,NA
+"563","Mar","2011","Town Hall","rsd",12,82,200,NA
+"564","Aug","2011","Town Hall","rsd",3,56,180,NA
+"565","Sep","2011","Town Hall","rsd",11,83,248,NA
+"566","Mar","2011","Town Hall","rsd",2,108,355,NA
+"567","Mar","2011","Town Hall","rsd",4,94,294,NA
+"568","Mar","2011","Town Hall","rsd",10,99,341,NA
+"569","May","2011","Town Hall","rsd",7,72,291,NA
+"570","Jun","2011","Town Hall","rsd",8,62,288,NA
+"571","Jul","2011","Town Hall","rsd",8,66,215,NA
+"572","Dec","2011","Town Hall","rsd",5,76,331,NA
+"573","Apr","2011","Town Hall","rsd",2,81,375,NA
+"574","Apr","2011","Town Hall","rsd",5,97,337,NA
+"575","Apr","2011","Town Hall","rsd",3,74,259,NA
+"576","Apr","2011","Town Hall","rsd",3,76,233,NA
+"577","Dec","2011","Town Hall","rsd",2,51,361,NA
+"578","May","2011","Town Hall","rsd",2,72,373,NA
+"579","May","2011","Town Hall","rsd",2,54,365,NA
+"580","May","2011","Town Hall","rsd",3,40,355,NA
+"581","May","2011","Town Hall","rsd",4,56,564,NA
+"582","May","2011","Town Hall","rsd",5,50,165,NA
+"583","May","2011","Town Hall","rsd",3,65,364,NA
+"584","May","2011","Town Hall","rsd",7,64,331,NA
+"585","Jan","2011","Town Hall","rsd",2,36,175,NA
+"586","Feb","2011","Town Hall","rsd",8,73,167,NA
+"587","Jul","2011","Town Hall","rsd",2,42,389,NA
+"588","Aug","2011","Town Hall","rsd",2,52,308,NA
+"589","Sep","2011","Town Hall","rsd",3,61,288,NA
+"590","Jun","2011","Town Hall","rsd",3,46,183,NA
+"591","Jun","2011","Town Hall","rsd",2,24,131,NA
+"592","Jun","2011","Town Hall","rsd",4,26,131,NA
+"593","May","2011","Town Hall","rsd",2,64,137,NA
+"594","Jun","2011","Town Hall","rsd",2,51,112,NA
+"595","Jul","2011","Town Hall","rsd",4,40,83,NA
+"596","Jul","2011","Town Hall","rsd",2,24,78,NA
+"597","Jul","2011","Town Hall","rsd",2,22,65,NA
+"598","Jul","2011","Town Hall","rsd",2,17,68,NA
+"599","Jul","2011","Town Hall","rsd",2,66,79,NA
+"600","Jul","2011","Town Hall","rsd",2,56,78,NA
+"601","Feb","2011","Town Hall","rsd",2,35,94,NA
+"602","Mar","2011","Town Hall","rsd",2,27,75,NA
+"603","Apr","2011","Town Hall","rsd",2,72,119,NA
+"604","Sep","2011","Town Hall","rsd",3,38,77,NA
+"605","Oct","2011","Town Hall","rsd",2,38,49,NA
+"606","Aug","2011","Town Hall","rsd",2,71,137,NA
+"607","Aug","2011","Town Hall","rsd",2,72,111,NA
+"608","Aug","2011","Town Hall","rsd",2,57,72,NA
+"609","Jul","2011","Town Hall","rsd",2,82,107,NA
+"610","Aug","2011","Town Hall","rsd",2,59,73,NA
+"611","Sep","2011","Town Hall","rsd",3,65,87,NA
+"612","Sep","2011","Town Hall","rsd",2,71,152,NA
+"613","Sep","2011","Town Hall","rsd",3,37,116,NA
+"614","Sep","2011","Town Hall","rsd",2,32,86,NA
+"615","Sep","2011","Town Hall","rsd",2,39,76,NA
+"616","Sep","2011","Town Hall","rsd",2,45,116,NA
+"617","Dec","2011","Town Hall","rsd",2,78,126,NA
+"618","Oct","2011","Town Hall","rsd",2,73,162,NA
+"619","Oct","2011","Town Hall","rsd",3,73,215,NA
+"620","Oct","2011","Town Hall","rsd",6,113,295,NA
+"621","Oct","2011","Town Hall","rsd",6,117,353,NA
+"622","Oct","2011","Town Hall","rsd",3,119,457,NA
+"623","Oct","2011","Town Hall","rsd",3,112,363,NA
+"624","Oct","2011","Town Hall","rsd",4,108,404,NA
+"625","Feb","2011","Town Hall","rsd",2,110,427,NA
+"626","Mar","2011","Town Hall","rsd",3,141,554,NA
+"627","Apr","2011","Town Hall","rsd",2,138,692,NA
+"628","Nov","2011","Town Hall","rsd",5,128,388,NA
+"629","Nov","2011","Town Hall","rsd",4,118,323,NA
+"630","Nov","2011","Town Hall","rsd",4,119,333,NA
+"631","Nov","2011","Town Hall","rsd",9,68,275,NA
+"632","Nov","2011","Town Hall","rsd",10,64,214,NA
+"633","Jan","2011","Town Hall","rsd",19,132,367,NA
+"634","Feb","2011","Town Hall","rsd",16,129,432,NA
+"635","Mar","2011","Town Hall","rsd",13,117,351,NA
+"636","Dec","2011","Town Hall","rsd",12,112,397,NA
+"637","Dec","2011","Town Hall","rsd",21,112,397,NA
+"638","Dec","2011","Town Hall","rsd",33,75,420,NA
+"639","Dec","2011","Town Hall","rsd",27,114,639,NA
+"640","Dec","2011","Town Hall","rsd",19,113,596,NA
+"641","Apr","2011","Mayapuri","ind",23,52,219,NA
+"642","May","2011","Mayapuri","ind",32,56,271,NA
+"643","Jan","2011","Mayapuri","ind",22,108,252,NA
+"644","Jan","2011","Mayapuri","ind",15,104,212,NA
+"645","Jan","2011","Mayapuri","ind",15,113,383,NA
+"646","Jan","2011","Mayapuri","ind",18,92,324,NA
+"647","Jan","2011","Mayapuri","ind",23,86,533,NA
+"648","Jan","2011","Mayapuri","ind",15,117,493,NA
+"649","Apr","2011","Mayapuri","ind",18,112,344,NA
+"650","May","2011","Mayapuri","ind",20,106,263,NA
+"651","Jun","2011","Mayapuri","ind",10,99,229,NA
+"652","Aug","2011","Mayapuri","ind",21,77,199,NA
+"653","Sep","2011","Mayapuri","ind",18,72,201,NA
+"654","Oct","2011","Mayapuri","ind",22,93,290,NA
+"655","Feb","2011","Mayapuri","ind",10,92,126,NA
+"656","Feb","2011","Mayapuri","ind",12,75,172,NA
+"657","Jan","2011","Mayapuri","ind",19,90,193,NA
+"658","Feb","2011","Mayapuri","ind",15,103,194,NA
+"659","Mar","2011","Mayapuri","ind",6,104,133,NA
+"660","Jul","2011","Mayapuri","ind",11,53,141,NA
+"661","Mar","2011","Mayapuri","ind",7,89,240,NA
+"662","Mar","2011","Mayapuri","ind",7,80,201,NA
+"663","Mar","2011","Mayapuri","ind",9,60,252,NA
+"664","Mar","2011","Mayapuri","ind",11,63,302,NA
+"665","Mar","2011","Mayapuri","ind",9,83,189,NA
+"666","Jun","2011","Mayapuri","ind",10,45,352,NA
+"667","Jul","2011","Mayapuri","ind",11,40,257,NA
+"668","Aug","2011","Mayapuri","ind",11,77,178,NA
+"669","Dec","2011","Mayapuri","ind",10,73,203,NA
+"670","Apr","2011","Mayapuri","ind",4,87,159,NA
+"671","Apr","2011","Mayapuri","ind",2,100,173,NA
+"672","Apr","2011","Mayapuri","ind",3,88,265,NA
+"673","Mar","2011","Mayapuri","ind",2,50,288,NA
+"674","Apr","2011","Mayapuri","ind",2,63,201,NA
+"675","May","2011","Mayapuri","ind",2,61,141,NA
+"676","Jun","2011","Mayapuri","ind",5,56,160,NA
+"677","Jul","2011","Mayapuri","ind",5,62,235,NA
+"678","Nov","2011","Mayapuri","ind",2,55,245,NA
+"679","Dec","2011","Mayapuri","ind",2,56,233,NA
+"680","May","2011","Mayapuri","ind",7,69,221,NA
+"681","Jan","2011","Mayapuri","ind",10,43,165,NA
+"682","Feb","2011","Mayapuri","ind",24,68,190,NA
+"683","Jun","2011","Mayapuri","ind",2,41,69,NA
+"684","Jun","2011","Mayapuri","ind",3,49,93,NA
+"685","Jun","2011","Mayapuri","ind",5,71,108,NA
+"686","Jun","2011","Mayapuri","ind",4,49,134,NA
+"687","Jun","2011","Mayapuri","ind",5,19,78,NA
+"688","Jun","2011","Mayapuri","ind",4,20,109,NA
+"689","Jul","2011","Mayapuri","ind",2,25,88,NA
+"690","Jul","2011","Mayapuri","ind",2,24,70,NA
+"691","Jul","2011","Mayapuri","ind",2,26,62,NA
+"692","Jul","2011","Mayapuri","ind",2,53,136,NA
+"693","Jul","2011","Mayapuri","ind",2,33,112,NA
+"694","Jul","2011","Mayapuri","ind",3,41,108,NA
+"695","Jul","2011","Mayapuri","ind",2,26,59,NA
+"696","Jul","2011","Mayapuri","ind",2,19,70,NA
+"697","Feb","2011","Mayapuri","ind",4,39,104,NA
+"698","Mar","2011","Mayapuri","ind",2,52,83,NA
+"699","Apr","2011","Mayapuri","ind",2,59,95,NA
+"700","Aug","2011","Mayapuri","ind",2,60,82,NA
+"701","Aug","2011","Mayapuri","ind",2,71,104,NA
+"702","Aug","2011","Mayapuri","ind",2,53,50,NA
+"703","Aug","2011","Mayapuri","ind",2,47,128,NA
+"704","Aug","2011","Mayapuri","ind",3,58,138,NA
+"705","Jan","2011","Mayapuri","ind",4,48,65,NA
+"706","Feb","2011","Mayapuri","ind",14,39,54,NA
+"707","Sep","2011","Mayapuri","ind",9,49,124,NA
+"708","Sep","2011","Mayapuri","ind",7,40,103,NA
+"709","Sep","2011","Mayapuri","ind",15,63,78,NA
+"710","Sep","2011","Mayapuri","ind",3,29,124,NA
+"711","Sep","2011","Mayapuri","ind",9,30,126,NA
+"712","Sep","2011","Mayapuri","ind",14,35,124,NA
+"713","Mar","2011","Mayapuri","ind",4,55,233,NA
+"714","Apr","2011","Mayapuri","ind",22,72,167,NA
+"715","Aug","2011","Mayapuri","ind",22,37,256,NA
+"716","Sep","2011","Mayapuri","ind",19,32,231,NA
+"717","Oct","2011","Mayapuri","ind",23,40,220,NA
+"718","Dec","2011","Mayapuri","ind",11,73,253,NA
+"719","Oct","2011","Mayapuri","ind",11,57,271,NA
+"720","Oct","2011","Mayapuri","ind",25,67,220,NA
+"721","Feb","2011","Mayapuri","ind",2,101,298,NA
+"722","Mar","2011","Mayapuri","ind",5,118,400,NA
+"723","Apr","2011","Mayapuri","ind",4,130,600,NA
+"724","Sep","2011","Mayapuri","ind",20,84,493,NA
+"725","Oct","2011","Mayapuri","ind",17,73,487,NA
+"726","Nov","2011","Mayapuri","ind",3,67,292,NA
+"727","Nov","2011","Mayapuri","ind",8,125,426,NA
+"728","Nov","2011","Mayapuri","ind",7,121,414,NA
+"729","Jan","2011","Mayapuri","ind",20,135,590,NA
+"730","Feb","2011","Mayapuri","ind",18,128,530,NA
+"731","Mar","2011","Mayapuri","ind",13,91,405,NA
+"732","Oct","2011","Mayapuri","ind",16,104,184,NA
+"733","Nov","2011","Mayapuri","ind",14,104,296,NA
+"734","Dec","2011","Mayapuri","ind",22,109,476,NA
+"735","Dec","2011","Mayapuri","ind",15,116,501,NA
+"736","Dec","2011","Mayapuri","ind",10,139,484,NA
